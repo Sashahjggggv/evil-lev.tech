@@ -724,7 +724,7 @@ var wpcf7 = {"api":{"root":"https:\/\/lev-development.com.ua\/wp-json\/","namesp
 <script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/custom-anime.js,qver=9.075.pagespeed.ce.dc2IozKHnP.js' id='custom-anime-js-js'></script>
 <script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.inputmask.min.js,qver=9.075.pagespeed.ce.ouyNH2ED9G.js' id='jquery-inputmask-js-js'></script>
 <script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/main.js,qver=9.075.pagespeed.ce.2qS-Jtg9Uf.js' id='main-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/rellax.min.js,qver=9.075.pagespeed.ce.Altah9lSpY.js' id='rellax-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/rellax.min.js?ver=9.075' id='rellax-js-js'></script>
 <script type="text/javascript">
     (function (d, s, u, e, p) {
         p = d.getElementsByTagName(s)[0], e = d.createElement(s), e.async = 1, e.src = u, p.parentNode.insertBefore(e, p);

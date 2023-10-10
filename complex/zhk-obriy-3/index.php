@@ -1915,39 +1915,39 @@ var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
 </a>
 <link rel='stylesheet' id='bootstrap-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/bootstrap.bottom.css,qver=9.075.pagespeed.ce.khZZg8_JzE.css' type='text/css' media='all'/>
 <link rel='stylesheet' id='jquery-ui-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/jquery-ui.min.css,qver=9.075.pagespeed.ce.FOIeqTyTGI.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='bottom-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/style.css,qver=9.075.pagespeed.ce.Ulmt6FodBA.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='theme-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/style.css,qver=9.075.pagespeed.ce.vRoKGaDkwa.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='simplelightbox-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/simplelightbox.css,qver=9.075.pagespeed.ce.U4crov_-c6.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='pannellum-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/pannellum.css,qver=9.075.pagespeed.ce.2UFHEIFjNX.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='wp-block-library-css' href='https://lev-development.com.ua/wp-includes/css/dist/block-library/style.min.css,qver=6.1.1.pagespeed.ce.cdklhkFT8O.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='classic-theme-styles-css' href='https://lev-development.com.ua/wp-includes/css/classic-themes.min.css,qver=1.pagespeed.ce.leiR8o5Eqb.css' type='text/css' media='all'/>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/plugins/contact-form-7/includes/swv/js/index.js,qver=5.7.2.pagespeed.ce.fwc04ijT8a.js' id='swv-js'></script>
+<link rel='stylesheet' id='bottom-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/style.css?ver=9.075' type='text/css' media='all'/>
+<link rel='stylesheet' id='theme-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/style.css?ver=9.075' type='text/css' media='all'/>
+<link rel='stylesheet' id='simplelightbox-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/simplelightbox.css?ver=9.075' type='text/css' media='all'/>
+<link rel='stylesheet' id='pannellum-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/pannellum.css?ver=9.075' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-block-library-css' href='https://lev-development.com.ua/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://lev-development.com.ua/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all'/>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.2' id='swv-js'></script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
 /* <![CDATA[ */
 var wpcf7 = {"api":{"root":"https:\/\/lev-development.com.ua\/wp-json\/","namespace":"contact-form-7\/v1"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/plugins/contact-form-7/includes/js/index.js,qver=5.7.2.pagespeed.ce.9XQ1qSfUIg.js' id='contact-form-7-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-includes/js/jquery/jquery.min.js,qver=3.6.1.pagespeed.ce.F3ODGNYdOU.js' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-includes/js/jquery/jquery-migrate.min.js,qver=3.3.2.pagespeed.ce.ebSVa37EeO.js' id='jquery-migrate-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery-ui.min.js,qver=9.075.pagespeed.ce.YQGF8j0SVn.js' id='jquery-ui-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/swiper.min.js,qver=9.075.pagespeed.ce.isR4iIzkY3.js' id='swiper-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.sumoselect.min.js,qver=9.075.pagespeed.ce.H01wp9hV8e.js' id='sumoselect-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/SmoothScroll.js,qver=9.075.pagespeed.ce.LVxUa3aRy5.js' id='SmoothScroll-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/global.js,qver=9.075.pagespeed.ce.2JWom0ASaK.js' id='global-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/card-parralax.js,qver=9.075.pagespeed.ce.IT2yMdoQ2Q.js' id='card-parralax-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/TweenMax.min.js,qver=9.075.pagespeed.ce.Cn8kfXNATK.js' id='TweenMax-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.lettering.js,qver=9.075.pagespeed.ce.BzioWQ4s9d.js' id='lettering-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/custom-anime.js,qver=9.075.pagespeed.ce.dc2IozKHnP.js' id='custom-anime-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.inputmask.min.js,qver=9.075.pagespeed.ce.ouyNH2ED9G.js' id='jquery-inputmask-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery-ui.min.js?ver=9.075' id='jquery-ui-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/swiper.min.js?ver=9.075' id='swiper-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.sumoselect.min.js?ver=9.075' id='sumoselect-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/SmoothScroll.js?ver=9.075' id='SmoothScroll-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/global.js?ver=9.075' id='global-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/card-parralax.js?ver=9.075' id='card-parralax-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/TweenMax.min.js?ver=9.075' id='TweenMax-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.lettering.js?ver=9.075' id='lettering-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/custom-anime.js?ver=9.075' id='custom-anime-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.inputmask.min.js?ver=9.075' id='jquery-inputmask-js-js'></script>
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCYwk23aIR-N5XTFmojgQRHbj_T6lOOUPE&#038;libraries=geometry%2Cplaces&#038;v=3&#038;language=uk&#038;ver=9.075' id='gm-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/infobox.js,qver=9.075.pagespeed.ce.GI3ux4B4tZ.js' id='infobox-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/markerclusterer.min.js,qver=9.075.pagespeed.ce.9FmIqwklwe.js' id='markerclusterer-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/map.js,qver=9.075.pagespeed.ce.NcFWMRvqqT.js' id='map-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/main.js,qver=9.075.pagespeed.ce.2qS-Jtg9Uf.js' id='main-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/gsap.draggable.min.js,qver=9.075.pagespeed.ce._Edrwvv-Un.js' id='draggable-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/simple-lightbox.min.js,qver=9.075.pagespeed.ce.2310L3-HeS.js' id='simple-lightbox-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/pannellum.js,qver=9.075.pagespeed.ce.C1PXh4XGFr.js' id='pannellum-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/infobox.js?ver=9.075' id='infobox-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/markerclusterer.min.js?ver=9.075' id='markerclusterer-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/map.js?ver=9.075' id='map-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/main.js?ver=9.075' id='main-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/gsap.draggable.min.js?ver=9.075' id='draggable-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/simple-lightbox.min.js?ver=9.075' id='simple-lightbox-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/pannellum.js?ver=9.075' id='pannellum-js-js'></script>
 <script>
     jQuery(function($) {
         if ($('.js-draggable').length) {

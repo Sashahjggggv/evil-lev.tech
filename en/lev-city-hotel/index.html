@@ -54,41 +54,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
     <style>
     html{box-sizing:border-box;-ms-overflow-style:scrollbar}*,::after,::before{box-sizing:inherit}.container{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.container-fluid{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}.no-gutters{margin-right:0;margin-left:0}.no-gutters>.col,.no-gutters>[class*=col-]{padding-right:0;padding-left:0}.col,.col-1,.col-10,.col-11,.col-12,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-auto,.col-lg,.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-auto,.col-md,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-auto,.col-sm,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-auto,.col-xl,.col-xl-1,.col-xl-10,.col-xl-11,.col-xl-12,.col-xl-2,.col-xl-3,.col-xl-4,.col-xl-5,.col-xl-6,.col-xl-7,.col-xl-8,.col-xl-9,.col-xl-auto{position:relative;width:100%;padding-right:15px;padding-left:15px}.col{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:100%}.col-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.col-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.col-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.col-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.col-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.col-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-first{-ms-flex-order:-1;order:-1}.order-last{-ms-flex-order:13;order:13}.order-0{-ms-flex-order:0;order:0}.order-1{-ms-flex-order:1;order:1}.order-2{-ms-flex-order:2;order:2}.order-3{-ms-flex-order:3;order:3}.order-4{-ms-flex-order:4;order:4}.order-5{-ms-flex-order:5;order:5}.order-6{-ms-flex-order:6;order:6}.order-7{-ms-flex-order:7;order:7}.order-8{-ms-flex-order:8;order:8}.order-9{-ms-flex-order:9;order:9}.order-10{-ms-flex-order:10;order:10}.order-11{-ms-flex-order:11;order:11}.order-12{-ms-flex-order:12;order:12}.offset-1{margin-left:8.333333%}.offset-2{margin-left:16.666667%}.offset-3{margin-left:25%}.offset-4{margin-left:33.333333%}.offset-5{margin-left:41.666667%}.offset-6{margin-left:50%}.offset-7{margin-left:58.333333%}.offset-8{margin-left:66.666667%}.offset-9{margin-left:75%}.offset-10{margin-left:83.333333%}.offset-11{margin-left:91.666667%}@media (min-width:576px){.col-sm{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-sm-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:100%}.col-sm-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.col-sm-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.col-sm-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-sm-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-sm-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-sm-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-sm-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.col-sm-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-sm-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-sm-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.col-sm-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.col-sm-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-sm-first{-ms-flex-order:-1;order:-1}.order-sm-last{-ms-flex-order:13;order:13}.order-sm-0{-ms-flex-order:0;order:0}.order-sm-1{-ms-flex-order:1;order:1}.order-sm-2{-ms-flex-order:2;order:2}.order-sm-3{-ms-flex-order:3;order:3}.order-sm-4{-ms-flex-order:4;order:4}.order-sm-5{-ms-flex-order:5;order:5}.order-sm-6{-ms-flex-order:6;order:6}.order-sm-7{-ms-flex-order:7;order:7}.order-sm-8{-ms-flex-order:8;order:8}.order-sm-9{-ms-flex-order:9;order:9}.order-sm-10{-ms-flex-order:10;order:10}.order-sm-11{-ms-flex-order:11;order:11}.order-sm-12{-ms-flex-order:12;order:12}.offset-sm-0{margin-left:0}.offset-sm-1{margin-left:8.333333%}.offset-sm-2{margin-left:16.666667%}.offset-sm-3{margin-left:25%}.offset-sm-4{margin-left:33.333333%}.offset-sm-5{margin-left:41.666667%}.offset-sm-6{margin-left:50%}.offset-sm-7{margin-left:58.333333%}.offset-sm-8{margin-left:66.666667%}.offset-sm-9{margin-left:75%}.offset-sm-10{margin-left:83.333333%}.offset-sm-11{margin-left:91.666667%}}@media (min-width:768px){.col-md{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-md-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:100%}.col-md-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.col-md-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.col-md-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-md-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-md-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-md-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-md-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.col-md-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-md-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-md-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.col-md-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.col-md-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-md-first{-ms-flex-order:-1;order:-1}.order-md-last{-ms-flex-order:13;order:13}.order-md-0{-ms-flex-order:0;order:0}.order-md-1{-ms-flex-order:1;order:1}.order-md-2{-ms-flex-order:2;order:2}.order-md-3{-ms-flex-order:3;order:3}.order-md-4{-ms-flex-order:4;order:4}.order-md-5{-ms-flex-order:5;order:5}.order-md-6{-ms-flex-order:6;order:6}.order-md-7{-ms-flex-order:7;order:7}.order-md-8{-ms-flex-order:8;order:8}.order-md-9{-ms-flex-order:9;order:9}.order-md-10{-ms-flex-order:10;order:10}.order-md-11{-ms-flex-order:11;order:11}.order-md-12{-ms-flex-order:12;order:12}.offset-md-0{margin-left:0}.offset-md-1{margin-left:8.333333%}.offset-md-2{margin-left:16.666667%}.offset-md-3{margin-left:25%}.offset-md-4{margin-left:33.333333%}.offset-md-5{margin-left:41.666667%}.offset-md-6{margin-left:50%}.offset-md-7{margin-left:58.333333%}.offset-md-8{margin-left:66.666667%}.offset-md-9{margin-left:75%}.offset-md-10{margin-left:83.333333%}.offset-md-11{margin-left:91.666667%}}@media (min-width:992px){.col-lg{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-lg-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:100%}.col-lg-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.col-lg-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.col-lg-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-lg-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-lg-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-lg-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-lg-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.col-lg-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-lg-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-lg-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.col-lg-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.col-lg-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-lg-first{-ms-flex-order:-1;order:-1}.order-lg-last{-ms-flex-order:13;order:13}.order-lg-0{-ms-flex-order:0;order:0}.order-lg-1{-ms-flex-order:1;order:1}.order-lg-2{-ms-flex-order:2;order:2}.order-lg-3{-ms-flex-order:3;order:3}.order-lg-4{-ms-flex-order:4;order:4}.order-lg-5{-ms-flex-order:5;order:5}.order-lg-6{-ms-flex-order:6;order:6}.order-lg-7{-ms-flex-order:7;order:7}.order-lg-8{-ms-flex-order:8;order:8}.order-lg-9{-ms-flex-order:9;order:9}.order-lg-10{-ms-flex-order:10;order:10}.order-lg-11{-ms-flex-order:11;order:11}.order-lg-12{-ms-flex-order:12;order:12}.offset-lg-0{margin-left:0}.offset-lg-1{margin-left:8.333333%}.offset-lg-2{margin-left:16.666667%}.offset-lg-3{margin-left:25%}.offset-lg-4{margin-left:33.333333%}.offset-lg-5{margin-left:41.666667%}.offset-lg-6{margin-left:50%}.offset-lg-7{margin-left:58.333333%}.offset-lg-8{margin-left:66.666667%}.offset-lg-9{margin-left:75%}.offset-lg-10{margin-left:83.333333%}.offset-lg-11{margin-left:91.666667%}}@media (min-width:1200px){.col-xl{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-xl-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:100%}.col-xl-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.col-xl-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.col-xl-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-xl-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-xl-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-xl-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-xl-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.col-xl-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-xl-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-xl-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.col-xl-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.col-xl-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-xl-first{-ms-flex-order:-1;order:-1}.order-xl-last{-ms-flex-order:13;order:13}.order-xl-0{-ms-flex-order:0;order:0}.order-xl-1{-ms-flex-order:1;order:1}.order-xl-2{-ms-flex-order:2;order:2}.order-xl-3{-ms-flex-order:3;order:3}.order-xl-4{-ms-flex-order:4;order:4}.order-xl-5{-ms-flex-order:5;order:5}.order-xl-6{-ms-flex-order:6;order:6}.order-xl-7{-ms-flex-order:7;order:7}.order-xl-8{-ms-flex-order:8;order:8}.order-xl-9{-ms-flex-order:9;order:9}.order-xl-10{-ms-flex-order:10;order:10}.order-xl-11{-ms-flex-order:11;order:11}.order-xl-12{-ms-flex-order:12;order:12}.offset-xl-0{margin-left:0}.offset-xl-1{margin-left:8.333333%}.offset-xl-2{margin-left:16.666667%}.offset-xl-3{margin-left:25%}.offset-xl-4{margin-left:33.333333%}.offset-xl-5{margin-left:41.666667%}.offset-xl-6{margin-left:50%}.offset-xl-7{margin-left:58.333333%}.offset-xl-8{margin-left:66.666667%}.offset-xl-9{margin-left:75%}.offset-xl-10{margin-left:83.333333%}.offset-xl-11{margin-left:91.666667%}}.d-none{display:none!important}.d-inline{display:inline!important}.d-inline-block{display:inline-block!important}.d-block{display:block!important}.d-table{display:table!important}.d-table-row{display:table-row!important}.d-table-cell{display:table-cell!important}.d-flex{display:-ms-flexbox!important;display:flex!important}.d-inline-flex{display:-ms-inline-flexbox!important;display:inline-flex!important}@media (min-width:576px){.d-sm-none{display:none!important}.d-sm-inline{display:inline!important}.d-sm-inline-block{display:inline-block!important}.d-sm-block{display:block!important}.d-sm-table{display:table!important}.d-sm-table-row{display:table-row!important}.d-sm-table-cell{display:table-cell!important}.d-sm-flex{display:-ms-flexbox!important;display:flex!important}.d-sm-inline-flex{display:-ms-inline-flexbox!important;display:inline-flex!important}}@media (min-width:768px){.d-md-none{display:none!important}.d-md-inline{display:inline!important}.d-md-inline-block{display:inline-block!important}.d-md-block{display:block!important}.d-md-table{display:table!important}.d-md-table-row{display:table-row!important}.d-md-table-cell{display:table-cell!important}.d-md-flex{display:-ms-flexbox!important;display:flex!important}.d-md-inline-flex{display:-ms-inline-flexbox!important;display:inline-flex!important}}@media (min-width:992px){.d-lg-none{display:none!important}.d-lg-inline{display:inline!important}.d-lg-inline-block{display:inline-block!important}.d-lg-block{display:block!important}.d-lg-table{display:table!important}.d-lg-table-row{display:table-row!important}.d-lg-table-cell{display:table-cell!important}.d-lg-flex{display:-ms-flexbox!important;display:flex!important}.d-lg-inline-flex{display:-ms-inline-flexbox!important;display:inline-flex!important}}@media (min-width:1200px){.d-xl-none{display:none!important}.d-xl-inline{display:inline!important}.d-xl-inline-block{display:inline-block!important}.d-xl-block{display:block!important}.d-xl-table{display:table!important}.d-xl-table-row{display:table-row!important}.d-xl-table-cell{display:table-cell!important}.d-xl-flex{display:-ms-flexbox!important;display:flex!important}.d-xl-inline-flex{display:-ms-inline-flexbox!important;display:inline-flex!important}}.w-100{width:100%!important}
-</style>    <link href="https://evil-lev.tech/wp-content/themes/lev/css/main.css.pagespeed.ce.qzM-IoVV7t.css" rel="stylesheet" type="text/css"/>
+</style>    <link href="https://lev-development.com.ua/wp-content/themes/lev/css/main.css.pagespeed.ce.qzM-IoVV7t.css" rel="stylesheet" type="text/css"/>
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>≡ LEV CITY HOTEL ᐈ Апартаменти бізнес-класу в готелі у Львові</title>
 	<meta name="description" content="LEV CITY HOTEL (Лев Сіті Хотел) від LEV Development - перший мережевий готель у Львові, що працює на вас."/>
-	<link rel="canonical" href="https://evil-lev.tech/lev-city-hotel/"/>
+	<link rel="canonical" href="https://lev-development.com.ua/lev-city-hotel/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ LEV CITY HOTEL ᐈ Апартаменти бізнес-класу в готелі у Львові"/>
 	<meta property="og:description" content="LEV CITY HOTEL (Лев Сіті Хотел) від LEV Development - перший мережевий готель у Львові, що працює на вас."/>
-	<meta property="og:url" content="https://evil-lev.tech/lev-city-hotel/"/>
+	<meta property="og:url" content="https://lev-development.com.ua/lev-city-hotel/"/>
 	<meta property="og:site_name" content="LEV Development"/>
 	<meta property="article:modified_time" content="2023-08-15T19:04:23+00:00"/>
-	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg"/>
+	<meta property="og:image" content="http://lev-development.com.ua/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg"/>
 	<meta property="og:image:width" content="1170"/>
 	<meta property="og:image:height" content="1616"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="≡ LEV CITY HOTEL ᐈ Апартаменти бізнес-класу в готелі у Львові"/>
 	<meta name="twitter:description" content="LEV CITY HOTEL (Лев Сіті Хотел) від LEV Development - перший мережевий готель у Львові, що працює на вас."/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/lev-city-hotel/","url":"https://evil-lev.tech/lev-city-hotel/","name":"≡ LEV CITY HOTEL ᐈ Апартаменти бізнес-класу в готелі у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/lev-city-hotel/#primaryimage"},"image":{"@id":"https://evil-lev.tech/lev-city-hotel/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","datePublished":"2020-01-22T15:05:18+00:00","dateModified":"2023-08-15T19:04:23+00:00","description":"LEV CITY HOTEL (Лев Сіті Хотел) від LEV Development - перший мережевий готель у Львові, що працює на вас.","breadcrumb":{"@id":"https://evil-lev.tech/lev-city-hotel/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/lev-city-hotel/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/lev-city-hotel/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","width":1170,"height":1616},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/lev-city-hotel/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"LEV CITY HOTEL"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://lev-development.com.ua/lev-city-hotel/","url":"https://lev-development.com.ua/lev-city-hotel/","name":"≡ LEV CITY HOTEL ᐈ Апартаменти бізнес-класу в готелі у Львові","isPartOf":{"@id":"https://lev-development.com.ua/#website"},"primaryImageOfPage":{"@id":"https://lev-development.com.ua/lev-city-hotel/#primaryimage"},"image":{"@id":"https://lev-development.com.ua/lev-city-hotel/#primaryimage"},"thumbnailUrl":"https://lev-development.com.ua/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","datePublished":"2020-01-22T15:05:18+00:00","dateModified":"2023-08-15T19:04:23+00:00","description":"LEV CITY HOTEL (Лев Сіті Хотел) від LEV Development - перший мережевий готель у Львові, що працює на вас.","breadcrumb":{"@id":"https://lev-development.com.ua/lev-city-hotel/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://lev-development.com.ua/lev-city-hotel/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://lev-development.com.ua/lev-city-hotel/#primaryimage","url":"https://lev-development.com.ua/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","contentUrl":"https://lev-development.com.ua/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","width":1170,"height":1616},{"@type":"BreadcrumbList","@id":"https://lev-development.com.ua/lev-city-hotel/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://lev-development.com.ua/en/"},{"@type":"ListItem","position":2,"name":"LEV CITY HOTEL"}]},{"@type":"WebSite","@id":"https://lev-development.com.ua/#website","url":"https://lev-development.com.ua/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://lev-development.com.ua/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="https://api.w.org/" href="https://evil-lev.tech/en/wp-json/"/><link rel="alternate" type="application/json" href="https://evil-lev.tech/en/wp-json/wp/v2/pages/3070"/><link rel="alternate" type="application/json+oembed" href="https://evil-lev.tech/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fen%2Flev-city-hotel%2F"/>
-<link rel="alternate" type="text/xml+oembed" href="https://evil-lev.tech/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fen%2Flev-city-hotel%2F&#038;format=xml"/>
-<link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/lev-city-hotel/"/>
-<link rel="alternate" hreflang="uk" href="https://evil-lev.tech/lev-city-hotel/"/>
-<link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/lev-city-hotel/"/>
-<link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
-<link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
-<link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
-<meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
-    <link rel="shortcut icon" href="https://evil-lev.tech/wp-content/themes/lev/img/favicon.ico"/>
+<link rel="https://api.w.org/" href="https://lev-development.com.ua/en/wp-json/"/><link rel="alternate" type="application/json" href="https://lev-development.com.ua/en/wp-json/wp/v2/pages/3070"/><link rel="alternate" type="application/json+oembed" href="https://lev-development.com.ua/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flev-development.com.ua%2Fen%2Flev-city-hotel%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://lev-development.com.ua/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flev-development.com.ua%2Fen%2Flev-city-hotel%2F&#038;format=xml"/>
+<link rel="alternate" hreflang="x-default" href="https://lev-development.com.ua/lev-city-hotel/"/>
+<link rel="alternate" hreflang="uk" href="https://lev-development.com.ua/lev-city-hotel/"/>
+<link rel="alternate" hreflang="en-gb" href="https://lev-development.com.ua/en/lev-city-hotel/"/>
+<link rel="icon" href="https://lev-development.com.ua/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<link rel="icon" href="https://lev-development.com.ua/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
+<link rel="apple-touch-icon" href="https://lev-development.com.ua/wp-content/uploads/2021/12/favicon.svg"/>
+<meta name="msapplication-TileImage" content="https://lev-development.com.ua/wp-content/uploads/2021/12/favicon.svg"/>
+    <link rel="shortcut icon" href="https://lev-development.com.ua/wp-content/themes/lev/img/favicon.ico"/>
 
 </head>
 
@@ -117,59 +117,59 @@
 
     <div id="content-block">
                 <header class="">
-            <a href="https://evil-lev.tech/en" id="logo">
-                <img src="" data-src="https://evil-lev.tech/wp-content/themes/lev/img/lev-logo-white.svg" alt="logo">
+            <a href="https://lev-development.com.ua/en" id="logo">
+                <img src="" data-src="https://lev-development.com.ua/wp-content/themes/lev/img/lev-logo-white.svg" alt="logo">
             </a>
             <div class="h-inner">
                 <nav>
                     <ul>
-                        <li><a class="" href="https://evil-lev.tech/en/proekty/">Projects</a></li><li><a class="" href="https://evil-lev.tech/en/akcziyi/">Promotions</a></li><li><a class="" href="https://evil-lev.tech/en/novyny/">News</a></li><li><a class="" href="https://evil-lev.tech/en/kontakty/">Contacts</a></li>                    </ul>
+                        <li><a class="" href="https://lev-development.com.ua/en/proekty/">Projects</a></li><li><a class="" href="https://lev-development.com.ua/en/akcziyi/">Promotions</a></li><li><a class="" href="https://lev-development.com.ua/en/novyny/">News</a></li><li><a class="" href="https://lev-development.com.ua/en/kontakty/">Contacts</a></li>                    </ul>
 
                     <ul class="full-menu">
                                                         <li>
-                                    <a href="https://evil-lev.tech/en/pro-nas/" class="t-move-wrap ">
+                                    <a href="https://lev-development.com.ua/en/pro-nas/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_001-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">About us</span>
                                     </a>
                                 </li>
                                                         <li>
-                                    <a href="https://evil-lev.tech/en/lev-club/" class="t-move-wrap ">
+                                    <a href="https://lev-development.com.ua/en/lev-club/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_002-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_002-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">LEV Club</span>
                                     </a>
                                 </li>
                                                         <li>
-                                    <a href="https://evil-lev.tech/en/servicehouse/" class="t-move-wrap ">
+                                    <a href="https://lev-development.com.ua/en/servicehouse/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_003-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">ServiceHouse</span>
                                     </a>
                                 </li>
                                                         <li>
-                                    <a href="https://evil-lev.tech/en/levinvest/" class="t-move-wrap ">
+                                    <a href="https://lev-development.com.ua/en/levinvest/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_004-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_004-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">LEV INVEST</span>
                                     </a>
                                 </li>
                                                         <li>
-                                    <a href="https://evil-lev.tech/en/lev-realty/" class="t-move-wrap ">
+                                    <a href="https://lev-development.com.ua/en/lev-realty/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_005-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_005-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">LEV Realty</span>
                                     </a>
                                 </li>
                                                         <li>
-                                    <a href="https://evil-lev.tech/en/lev-liveride/" class="t-move-wrap ">
+                                    <a href="https://lev-development.com.ua/en/lev-liveride/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_006-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_006-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">LEV Live&#038;Ride</span>
                                     </a>
@@ -224,7 +224,7 @@
                             <li><a href="#" class="flatrisbutton" data-flatris-id="1dzoQ0NdPNW83pR">RC HYGGE lux</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="P3XQb0gM1wWzAg1">RC SILENT PARK</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="4Qd7VxYrVeWJpRA">RC PERFECT LIFE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e18Xg6keKxydMQj">RC FEEL HOUSE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="Na9e4xlDjxVBYnA">RC ARTHOUSE park</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="9gEpvWn8y0bP514">RC HYGGE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="krGQj6PPy6AD9My">RC OBRIY 3</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e18Xg6kAKAxydMQ">RC Central Hills</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="vo24Mx379x93yga">RC LIFE STORY</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="mbdRBxrXBD67Z8a">Smart Hill</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e2wa90QM90rXLAN">LEV CITY HOTEL</a></li>                        </ul>
                     </div>
 
-                    <div class="lang" tabindex="0"><span>ENG</span><ul><li><a href='https://evil-lev.tech/lev-city-hotel/'>УКР</a></li></ul></div>                    
+                    <div class="lang" tabindex="0"><span>ENG</span><ul><li><a href='https://lev-development.com.ua/lev-city-hotel/'>УКР</a></li></ul></div>                    
                 </div>
             </div>
 
@@ -335,7 +335,7 @@
                     <div class="project-top-banner">
                         <div class="full-size t-overflow">
                             <div class="img-enter full-size">
-                                <div class="bg-full bg-switch active" data-bg="https://evil-lev.tech/wp-content/uploads/2023/06/lchrb_3-1700x998.jpg"></div>
+                                <div class="bg-full bg-switch active" data-bg="https://lev-development.com.ua/wp-content/uploads/2023/06/lchrb_3-1700x998.jpg"></div>
                                                             </div>
                         </div>
                                                 <div class="cell-view">
@@ -425,7 +425,7 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="image img-enter type-long">
-                            <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2022/02/nomer-309-1-970x414.jpg"></div>
+                            <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2022/02/nomer-309-1-970x414.jpg"></div>
                         </div>
                     </div>
                 </div>
@@ -538,92 +538,92 @@
                         </script>
                         <button class="btn btn-secondary transfer-btn b24-web-form-popup-btn-153"><span>Free shuttle service<span class="ar"></span></span></button>
                     
-                    <div class="map-wrapper" id="map-canvas-1" data-lat="49.847669" data-lng="24.000339" data-zoom="15" data-xs-zoom="14" data-cluster-img="https://evil-lev.tech/wp-content/themes/lev/img/icon-cluster.png" data-image="https://evil-lev.tech/wp-content/themes/lev/img/city-hotel-marker.png" data-image-xs="https://evil-lev.tech/wp-content/themes/lev/img/city-hotel-marker.png" data-home="https://evil-lev.tech/wp-content/themes/lev/" data-gm-key="AIzaSyCYwk23aIR-N5XTFmojgQRHbj_T6lOOUPE"></div>
+                    <div class="map-wrapper" id="map-canvas-1" data-lat="49.847669" data-lng="24.000339" data-zoom="15" data-xs-zoom="14" data-cluster-img="https://lev-development.com.ua/wp-content/themes/lev/img/icon-cluster.png" data-image="https://lev-development.com.ua/wp-content/themes/lev/img/city-hotel-marker.png" data-image-xs="https://lev-development.com.ua/wp-content/themes/lev/img/city-hotel-marker.png" data-home="https://lev-development.com.ua/wp-content/themes/lev/" data-gm-key="AIzaSyCYwk23aIR-N5XTFmojgQRHbj_T6lOOUPE"></div>
                     
 
 
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="6" data-lat="49.8464025" data-lng="24.0027717" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-cafe.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-cafe-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/chiao-bella-310x147.png)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="6" data-lat="49.8464025" data-lng="24.0027717" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-cafe.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-cafe-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/chiao-bella-310x147.png)'></div>
                         <div class='h5 content-line'><b>Ciao Bella</b></div>
                         <div class='text content-line'>вулиця Шевченка, 41</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="1" data-lat="49.8510849" data-lng="23.9877104" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-cafe.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-cafe-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/celentano2-310x207.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="1" data-lat="49.8510849" data-lng="23.9877104" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-cafe.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-cafe-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/celentano2-310x207.jpg)'></div>
                         <div class='h5 content-line'><b>Pizza Celentano Ristorante</b></div>
                         <div class='text content-line'>вулиця Шевченка, 111а</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="1" data-lat="49.8492404" data-lng="23.9996929" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-medical.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-medical-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/med-310x164.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="1" data-lat="49.8492404" data-lng="23.9996929" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-medical.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-medical-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/med-310x164.jpg)'></div>
                         <div class='h5 content-line'><b>Медичний центр Ехомед</b></div>
                         <div class='text content-line'>вулиця Єрошенка, 14</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="4" data-lat="49.8446785" data-lng="24.0158276" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-medical.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-medical-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/likarnia2-310x132.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="4" data-lat="49.8446785" data-lng="24.0158276" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-medical.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-medical-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/likarnia2-310x132.jpg)'></div>
                         <div class='h5 content-line'><b>Комунальна 3-тя міська клінічна лікарня</b></div>
                         <div class='text content-line'>вулиця Якова Раппапорта, 6</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="4" data-lat="49.8457214" data-lng="24.0043302" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-bank.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-bank2.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/privat2-310x139.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="4" data-lat="49.8457214" data-lng="24.0043302" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-bank.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-bank2.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/privat2-310x139.jpg)'></div>
                         <div class='h5 content-line'><b>ПриватБанк</b></div>
                         <div class='text content-line'>вулиця Шевченка, 31</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="2" data-lat="49.8427702" data-lng="24.0009712" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-bank.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-bank2.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/oshchad2-310x163.png)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="2" data-lat="49.8427702" data-lng="24.0009712" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-bank.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-bank2.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/oshchad2-310x163.png)'></div>
                         <div class='h5 content-line'><b>Ощадбанк</b></div>
                         <div class='text content-line'>вулиця Олени Степанівни, 24</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="3" data-lat="49.8479346" data-lng="24.0002092" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-cart.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-cart-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/bankomat2-310x149.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="3" data-lat="49.8479346" data-lng="24.0002092" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-cart.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-cart-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/bankomat2-310x149.jpg)'></div>
                         <div class='h5 content-line'><b>Банкомат Укрсоцбанк</b></div>
                         <div class='text content-line'>Залізничний вокзал</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="3" data-lat="49.8479176" data-lng="24.0067753" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-church.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-church-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/church3-310x136.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="3" data-lat="49.8479176" data-lng="24.0067753" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-church.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-church-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/church3-310x136.jpg)'></div>
                         <div class='h5 content-line'><b>Банкомат Ощадбанк</b></div>
                         <div class='text content-line'>вулиця Золота, 17</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="5" data-lat="49.8460705" data-lng="24.0071531" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-church.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-church-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/church4-310x156.png)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="5" data-lat="49.8460705" data-lng="24.0071531" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-church.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-church-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/church4-310x156.png)'></div>
                         <div class='h5 content-line'><b>Храм Святого Апостола Андрія первозванного ПЦУ</b></div>
                         <div class='text content-line'>вулиця Шевченка 66</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="5" data-lat="49.8429872" data-lng="24.0166436" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-gas.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-gas-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/azs1-e1573746196791-310x139.png)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="5" data-lat="49.8429872" data-lng="24.0166436" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-gas.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-gas-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/azs1-e1573746196791-310x139.png)'></div>
                         <div class='h5 content-line'><b>Храм святої Анни УГКЦ</b></div>
                         <div class='text content-line'>вулиця Городоцька, 32</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="7" data-lat="49.8523408" data-lng="24.0007067" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-gas.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-gas-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/socar-e1573746336995-310x190.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="7" data-lat="49.8523408" data-lng="24.0007067" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-gas.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-gas-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/socar-e1573746336995-310x190.jpg)'></div>
                         <div class='h5 content-line'><b>АЗС Укрнафта</b></div>
                         <div class='text content-line'>вулиця Єрошенка, 17 А</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="7" data-lat="49.8401923" data-lng="23.9990173" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-card.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-card-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/rukav-1-310x160.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="7" data-lat="49.8401923" data-lng="23.9990173" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-card.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-card-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/rukav-1-310x160.jpg)'></div>
                         <div class='h5 content-line'><b>SOCAR</b></div>
                         <div class='text content-line'>вулиця Залізнична, 1А</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="8" data-lat="49.8495792" data-lng="24.0051036" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-card.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-card-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/rukav2-310x139.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="8" data-lat="49.8495792" data-lng="24.0051036" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-card.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-card-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/rukav2-310x139.jpg)'></div>
                         <div class='h5 content-line'><b>Рукавичка</b></div>
                         <div class='text content-line'>вулиця Золота, 30</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="8" data-lat="49.8386586" data-lng="24.0056047" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-park.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-park-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/park-franka-310x135.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="8" data-lat="49.8386586" data-lng="24.0056047" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-park.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-park-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/park-franka-310x135.jpg)'></div>
                         <div class='h5 content-line'><b>Рукавичка</b></div>
                         <div class='text content-line'>вулиця Городоцька, 76</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="9" data-lat="49.8385281" data-lng="24.019009" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-park.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-park-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/park-jura-310x135.png)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="9" data-lat="49.8385281" data-lng="24.019009" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-park.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-park-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/park-jura-310x135.png)'></div>
                         <div class='h5 content-line'><b>Парк ім. Івана Франка</b></div>
                         <div class='text content-line'>вул. Листопадового Чину</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="9" data-lat="49.8385965" data-lng="24.0147942" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-gym.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-gym-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/gym2-310x150.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="9" data-lat="49.8385965" data-lng="24.0147942" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-gym.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-gym-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/gym2-310x150.jpg)'></div>
                         <div class='h5 content-line'><b>Сад собору святого Юра</b></div>
                         <div class='text content-line'>Схил Святоюрської гори, вулиця Листопадового Чину</div>
                         </div>"></a>
-                                        <a class="marker" data-rel="map-canvas-1" data-filter1="1" data-lat="49.8426855" data-lng="23.9973194" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-gym.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-gym-hover.png" data-string="<div class='infobox-style2'>
-                        <div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2019/10/gym3-310x135.jpg)'></div>
+                                        <a class="marker" data-rel="map-canvas-1" data-filter1="1" data-lat="49.8426855" data-lng="23.9973194" data-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-gym.png" data-active-image="https://lev-development.com.ua/wp-content/uploads/2019/09/point-gym-hover.png" data-string="<div class='infobox-style2'>
+                        <div class='bg-image' style='background-image:url(https://lev-development.com.ua/wp-content/uploads/2019/10/gym3-310x135.jpg)'></div>
                         <div class='h5 content-line'><b>фітнес-клуб ФОРЕВЕР</b></div>
                         <div class='text content-line'>вулиця Олени Степанівни, 45</div>
                         </div>"></a>
@@ -753,337 +753,337 @@
                     <div class="swiper-wrapper">
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2020/04/2.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/vDrM7WD7qwU?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2020/04/2.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/vDrM7WD7qwU?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/04/2-625x316.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/04/2-625x316.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">February 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/04/1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/04/2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/04/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/04/4.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/04/1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/04/2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/04/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/04/4.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2020/05/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/rkDt4ofkegA?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2020/05/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/rkDt4ofkegA?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/05/1-625x316.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/05/1-625x316.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">March 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/05/1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/05/2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/05/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/05/4.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/05/1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/05/2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/05/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/05/4.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2020/05/2-1.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2020/05/2-1.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/05/2-1-625x319.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/05/2-1-625x319.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">April 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/05/5.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/05/3-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/05/2-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/05/1-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/05/4-1.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/05/5.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/05/3-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/05/2-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/05/1-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/05/4-1.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2020/06/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/DQwHswk3ybA?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2020/06/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/DQwHswk3ybA?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/06/1-1-625x323.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/06/1-1-625x323.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">May 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/06/3-2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/06/4-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/06/2-1.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/06/3-2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/06/4-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/06/2-1.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2020/07/2-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/6iKf3qwKs98?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2020/07/2-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/6iKf3qwKs98?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/07/2-1-625x323.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/07/2-1-625x323.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">June 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/07/2-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/07/5-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/07/4-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/07/3-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/07/1-1.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/07/2-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/07/5-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/07/4-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/07/3-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/07/1-1.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2020/08/2.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/6jW-CaSujbk?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2020/08/2.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/6jW-CaSujbk?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/08/2-625x323.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/08/2-625x323.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">July 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/08/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/08/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/08/1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/08/5.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/08/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/08/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/08/1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/08/5.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2020/09/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/gqAha3xb0xc?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2020/09/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/gqAha3xb0xc?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/09/1-1-625x323.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/09/1-1-625x323.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">August 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/09/3-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/09/2-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/09/4-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/09/5-1.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/09/3-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/09/2-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/09/4-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/09/5-1.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2020/10/screenshot_2.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/pT1Tf6WuVQs?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2020/10/screenshot_2.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/pT1Tf6WuVQs?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/10/screenshot_2-625x351.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/10/screenshot_2-625x351.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">September 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/10/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/10/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/10/2.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/10/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/10/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/10/2.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2020/11/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/QvodZ1CaGjg?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2020/11/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/QvodZ1CaGjg?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/11/1-625x323.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/11/1-625x323.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">October 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/11/5.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/11/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/11/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/11/2.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/11/5.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/11/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/11/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/11/2.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2020/12/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/QhI1TJSrbJc?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2020/12/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/QhI1TJSrbJc?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/12/1-625x323.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/12/1-625x323.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">November 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/12/5-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/12/4-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/12/3-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/12/2-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/12/1-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/12/5.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/12/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/12/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2020/12/2.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/12/5-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/12/4-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/12/3-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/12/2-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/12/1-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/12/5.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/12/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/12/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2020/12/2.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/01/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/mFmSLuh-gG0?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/01/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/mFmSLuh-gG0?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/01/1-625x323.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/01/1-625x323.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">December 2020</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/01/1-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/01/2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/01/3-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/01/4-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/01/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/01/4.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/01/1-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/01/2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/01/3-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/01/4-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/01/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/01/4.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/02/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/bJaNIfbhfxs?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/02/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/bJaNIfbhfxs?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/02/1-1-625x323.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/02/1-1-625x323.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">January 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/02/1-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/02/2-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/02/1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/02/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/02/4.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/02/1-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/02/2-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/02/1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/02/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/02/4.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/03/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/f0KUVDEXSJ0?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/03/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/f0KUVDEXSJ0?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/03/1-625x323.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/03/1-625x323.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">February 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/03/1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/03/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/03/2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/03/3.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/03/1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/03/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/03/2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/03/3.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/04/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/Vb8WQrh--OU?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/04/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/Vb8WQrh--OU?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/04/1-625x330.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/04/1-625x330.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">March 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/04/2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/04/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/04/3.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/04/2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/04/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/04/3.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/05/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/xyPSy852IJY?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/05/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/xyPSy852IJY?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/05/1-1-625x326.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/05/1-1-625x326.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">April 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/05/1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/05/2-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/05/1-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/05/4-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/05/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/05/2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/05/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/05/3-1.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/05/1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/05/2-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/05/1-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/05/4-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/05/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/05/2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/05/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/05/3-1.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/06/2-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/Da-rBJEPnTI?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/06/2-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/Da-rBJEPnTI?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/06/2-1-625x330.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/06/2-1-625x330.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">May 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/06/3-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/06/2-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/06/1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/06/2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/06/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/06/5.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/06/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/06/4-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/06/5-1.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/06/3-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/06/2-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/06/1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/06/2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/06/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/06/5.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/06/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/06/4-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/06/5-1.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/07/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/WltWVwaihJc?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/07/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/WltWVwaihJc?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/07/1-1-625x330.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/07/1-1-625x330.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">June 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/07/2-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/07/3-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/07/4-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/07/5.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/07/2-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/07/3-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/07/4-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/07/5.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/08/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/xF-eV5-a29E?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/08/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/xF-eV5-a29E?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/08/1-625x330.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/08/1-625x330.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">July 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/08/2-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/08/1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/08/5-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/08/4-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/08/3-1.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/08/2-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/08/1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/08/5-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/08/4-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/08/3-1.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/09/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/H7RlwHXngMI?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/09/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/H7RlwHXngMI?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/09/1-625x330.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/09/1-625x330.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">August 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/09/2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/09/5.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/09/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/09/3.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/09/2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/09/5.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/09/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/09/3.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/10/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/6nldCtfLrJ8?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/10/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/6nldCtfLrJ8?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/10/1-625x313.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/10/1-625x313.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">September 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/10/5.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/10/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/10/1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/10/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/10/2.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/10/5.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/10/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/10/1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/10/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/10/2.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/11/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/6YDXqMAym4I?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/11/1-1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/6YDXqMAym4I?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/11/1-1-625x316.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/11/1-1-625x316.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">October 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/11/2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/11/1-1.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/11/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/11/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/11/5.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/11/2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/11/1-1.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/11/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/11/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/11/5.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2021/11/1-4.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/YMyzB8HBQwY?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2021/11/1-4.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/YMyzB8HBQwY?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/11/1-4-625x319.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/11/1-4-625x319.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">November 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/11/2-3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/11/3-3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/11/5-3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2021/11/4-3.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/11/2-3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/11/3-3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/11/5-3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2021/11/4-3.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2022/01/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/4llP6M1vdKI?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2022/01/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/4llP6M1vdKI?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2022/01/1-625x323.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2022/01/1-625x323.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">December 2021</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/01/2.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/01/3.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/01/4.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/01/5.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/01/2.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/01/3.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/01/4.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/01/5.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4323-scaled.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4323-scaled.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2022/06/img_4323-scaled-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4323-scaled-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">Травень 2022</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4324-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4325-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4326-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4327-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4328-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4323-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4329-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4330-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4331-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/06/img_4332-scaled-1920x1280.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4324-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4325-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4326-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4327-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4328-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4323-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4329-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4330-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4331-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/06/img_4332-scaled-1920x1280.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2022/07/2-scaled.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2022/07/2-scaled.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2022/07/2-scaled-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2022/07/2-scaled-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">June 2022</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/07/1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/07/3-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/07/4-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/07/5-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/07/6-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/07/7-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/07/8-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/07/9-scaled-1920x1280.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/07/1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/07/3-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/07/4-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/07/5-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/07/6-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/07/7-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/07/8-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/07/9-scaled-1920x1280.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2022/08/1-scaled.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2022/08/1-scaled.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2022/08/1-scaled-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2022/08/1-scaled-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">July 2022</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/08/2-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/08/9-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/08/8-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/08/7-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/08/6-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/08/5-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/08/4-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/08/3-scaled-1920x1280.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/08/2-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/08/9-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/08/8-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/08/7-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/08/6-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/08/5-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/08/4-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/08/3-scaled-1920x1280.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2022/10/1-scaled.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2022/10/1-scaled.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2022/10/1-scaled-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2022/10/1-scaled-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">September 2022</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/10/2-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/10/3-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/10/4-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/10/5-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/10/6-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/10/7-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/10/8-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/10/9-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/10/10-scaled-1920x1280.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/10/2-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/10/3-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/10/4-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/10/5-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/10/6-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/10/7-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/10/8-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/10/9-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/10/10-scaled-1920x1280.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2022/11/1-scaled.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2022/11/1-scaled.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2022/11/1-scaled-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2022/11/1-scaled-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">Осtober 2022</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/11/2-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/11/3-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/11/4-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/11/5-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/11/6-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/11/7-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/11/8-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/11/9-scaled-1920x1280.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/11/2-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/11/3-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/11/4-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/11/5-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/11/6-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/11/7-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/11/8-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/11/9-scaled-1920x1280.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2022/12/img_5419-scaled.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5419-scaled.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2022/12/img_5419-scaled-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5419-scaled-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">November 2022</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/12/img_5422-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/12/img_5427-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/12/img_5420-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/12/img_5421-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/12/img_5430-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/12/img_5425-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/12/img_5426-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/12/img_5429-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2022/12/img_5424-scaled-1920x1280.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5422-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5427-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5420-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5421-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5430-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5425-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5426-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5429-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2022/12/img_5424-scaled-1920x1280.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2023/01/1-1-scaled.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2023/01/1-1-scaled.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2023/01/1-1-scaled-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2023/01/1-1-scaled-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">January 2023</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/01/2-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/01/3-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/01/4-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/01/5-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/01/6-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/01/7-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/01/8-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/01/9-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/01/10-1-scaled-1920x1280.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/01/2-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/01/3-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/01/4-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/01/5-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/01/6-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/01/7-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/01/8-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/01/9-1-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/01/10-1-scaled-1920x1280.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2023/02/1-scaled.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2023/02/1-scaled.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2023/02/1-scaled-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2023/02/1-scaled-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">February 2023</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/02/2-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/02/3-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/02/4-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/02/5-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/02/6-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/02/7-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/02/8-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/02/9-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/02/10-scaled-1920x1280.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/02/2-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/02/3-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/02/4-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/02/5-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/02/6-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/02/7-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/02/8-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/02/9-scaled-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/02/10-scaled-1920x1280.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2023/03/1-2.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/oJpkz0rajuY?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2023/03/1-2.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/oJpkz0rajuY?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2023/03/1-2-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2023/03/1-2-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">March 2023</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/03/1-2-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/03/2-2-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/03/3-2-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/03/4-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/03/5-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/03/6-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/03/7-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/03/8-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/03/9-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/03/10-2-1920x1081.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/03/1-2-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/03/2-2-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/03/3-2-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/03/4-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/03/5-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/03/6-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/03/7-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/03/8-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/03/9-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/03/10-2-1920x1081.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2023/04/1-2-scaled.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/WXkrnz3A5Jo?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2023/04/1-2-scaled.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/WXkrnz3A5Jo?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2023/04/1-2-scaled-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2023/04/1-2-scaled-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">April 2023</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/04/2-1-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/04/9-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/04/3-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/04/4-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/04/5-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/04/6-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/04/7-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/04/8-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/04/10-scaled-1920x1080.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/04/2-1-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/04/9-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/04/3-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/04/4-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/04/5-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/04/6-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/04/7-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/04/8-scaled-1920x1080.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/04/10-scaled-1920x1080.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2023/05/1-3.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2023/05/1-3.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2023/05/1-3-625x352.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2023/05/1-3-625x352.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">May 2023</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/05/3-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/05/4-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/05/5-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/05/6-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/05/7-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/05/8-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/05/9-2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/05/10-2-1920x1081.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/05/3-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/05/4-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/05/5-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/05/6-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/05/7-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/05/8-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/05/9-2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/05/10-2-1920x1081.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2023/06/1-6.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2023/06/1-6.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2023/06/1-6-625x417.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2023/06/1-6-625x417.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">June 2023</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/06/2-4-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/06/3-4-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/06/4-4-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/06/5-3-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/06/6-3-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/06/7-3-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/06/8-2-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/06/9-2-1920x1280.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/06/10-1-1920x1280.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/06/2-4-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/06/3-4-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/06/4-4-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/06/5-3-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/06/6-3-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/06/7-3-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/06/8-2-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/06/9-2-1920x1280.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/06/10-1-1920x1280.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2023/07/1.jpg" class="bw-image lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2023/07/1.jpg" class="bw-image lightbox">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2023/07/1-625x352.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2023/07/1-625x352.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">July 2023</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/07/2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/07/3-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/07/4-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/07/5-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/07/6-1-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/07/7-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/07/8-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/07/9-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/07/10-1920x1081.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/07/2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/07/3-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/07/4-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/07/5-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/07/6-1-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/07/7-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/07/8-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/07/9-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/07/10-1920x1081.jpg"></a>                        </div>
                                                 <div class="swiper-slide lightbox-wrapper">
                             <!-- if we need video button shown in lightbox slide - add ' data-l-video and data-l-video-src  as shown below' -->
-                            <a href="https://evil-lev.tech/wp-content/uploads/2023/08/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/VgurJFeesx0?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2023/08/1.jpg" class="bw-image lightbox" data-l-video="" data-l-video-src="https://www.youtube.com/embed/VgurJFeesx0?autoplay=1&loop=1&modestbranding=1&rel=0&showinfo=0&color=white&theme=light&wmode=transparent">
                                 <div class="full-size img-enter hover-image">
-                                    <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2023/08/1-625x352.jpg"></div>
+                                    <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2023/08/1-625x352.jpg"></div>
                                 </div>
                                 <div class="desc text-sm">August 2023</div>
                             </a>
-                            <a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/08/2-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/08/3-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/08/4-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/08/5-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/08/6-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/08/7-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/08/8-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/08/9-1920x1081.jpg"></a><a class="lightbox" href="https://evil-lev.tech/wp-content/uploads/2023/08/10-1920x1081.jpg"></a>                        </div>
+                            <a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/08/2-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/08/3-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/08/4-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/08/5-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/08/6-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/08/7-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/08/8-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/08/9-1920x1081.jpg"></a><a class="lightbox" href="https://lev-development.com.ua/wp-content/uploads/2023/08/10-1920x1081.jpg"></a>                        </div>
                                             </div>
                     <div class="spacer-sm"></div>
                     <div class="container custom p-0 swiper-container-horizontal fade-anime delay2">
@@ -1182,7 +1182,7 @@
                 <div class="row anime">
                                             <div class="col-lg-5 col-xl-4">
                             <div class="img-enter">
-                                <img class="img" data-src="https://evil-lev.tech/wp-content/uploads/2021/07/lev-docs.jpg.pagespeed.ce.aYSuXXNCSc.jpg" alt="">
+                                <img class="img" data-src="https://lev-development.com.ua/wp-content/uploads/2021/07/lev-docs.jpg.pagespeed.ce.aYSuXXNCSc.jpg" alt="">
                             </div>
                         </div>
                                         <div class="spacer-xs d-lg-none"></div>
@@ -1255,86 +1255,86 @@
                             <span class="t-move-to-copy"> GALLERY</span><span>Lev City Hotel</span>                         </h2>
                         <div class="spacer-xs"></div>
                         <div class="text-anime delay1">
-                            <a href="https://evil-lev.tech/wp-content/uploads/2022/02/lev-city-hotel_visualisation-scaled.jpg" class="btn next-lightbox">
+                            <a href="https://lev-development.com.ua/wp-content/uploads/2022/02/lev-city-hotel_visualisation-scaled.jpg" class="btn next-lightbox">
                                 <span>view all<span class="ar"></span></span>
                             </a>
                         </div>
                         <div class="spacer-xs d-xl-none"></div>
                     </div>
                                         <div class="col-md-5 offset-md-1 col-xl-3 offset-xl-1 align-self-center p-md-0">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2022/02/lev-city-hotel_visualisation-scaled.jpg" class="gallery-image gallery-image1 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2022/02/lev-city-hotel_visualisation-scaled.jpg" class="gallery-image gallery-image1 lightbox">
                             <span class="img-enter full-size hover-image delay1">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2022/02/lev-city-hotel_visualisation-scaled-750x440.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2022/02/lev-city-hotel_visualisation-scaled-750x440.jpg"></span>
                             </span>
                         </a>
                                             </div>
                                         <div class="col-md-6 col-xl-4 align-self-center">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2020/01/39-1-scaled.jpg" class="gallery-image gallery-image2 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2020/01/39-1-scaled.jpg" class="gallery-image gallery-image2 lightbox">
                             <span class="img-enter full-size hover-image delay2">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/01/39-1-scaled-750x422.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/01/39-1-scaled-750x422.jpg"></span>
                             </span>
                         </a>
                         <div class="spacer-sm d-xs-none"></div>                    </div>
                                         <div class="col-md-6 col-xl-5 offset-xl-1 align-self-center">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2020/01/40-2-scaled.jpg" class="gallery-image gallery-image3 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2020/01/40-2-scaled.jpg" class="gallery-image gallery-image3 lightbox">
                             <span class="img-enter full-size hover-image delay3">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/01/40-2-scaled-750x422.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/01/40-2-scaled-750x422.jpg"></span>
                             </span>
                         </a>
                                             </div>
                                         <div class="col-md-6 col-xl-6 align-self-center">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2020/01/32.jpg" class="gallery-image gallery-image4 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2020/01/32.jpg" class="gallery-image gallery-image4 lightbox">
                             <span class="img-enter full-size hover-image delay4">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/01/32-750x868.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/01/32-750x868.jpg"></span>
                             </span>
                         </a>
                         <div class="spacer-sm d-xs-none"></div>                    </div>
                                         <div class="col-md-5 offset-md-1 col-xl-3 offset-xl-1 align-self-center p-md-0" style="display:none">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2020/01/1-30-scaled.jpg" class="gallery-image gallery-image5 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2020/01/1-30-scaled.jpg" class="gallery-image gallery-image5 lightbox">
                             <span class="img-enter full-size hover-image delay5">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/01/1-30-scaled-750x563.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/01/1-30-scaled-750x563.jpg"></span>
                             </span>
                         </a>
                                             </div>
                                         <div class="col-md-6 col-xl-4 align-self-center" style="display:none">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2020/01/41-1-scaled.jpg" class="gallery-image gallery-image6 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2020/01/41-1-scaled.jpg" class="gallery-image gallery-image6 lightbox">
                             <span class="img-enter full-size hover-image delay6">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2020/01/41-1-scaled-750x648.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2020/01/41-1-scaled-750x648.jpg"></span>
                             </span>
                         </a>
                         <div class="spacer-sm d-xs-none"></div>                    </div>
                                         <div class="col-md-6 col-xl-5 offset-xl-1 align-self-center" style="display:none">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2021/03/nomer-309-1.jpg" class="gallery-image gallery-image7 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2021/03/nomer-309-1.jpg" class="gallery-image gallery-image7 lightbox">
                             <span class="img-enter full-size hover-image delay7">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/03/nomer-309-1-750x530.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/03/nomer-309-1-750x530.jpg"></span>
                             </span>
                         </a>
                                             </div>
                                         <div class="col-md-6 col-xl-6 align-self-center" style="display:none">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2021/03/nomer-309-2.jpg" class="gallery-image gallery-image8 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2021/03/nomer-309-2.jpg" class="gallery-image gallery-image8 lightbox">
                             <span class="img-enter full-size hover-image delay8">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/03/nomer-309-2-750x530.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/03/nomer-309-2-750x530.jpg"></span>
                             </span>
                         </a>
                         <div class="spacer-sm d-xs-none"></div>                    </div>
                                         <div class="col-md-5 offset-md-1 col-xl-3 offset-xl-1 align-self-center p-md-0" style="display:none">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2021/03/nomer-309-3.jpg" class="gallery-image gallery-image9 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2021/03/nomer-309-3.jpg" class="gallery-image gallery-image9 lightbox">
                             <span class="img-enter full-size hover-image delay9">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/03/nomer-309-3-750x530.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/03/nomer-309-3-750x530.jpg"></span>
                             </span>
                         </a>
                                             </div>
                                         <div class="col-md-6 col-xl-4 align-self-center" style="display:none">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2021/03/nomer-316-5-scaled.jpg" class="gallery-image gallery-image10 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2021/03/nomer-316-5-scaled.jpg" class="gallery-image gallery-image10 lightbox">
                             <span class="img-enter full-size hover-image delay10">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/03/nomer-316-5-scaled-750x530.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/03/nomer-316-5-scaled-750x530.jpg"></span>
                             </span>
                         </a>
                         <div class="spacer-sm d-xs-none"></div>                    </div>
                                         <div class="col-md-6 col-xl-5 offset-xl-1 align-self-center" style="display:none">
-                        <a href="https://evil-lev.tech/wp-content/uploads/2021/03/nomer-316-8-scaled.jpg" class="gallery-image gallery-image11 lightbox">
+                        <a href="https://lev-development.com.ua/wp-content/uploads/2021/03/nomer-316-8-scaled.jpg" class="gallery-image gallery-image11 lightbox">
                             <span class="img-enter full-size hover-image delay11">
-                                <span class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/03/nomer-316-8-scaled-750x530.jpg"></span>
+                                <span class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/03/nomer-316-8-scaled-750x530.jpg"></span>
                             </span>
                         </a>
                                             </div>
@@ -1351,7 +1351,7 @@
 
     <footer class="anime bg-white">
         <div class="footer-bg img-enter">
-            <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/themes/lev/img/footer-bg.jpg"></div>
+            <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/themes/lev/img/footer-bg.jpg"></div>
         </div>
         <div class="footer-container">
             <div class="top">
@@ -1360,11 +1360,11 @@
                         <div class="row h-100">
                             <div class="col-md-2 text-center d-xs-none custom-footer-block">
                                 <a href="index.php" class="logo-footer logo-link">
-                                    <img class="img" data-src="https://evil-lev.tech/wp-content/themes/lev/img/lev-logo-white.svg" alt="">
+                                    <img class="img" data-src="https://lev-development.com.ua/wp-content/themes/lev/img/lev-logo-white.svg" alt="">
                                 </a>
                                 <!-- <br> -->
                                 <a class="d-inline-block logo-link" href="https://azuz.org.ua/lviv-interactive-map/?action=get_map_data&fn_region=0&fn_builder=2394" target="_blank">
-                                    <img class="img" data-src="https://evil-lev.tech/wp-content/themes/lev/img/azuz_big.png.pagespeed.ce.UYG4coAHT7.png" alt="">
+                                    <img class="img" data-src="https://lev-development.com.ua/wp-content/themes/lev/img/azuz_big.png.pagespeed.ce.UYG4coAHT7.png" alt="">
                                 </a>
                             </div>
                             <div class="col-md-10 f-content ptf d-flex flex-column">
@@ -1373,23 +1373,23 @@
                                     <div class="col-md-8">
                                                                                     <div class="f-title">Sales departments</div>
                                                                                                 <a class="icon-link smaller" href="https://goo.gl/maps/o3SfyhStd6e72CaV6" target="_blank">
-                                                        <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                        <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                         <span>Lviv, Malogoloskivska st., 30</span>
                                                     </a>
                                                                                                     <a class="icon-link smaller" href="https://goo.gl/maps/L6rMD6MdunPPEysv9" target="_blank">
-                                                        <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                        <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                         <span>Kyiv, Lysohirs'kyi Ln, 20</span>
                                                     </a>
                                                                                                     <a class="icon-link smaller" href="https://goo.gl/maps/2gy6r4NyUGZVu5Av5" target="_blank">
-                                                        <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                        <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                         <span>Vynnyky, Galytska st.</span>
                                                     </a>
                                                                                                     <a class="icon-link smaller" href="https://goo.gl/maps/5gvZMxcXC1qRENwN7" target="_blank">
-                                                        <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                        <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                         <span>Kyiv, Metrolohichna st., 13-А</span>
                                                     </a>
                                                                                                     <a class="icon-link smaller" href="https://goo.gl/maps/nWsiUnsCsRS2GbyS8" target="_blank">
-                                                        <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                        <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                         <span>Lviv, Orlyka st.</span>
                                                     </a>
                                                                                     </div>
@@ -1398,7 +1398,7 @@
                                                                                 <div class="col-md-4">
                                                                                             <div class="f-title">Office</div>
                                                 <a class="icon-link office-link smaller" href="https://www.google.com.ua/maps/place/Velyka+Vasylkivska+St,+72,+Kyiv,+03150/@50.4322203,30.5128908,17z/data=!3m1!4b1!4m5!3m4!1s0x40d4cee2afc20e29:0xf1cf09399bbc3b7a!8m2!3d50.4322169!4d30.5150795?hl=ua&amp;roistat_visit=287622" target="_blank">
-                                                    <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                    <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                     <span>Kyiv, Velyka Vasylivska st., 72</span>
                                                 </a>
                                             
@@ -1479,7 +1479,7 @@
                                 </div>
                                 <nav>
                                     <ul>
-                                        <li><a class="" href="https://evil-lev.tech/en/pro-nas/">About Us</a></li><li><a class="" href="https://evil-lev.tech/en/lev-club/">LEV Club</a></li><li><a class="" href="https://evil-lev.tech/en/servicehouse/">SERVICEHOUSE</a></li><li><a class="" href="https://evil-lev.tech/en/levinvest/">LEV Invest</a></li><li><a class="" href="https://evil-lev.tech/en/lev-realty/">LEV Realty</a></li><li><a class="" href="https://evil-lev.tech/en/lev-liveride/">LEV Live&#038;Ride</a></li>                                    </ul>
+                                        <li><a class="" href="https://lev-development.com.ua/en/pro-nas/">About Us</a></li><li><a class="" href="https://lev-development.com.ua/en/lev-club/">LEV Club</a></li><li><a class="" href="https://lev-development.com.ua/en/servicehouse/">SERVICEHOUSE</a></li><li><a class="" href="https://lev-development.com.ua/en/levinvest/">LEV Invest</a></li><li><a class="" href="https://lev-development.com.ua/en/lev-realty/">LEV Realty</a></li><li><a class="" href="https://lev-development.com.ua/en/lev-liveride/">LEV Live&#038;Ride</a></li>                                    </ul>
                                 </nav>
                             </div>
                         </div>
@@ -1488,7 +1488,7 @@
             </div>
             <div class="copyright">
                 <div>© LEV Development 2023</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>
     </footer>
@@ -1499,7 +1499,7 @@
     <div class="search-popup bg-white">
         <div class="btn-close"></div>
         <div class="content">
-            <form action="https://evil-lev.tech/en/?page_id=459" method="get">
+            <form action="https://lev-development.com.ua/en/?page_id=459" method="get">
             <div class="h5 title">Residential Complex</div>
             <select class="SelectBox" name="compl">
                 <option value="">All RCS</option>
@@ -1734,41 +1734,41 @@ var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
             <span class="button-text">запис на консультацію</span>
         <span class="icon"></span>
 </a>
-<link rel='stylesheet' id='bootstrap-css-css' href='https://evil-lev.tech/wp-content/themes/lev/css/bootstrap.bottom.css,qver=9.075.pagespeed.ce.khZZg8_JzE.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='jquery-ui-css-css' href='https://evil-lev.tech/wp-content/themes/lev/css/jquery-ui.min.css,qver=9.075.pagespeed.ce.FOIeqTyTGI.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='bottom-css-css' href='https://evil-lev.tech/wp-content/themes/lev/css/style.css,qver=9.075.pagespeed.ce.Ulmt6FodBA.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='theme-css-css' href='https://evil-lev.tech/wp-content/themes/lev/style.css,qver=9.075.pagespeed.ce.vRoKGaDkwa.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='simplelightbox-css-css' href='https://evil-lev.tech/wp-content/themes/lev/css/simplelightbox.css,qver=9.075.pagespeed.ce.U4crov_-c6.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='pannellum-css-css' href='https://evil-lev.tech/wp-content/themes/lev/css/pannellum.css,qver=9.075.pagespeed.ce.2UFHEIFjNX.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='wp-block-library-css' href='https://evil-lev.tech/wp-includes/css/dist/block-library/style.min.css,qver=6.1.1.pagespeed.ce.cdklhkFT8O.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='classic-theme-styles-css' href='https://evil-lev.tech/wp-includes/css/classic-themes.min.css,qver=1.pagespeed.ce.leiR8o5Eqb.css' type='text/css' media='all'/>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/plugins/contact-form-7/includes/swv/js/index.js,qver=5.7.2.pagespeed.ce.fwc04ijT8a.js' id='swv-js'></script>
+<link rel='stylesheet' id='bootstrap-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/bootstrap.bottom.css,qver=9.075.pagespeed.ce.khZZg8_JzE.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='jquery-ui-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/jquery-ui.min.css,qver=9.075.pagespeed.ce.FOIeqTyTGI.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='bottom-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/style.css,qver=9.075.pagespeed.ce.Ulmt6FodBA.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='theme-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/style.css,qver=9.075.pagespeed.ce.vRoKGaDkwa.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='simplelightbox-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/simplelightbox.css,qver=9.075.pagespeed.ce.U4crov_-c6.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='pannellum-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/pannellum.css,qver=9.075.pagespeed.ce.2UFHEIFjNX.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-block-library-css' href='https://lev-development.com.ua/wp-includes/css/dist/block-library/style.min.css,qver=6.1.1.pagespeed.ce.cdklhkFT8O.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://lev-development.com.ua/wp-includes/css/classic-themes.min.css,qver=1.pagespeed.ce.leiR8o5Eqb.css' type='text/css' media='all'/>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/plugins/contact-form-7/includes/swv/js/index.js,qver=5.7.2.pagespeed.ce.fwc04ijT8a.js' id='swv-js'></script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
 /* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/en\/wp-json\/","namespace":"contact-form-7\/v1"}};
+var wpcf7 = {"api":{"root":"https:\/\/lev-development.com.ua\/en\/wp-json\/","namespace":"contact-form-7\/v1"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/plugins/contact-form-7/includes/js/index.js,qver=5.7.2.pagespeed.ce.9XQ1qSfUIg.js' id='contact-form-7-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-includes/js/jquery/jquery.min.js,qver=3.6.1.pagespeed.ce.F3ODGNYdOU.js' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-includes/js/jquery/jquery-migrate.min.js,qver=3.3.2.pagespeed.ce.ebSVa37EeO.js' id='jquery-migrate-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery-ui.min.js,qver=9.075.pagespeed.ce.YQGF8j0SVn.js' id='jquery-ui-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/swiper.min.js,qver=9.075.pagespeed.ce.isR4iIzkY3.js' id='swiper-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.sumoselect.min.js,qver=9.075.pagespeed.ce.H01wp9hV8e.js' id='sumoselect-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/SmoothScroll.js,qver=9.075.pagespeed.ce.LVxUa3aRy5.js' id='SmoothScroll-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/global.js,qver=9.075.pagespeed.ce.2JWom0ASaK.js' id='global-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/card-parralax.js,qver=9.075.pagespeed.ce.IT2yMdoQ2Q.js' id='card-parralax-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/TweenMax.min.js,qver=9.075.pagespeed.ce.Cn8kfXNATK.js' id='TweenMax-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.lettering.js,qver=9.075.pagespeed.ce.BzioWQ4s9d.js' id='lettering-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/custom-anime.js,qver=9.075.pagespeed.ce.dc2IozKHnP.js' id='custom-anime-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.inputmask.min.js,qver=9.075.pagespeed.ce.ouyNH2ED9G.js' id='jquery-inputmask-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/plugins/contact-form-7/includes/js/index.js,qver=5.7.2.pagespeed.ce.9XQ1qSfUIg.js' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-includes/js/jquery/jquery.min.js,qver=3.6.1.pagespeed.ce.F3ODGNYdOU.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-includes/js/jquery/jquery-migrate.min.js,qver=3.3.2.pagespeed.ce.ebSVa37EeO.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery-ui.min.js,qver=9.075.pagespeed.ce.YQGF8j0SVn.js' id='jquery-ui-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/swiper.min.js,qver=9.075.pagespeed.ce.isR4iIzkY3.js' id='swiper-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.sumoselect.min.js,qver=9.075.pagespeed.ce.H01wp9hV8e.js' id='sumoselect-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/SmoothScroll.js,qver=9.075.pagespeed.ce.LVxUa3aRy5.js' id='SmoothScroll-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/global.js,qver=9.075.pagespeed.ce.2JWom0ASaK.js' id='global-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/card-parralax.js,qver=9.075.pagespeed.ce.IT2yMdoQ2Q.js' id='card-parralax-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/TweenMax.min.js,qver=9.075.pagespeed.ce.Cn8kfXNATK.js' id='TweenMax-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.lettering.js,qver=9.075.pagespeed.ce.BzioWQ4s9d.js' id='lettering-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/custom-anime.js,qver=9.075.pagespeed.ce.dc2IozKHnP.js' id='custom-anime-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.inputmask.min.js,qver=9.075.pagespeed.ce.ouyNH2ED9G.js' id='jquery-inputmask-js-js'></script>
 <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCYwk23aIR-N5XTFmojgQRHbj_T6lOOUPE&#038;libraries=geometry%2Cplaces&#038;v=3&#038;language=en&#038;ver=9.075' id='gm-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/infobox.js,qver=9.075.pagespeed.ce.GI3ux4B4tZ.js' id='infobox-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/markerclusterer.min.js,qver=9.075.pagespeed.ce.9FmIqwklwe.js' id='markerclusterer-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/map.js,qver=9.075.pagespeed.ce.NcFWMRvqqT.js' id='map-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/main.js,qver=9.075.pagespeed.ce.2qS-Jtg9Uf.js' id='main-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/gsap.draggable.min.js,qver=9.075.pagespeed.ce._Edrwvv-Un.js' id='draggable-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/simple-lightbox.min.js,qver=9.075.pagespeed.ce.2310L3-HeS.js' id='simple-lightbox-js-js'></script>
-<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/pannellum.js,qver=9.075.pagespeed.ce.C1PXh4XGFr.js' id='pannellum-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/infobox.js,qver=9.075.pagespeed.ce.GI3ux4B4tZ.js' id='infobox-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/markerclusterer.min.js,qver=9.075.pagespeed.ce.9FmIqwklwe.js' id='markerclusterer-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/map.js,qver=9.075.pagespeed.ce.NcFWMRvqqT.js' id='map-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/main.js,qver=9.075.pagespeed.ce.2qS-Jtg9Uf.js' id='main-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/gsap.draggable.min.js,qver=9.075.pagespeed.ce._Edrwvv-Un.js' id='draggable-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/simple-lightbox.min.js,qver=9.075.pagespeed.ce.2310L3-HeS.js' id='simple-lightbox-js-js'></script>
+<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/pannellum.js,qver=9.075.pagespeed.ce.C1PXh4XGFr.js' id='pannellum-js-js'></script>
 <script>
     jQuery(function($) {
         if ($('.js-draggable').length) {

@@ -304,12 +304,12 @@
                       <div class="col-12 col-md-10 col-lg-10 col-xl-6 align-self-center">
               <div class="about-img  ">
                                   <div class="img anime img-bg-anime">
-                    <img class="bg-img__anime" src="https://lev-development.com.ua/wp-content/uploads/2021/08/lajf_stori_predstavnyczkyj_2-4-scaled-610x832.jpg" alt="arthouse_block1_img_right">
+                    <img class="bg-img__anime" src="https://lev-development.com.ua/wp-content/uploads/2021/08/lajf_stori_predstavnyczkyj_2-4-scaled-610x832.jpg.pagespeed.ce.lYdwwNkoR5.jpg" alt="arthouse_block1_img_right">
                   </div>
                                                   <div class="text text-anime  animate-item color-4"><p>ЖК HYGGE lux — це про справжнє життя: від перших кроків малечі, до важливих доленосних рішень. Продуманий до дрібниць, щоб ви могли дотримуватись здорового способу життя із задоволенням, легко і без зайвих зусиль.</p>
 </div>
                                 <div class="decor-img">
-                  <img src="https://lev-development.com.ua/wp-content/themes/lev/img/arthouse/decor-arthouse-2.png" alt="decor-arthouse-2">
+                  <img src="https://lev-development.com.ua/wp-content/themes/lev/img/arthouse/decor-arthouse-2.png.pagespeed.ce._HJjV4xRNh.png" alt="decor-arthouse-2">
                 </div>
               </div>
             </div>
@@ -391,7 +391,7 @@
           <div class="col-12  col-xl-5 pr-xl-0 order-2 order-xl-1 align-self-center anime">
             <div class="advantage-title ">
                               <div class="decor-img">
-                  <img src="https://lev-development.com.ua/wp-content/themes/lev/img/arthouse/decor-arthouse-2.png" alt="decor-arthouse-2">
+                  <img src="https://lev-development.com.ua/wp-content/themes/lev/img/arthouse/decor-arthouse-2.png.pagespeed.ce._HJjV4xRNh.png" alt="decor-arthouse-2">
                 </div>
                                   <div class="title-decor-wrapp">
                     <div class="h4 title title-decor color-2 text-anime">Безпека</div>
@@ -409,7 +409,7 @@
                       <div class="col-12  col-xl-6 offset-xl-1  order-1 order-xl-2 anime">
               <div class="advantage-img">
                 <div class="img anime img-bg-anime">
-                  <img class="bg-img__anime" src="https://lev-development.com.ua/wp-content/uploads/2021/08/1111111111111-745x559.jpg" alt="arthouse_block4_img">
+                  <img class="bg-img__anime" src="https://lev-development.com.ua/wp-content/uploads/2021/08/1111111111111-745x559.jpg.pagespeed.ce.gLj8xgSh7K.jpg" alt="arthouse_block4_img">
                 </div>
               </div>
             </div>
@@ -870,7 +870,7 @@ var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
 <link rel='stylesheet' id='theme-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/style.css,qver=9.075.pagespeed.ce.vRoKGaDkwa.css' type='text/css' media='all'/>
 <link rel='stylesheet' id='simplelightbox-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/simplelightbox.css,qver=9.075.pagespeed.ce.U4crov_-c6.css' type='text/css' media='all'/>
 <link rel='stylesheet' id='pannellum-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/pannellum.css,qver=9.075.pagespeed.ce.2UFHEIFjNX.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='complex-arhouse-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/complex-arhouse.css?ver=9.075' type='text/css' media='all'/>
+<link rel='stylesheet' id='complex-arhouse-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/complex-arhouse.css,qver=9.075.pagespeed.ce._qqLfa4clC.css' type='text/css' media='all'/>
 <link rel='stylesheet' id='wp-block-library-css' href='https://lev-development.com.ua/wp-includes/css/dist/block-library/style.min.css,qver=6.1.1.pagespeed.ce.cdklhkFT8O.css' type='text/css' media='all'/>
 <link rel='stylesheet' id='classic-theme-styles-css' href='https://lev-development.com.ua/wp-includes/css/classic-themes.min.css,qver=1.pagespeed.ce.leiR8o5Eqb.css' type='text/css' media='all'/>
 <script type='text/javascript' src='https://lev-development.com.ua/wp-content/plugins/contact-form-7/includes/swv/js/index.js,qver=5.7.2.pagespeed.ce.fwc04ijT8a.js' id='swv-js'></script>

@@ -249,7 +249,7 @@
             <div class="simple-item banner-content">
               <div class="banner-content__inner  anime ">
                                                     <div class="logo-img img">
-                    <img src="https://lev-development.com.ua/wp-content/uploads/2022/02/jpg-314x125.jpg.pagespeed.ce.dB96pwsfN5.jpg" alt="arthouse_log">
+                    <img src="https://lev-development.com.ua/wp-content/uploads/2022/02/jpg-314x125.jpg" alt="arthouse_log">
                   </div>
                                                   <div class="skew-scroll t-overflow">
                     <div class="h1 title lighttext-anime text-anime">LEV Live&amp;Ride loyalty program</div>
