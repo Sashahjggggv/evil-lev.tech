@@ -17,5 +17,5 @@ Disallow: /*.php
 Disallow: /*?replytocom
 Disallow: /*?turl
 
-Host: https://lev-development.com.ua/
-Sitemap: https://lev-development.com.ua/sitemap_index.xml
+Host: https://evil-lev.tech/
+Sitemap: https://evil-lev.tech/sitemap_index.xml

