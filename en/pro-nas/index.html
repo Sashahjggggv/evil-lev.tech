@@ -2,52 +2,8 @@
 <html>
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KWPMBRW');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3091367317567802');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=3091367317567802&ev=PageView
-&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -58,20 +14,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>About us - LEV Development</title>
+	<title>About us - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/pro-nas/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="About us"/>
 	<meta property="og:url" content="https://evil-lev.tech/pro-nas/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2022-02-02T15:42:02+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg"/>
 	<meta property="og:image:width" content="500"/>
 	<meta property="og:image:height" content="1073"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/pro-nas/","url":"https://evil-lev.tech/pro-nas/","name":"[:uk]Про нас[:en]About us[:ru]О нас[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/pro-nas/#primaryimage"},"image":{"@id":"https://evil-lev.tech/pro-nas/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","datePublished":"2019-09-16T10:25:34+00:00","dateModified":"2022-02-02T15:42:02+00:00","breadcrumb":{"@id":"https://evil-lev.tech/pro-nas/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/pro-nas/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/pro-nas/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/pro-nas/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Про нас"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/pro-nas/","url":"https://evil-lev.tech/pro-nas/","name":"[:uk]Про нас[:en]About us[:ru]О нас[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/pro-nas/#primaryimage"},"image":{"@id":"https://evil-lev.tech/pro-nas/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","datePublished":"2019-09-16T10:25:34+00:00","dateModified":"2022-02-02T15:42:02+00:00","breadcrumb":{"@id":"https://evil-lev.tech/pro-nas/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/pro-nas/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/pro-nas/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/pro-nas/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Про нас"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -89,9 +45,7 @@
 </head>
 
 <body class="page-template page-template-page-about page-template-page-about-php page page-id-168 language-en">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWPMBRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
 
@@ -247,7 +201,7 @@
                     <div class="col-lg-9">
                         <div class="cell-view">
                             <div class="t-overflow">
-                                <h1 class="h1 block-title text-anime">LEV Development</h1>
+                                <h1 class="h1 block-title text-anime">Evil Lev</h1>
                             </div>
                             <div class="spacer-xs"></div>
                             <div class="t-overflow">
@@ -290,8 +244,8 @@
                     <div class="col-xl-6 col-md-8 offset-md-2 offset-xl-3">
                         <div class="t-overflow">
                             <div class="article text color-grey text-anime">
-                                <p>«LEV Development» offers its customers not only square meters of state-of-the-art technology, but also a harmonious living space. When you buy an apartment, you get comfort and coziness at every stage, from the exterior of the house and the space around to the interior of the individual rooms and common areas.</p>
-<p>Real estate developer «LEV Development» is creating a home where residents can enjoy a fulfilling life!</p>
+                                <p>«Evil Lev» offers its customers not only square meters of state-of-the-art technology, but also a harmonious living space. When you buy an apartment, you get comfort and coziness at every stage, from the exterior of the house and the space around to the interior of the individual rooms and common areas.</p>
+<p>Real estate developer «Evil Lev» is creating a home where residents can enjoy a fulfilling life!</p>
                             </div>
                         </div>
                     </div>
@@ -307,7 +261,7 @@
                     <div class="col-xl-6">
                         <h2 class="t-move h2 block-title style2 lettering line-left-2">
                             <span class="t-move-to-copy">THE FOUNDERS</span>
-                            <span>LEV DEVELOPMENT</span>                        </h2>
+                            <span>Evil Lev</span>                        </h2>
                     </div>
                     <div class="spacer-xs d-xl-none"></div>
                     <div class="col-md-6 col-xl-4 d-flex align-self-center justify-content-xl-center">
@@ -569,7 +523,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2023</div>
+                <div>© Evil Lev 2023</div>
                 <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>

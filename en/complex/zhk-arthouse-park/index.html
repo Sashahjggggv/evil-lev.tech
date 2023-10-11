@@ -2,52 +2,8 @@
 <html>
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KWPMBRW');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3091367317567802');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=3091367317567802&ev=PageView
-&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -59,14 +15,14 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>≡ ЖК ARTHOUSE park ᐈ Квартири бізнес-класу в новобудові на Малоголосківській у Львові</title>
-	<meta name="description" content="ЖК ARTHOUSE park (Артхаус Парк) від LEV Development - житловий комплекс з видом на Малоголосківський парк, дизайнерськими холами з мистецькими галереєю."/>
+	<meta name="description" content="ЖК ARTHOUSE park (Артхаус Парк) від Evil Lev - житловий комплекс з видом на Малоголосківський парк, дизайнерськими холами з мистецькими галереєю."/>
 	<link rel="canonical" href="https://evil-lev.tech/complex/zhk-arthouse-park/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ ЖК ARTHOUSE park ᐈ Квартири бізнес-класу в новобудові на Малоголосківській у Львові"/>
-	<meta property="og:description" content="ЖК ARTHOUSE park (Артхаус Парк) від LEV Development - житловий комплекс з видом на Малоголосківський парк, дизайнерськими холами з мистецькими галереєю."/>
+	<meta property="og:description" content="ЖК ARTHOUSE park (Артхаус Парк) від Evil Lev - житловий комплекс з видом на Малоголосківський парк, дизайнерськими холами з мистецькими галереєю."/>
 	<meta property="og:url" content="https://evil-lev.tech/complex/zhk-arthouse-park/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2023-09-14T16:49:31+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2020/11/art-house-test_view02-scaled.jpg"/>
 	<meta property="og:image:width" content="1440"/>
@@ -74,8 +30,8 @@
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="≡ ЖК ARTHOUSE park ᐈ Квартири бізнес-класу в новобудові на Малоголосківській у Львові"/>
-	<meta name="twitter:description" content="ЖК ARTHOUSE park (Артхаус Парк) від LEV Development - житловий комплекс з видом на Малоголосківський парк, дизайнерськими холами з мистецькими галереєю."/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/complex/zhk-arthouse-park/","url":"https://evil-lev.tech/complex/zhk-arthouse-park/","name":"≡ ЖК ARTHOUSE park ᐈ Квартири бізнес-класу в новобудові на Малоголосківській у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/complex/zhk-arthouse-park/#primaryimage"},"image":{"@id":"https://evil-lev.tech/complex/zhk-arthouse-park/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2020/11/art-house-test_view02-scaled.jpg","datePublished":"2020-12-01T11:45:56+00:00","dateModified":"2023-09-14T16:49:31+00:00","description":"ЖК ARTHOUSE park (Артхаус Парк) від LEV Development - житловий комплекс з видом на Малоголосківський парк, дизайнерськими холами з мистецькими галереєю.","breadcrumb":{"@id":"https://evil-lev.tech/complex/zhk-arthouse-park/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/complex/zhk-arthouse-park/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/complex/zhk-arthouse-park/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2020/11/art-house-test_view02-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2020/11/art-house-test_view02-scaled.jpg","width":1440,"height":2560},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/complex/zhk-arthouse-park/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"ЖК ARTHOUSE park"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<meta name="twitter:description" content="ЖК ARTHOUSE park (Артхаус Парк) від Evil Lev - житловий комплекс з видом на Малоголосківський парк, дизайнерськими холами з мистецькими галереєю."/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/complex/zhk-arthouse-park/","url":"https://evil-lev.tech/complex/zhk-arthouse-park/","name":"≡ ЖК ARTHOUSE park ᐈ Квартири бізнес-класу в новобудові на Малоголосківській у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/complex/zhk-arthouse-park/#primaryimage"},"image":{"@id":"https://evil-lev.tech/complex/zhk-arthouse-park/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2020/11/art-house-test_view02-scaled.jpg","datePublished":"2020-12-01T11:45:56+00:00","dateModified":"2023-09-14T16:49:31+00:00","description":"ЖК ARTHOUSE park (Артхаус Парк) від Evil Lev - житловий комплекс з видом на Малоголосківський парк, дизайнерськими холами з мистецькими галереєю.","breadcrumb":{"@id":"https://evil-lev.tech/complex/zhk-arthouse-park/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/complex/zhk-arthouse-park/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/complex/zhk-arthouse-park/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2020/11/art-house-test_view02-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2020/11/art-house-test_view02-scaled.jpg","width":1440,"height":2560},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/complex/zhk-arthouse-park/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"ЖК ARTHOUSE park"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -84,7 +40,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/complex/zhk-arthouse-park/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/complex/zhk-arthouse-park/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/complex/zhk-arthouse-park/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="RC ARTHOUSE park"><meta property="og:url" content="https://evil-lev.tech/en/complex/zhk-arthouse-park/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2020/11/art-house-test_view02-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="RC ARTHOUSE park"><meta property="og:url" content="https://evil-lev.tech/en/complex/zhk-arthouse-park/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2020/11/art-house-test_view02-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -93,9 +49,7 @@
 </head>
 
 <body class="complex-template-default single single-complex postid-5235 language-en">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWPMBRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
 
@@ -1481,7 +1435,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2023</div>
+                <div>© Evil Lev 2023</div>
                 <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>
@@ -1884,7 +1838,7 @@
         <div class="layer-close"></div>
         <div class="popup-container size-2">
             <div class="popup-align bg-white">
-                                <div class="h4 title text-center w-medium">Terms of installments from LEV Development:</div>
+                                <div class="h4 title text-center w-medium">Terms of installments from Evil Lev:</div>
                                 <div class="text text-lg w-thin">
                 <p>&nbsp;</p>
 <p>For housing:</p>

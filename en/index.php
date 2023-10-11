@@ -2,52 +2,8 @@
 <html>
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KWPMBRW');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3091367317567802');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=3091367317567802&ev=PageView
-&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -58,24 +14,24 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>LEV Development - Продаж квартир та інвестиційної нерухомості</title>
-	<meta name="description" content="LEV Development – це девелоперська компанія, яка реалізує виключно концептуальну нерухомість. Створює світ майбутнього міста, де простір належать людям."/>
+	<title>Evil Lev - Продаж квартир та інвестиційної нерухомості</title>
+	<meta name="description" content="Evil Lev – це девелоперська компанія, яка реалізує виключно концептуальну нерухомість. Створює світ майбутнього міста, де простір належать людям."/>
 	<link rel="canonical" href="https://evil-lev.tech/en/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="website"/>
-	<meta property="og:title" content="LEV Development - Продаж квартир та інвестиційної нерухомості"/>
-	<meta property="og:description" content="LEV Development – це девелоперська компанія, яка реалізує виключно концептуальну нерухомість. Створює світ майбутнього міста, де простір належать людям."/>
+	<meta property="og:title" content="Evil Lev - Продаж квартир та інвестиційної нерухомості"/>
+	<meta property="og:description" content="Evil Lev – це девелоперська компанія, яка реалізує виключно концептуальну нерухомість. Створює світ майбутнього міста, де простір належать людям."/>
 	<meta property="og:url" content="https://evil-lev.tech/en/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2022-06-22T19:03:21+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2020/05/zobrazhennya_viber_2020-05-08_12-56-48-2.jpg"/>
 	<meta property="og:image:width" content="922"/>
 	<meta property="og:image:height" content="800"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<meta name="twitter:title" content="LEV Development - Продаж квартир та інвестиційної нерухомості"/>
-	<meta name="twitter:description" content="LEV Development – це девелоперська компанія, яка реалізує виключно концептуальну нерухомість. Створює світ майбутнього міста, де простір належать людям."/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/","url":"https://evil-lev.tech/en/","name":"LEV Development - Продаж квартир та інвестиційної нерухомості","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2020/05/zobrazhennya_viber_2020-05-08_12-56-48-2.jpg","datePublished":"2019-09-09T15:02:31+00:00","dateModified":"2022-06-22T19:03:21+00:00","description":"LEV Development – це девелоперська компанія, яка реалізує виключно концептуальну нерухомість. Створює світ майбутнього міста, де простір належать людям.","breadcrumb":{"@id":"https://evil-lev.tech/en/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2020/05/zobrazhennya_viber_2020-05-08_12-56-48-2.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2020/05/zobrazhennya_viber_2020-05-08_12-56-48-2.jpg","width":922,"height":800},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<meta name="twitter:title" content="Evil Lev - Продаж квартир та інвестиційної нерухомості"/>
+	<meta name="twitter:description" content="Evil Lev – це девелоперська компанія, яка реалізує виключно концептуальну нерухомість. Створює світ майбутнього міста, де простір належать людям."/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/","url":"https://evil-lev.tech/en/","name":"Evil Lev - Продаж квартир та інвестиційної нерухомості","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2020/05/zobrazhennya_viber_2020-05-08_12-56-48-2.jpg","datePublished":"2019-09-09T15:02:31+00:00","dateModified":"2022-06-22T19:03:21+00:00","description":"Evil Lev – це девелоперська компанія, яка реалізує виключно концептуальну нерухомість. Створює світ майбутнього міста, де простір належать людям.","breadcrumb":{"@id":"https://evil-lev.tech/en/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2020/05/zobrazhennya_viber_2020-05-08_12-56-48-2.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2020/05/zobrazhennya_viber_2020-05-08_12-56-48-2.jpg","width":922,"height":800},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -93,9 +49,7 @@
 </head>
 
 <body class="home page-template page-template-page-home page-template-page-home-php page page-id-2 language-en">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWPMBRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
 
@@ -278,7 +232,7 @@
                                                                     <span>map objects<span class="ar"></span></span>
                                                             </div>
                             <div class="btn btn-secondary btn-lg scroll-to" data-rel="2" tabindex="0">
-                                <span>club LEV development<span class="ar"></span></span>
+                                <span>club Evil Lev<span class="ar"></span></span>
                             </div>
                         </div>
                     </div>
@@ -577,7 +531,7 @@
                                 <span>LOVE</span> <span>IN EACH M²</span>                             </h2>
                             <div class="skew-scroll t-overflow d-xs-none">
                                 <div class="subtitle w1 color-grey text-anime delay3">
-                                    Finding the love of your life is easy when it comes to an apartment. After all, LEV Development does not create a soulless box, but real estate with a philosophy.                                </div>
+                                    Finding the love of your life is easy when it comes to an apartment. After all, Evil Lev does not create a soulless box, but real estate with a philosophy.                                </div>
                             </div>
                             <div class="text-anime delay4">
                                 <a class="btn" href="https://evil-lev.tech/en/proekty/">
@@ -642,7 +596,7 @@
                                         </div>
                                         <div class="desc">
                                             <div class="title h5">Gold card</div>
-                                            <p>Black gold. Change the Black card to Gold, if you bought an apartment in LEV Development. Now you have a 3% discount.</p>
+                                            <p>Black gold. Change the Black card to Gold, if you bought an apartment in Evil Lev. Now you have a 3% discount.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -655,7 +609,7 @@
                                         </div>
                                         <div class="desc">
                                             <div class="title h5">Platinum card</div>
-                                            <p>We give a Platinum card and a 5% discount to LEV Development clients who have passed fire, water and copper pipes with us.</p>
+                                            <p>We give a Platinum card and a 5% discount to Evil Lev clients who have passed fire, water and copper pipes with us.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -684,7 +638,7 @@
                     <div class="col-md-6 col-xl-4 d-flex align-self-center justify-content-xl-center">
                         <div class="skew-scroll t-overflow">
                             <div class="subtitle w1 text-anime">
-                                Learn more about the life of LEV Development                            </div>
+                                Learn more about the life of Evil Lev                            </div>
                         </div>
 
                     </div>
@@ -751,22 +705,22 @@
 			<div class="row">
 				<div class="col-md-10 offset-md-1">
 					<h2 class="t-move h2 block-title style2 lettering line-left-2">
-						<span>WHY WE</span> <span>LEV DEVELOPMENT?</span> 					</h2>
+						<span>WHY WE</span> <span>Evil Lev?</span> 					</h2>
 				</div>
 				<div class="spacer-sm"></div>
 				<div class="col-xl-6 col-md-8 offset-md-2 offset-xl-3 slide-toggle-wrap">
 					<div class="t-overflow pb-10">
 						<div class="text-anime delay2">
 							<article class="article text">
-								<p>To change the world, you need to apply the global experience locally. That is why in 2015 Oleksandr Ostrovsky together with Vasyl Levitsky founded LEV Development.  <img decoding="async" loading="lazy" class="aligncenter wp-image-3932" src="https://evil-lev.tech/wp-content/uploads/2020/05/zobrazhennya_viber_2020-05-08_12-56-48-2.jpg.pagespeed.ce.v_X96EC6ky.jpg" alt="" width="461" height="400"/></p>
+								<p>To change the world, you need to apply the global experience locally. That is why in 2015 Oleksandr Ostrovsky together with Vasyl Levitsky founded Evil Lev.  <img decoding="async" loading="lazy" class="aligncenter wp-image-3932" src="https://evil-lev.tech/wp-content/uploads/2020/05/zobrazhennya_viber_2020-05-08_12-56-48-2.jpg.pagespeed.ce.v_X96EC6ky.jpg" alt="" width="461" height="400"/></p>
 							</article>
 							<div class="slide-toggle-item">
 								<div class="spacer-xs"></div>
 								<article class="article text">
-									<p><span>The title has a double meaning. LEV Development is about Lviv. And LEV is: Life , Energy, and Victory. We believe that life and energy lead us to victory.</span></p>
-<p><span>LEV Development &#8211; for change and moving forward</span><br/>
+									<p><span>The title has a double meaning. Evil Lev is about Lviv. And LEV is: Life , Energy, and Victory. We believe that life and energy lead us to victory.</span></p>
+<p><span>Evil Lev &#8211; for change and moving forward</span><br/>
 <span>People want to live in beautiful and safe houses, walk on comfortable roads and sidewalks, go to cool shops and stay in hotels with excellent service. And our goal is to create this comfort for you by thinking through projects down to the smallest detail: from the concept to the last nail. Urban planners and architects working with LEV put a separate idea into each project, which is read as soon as you enter the new building. We are &#8220;burning&#8221; to change the world by adapting it to the needs of the people, not the other way around.</span></p>
-<p><span>LEV Development &#8211; for a smart investment</span><br/>
+<p><span>Evil Lev &#8211; for a smart investment</span><br/>
 <span>For those for whom real estate is, above all, a successful investment, we have created a chain hotel near the Bukovel shopping mall and a new apart-hotel LEV City Hotel. Becoming the owner of an apartment in one of them, you get a good object for investment.</span></p>
 <p><span>So, let&#8217;s change the world together?</span></p>
 								</article>
@@ -921,7 +875,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2023</div>
+                <div>© Evil Lev 2023</div>
                 <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>
@@ -1085,7 +1039,7 @@
                         <img src="https://evil-lev.tech/wp-content/uploads/2022/09/new-popup.jpg.pagespeed.ce.Y8ZXodUPis.jpg" alt="" loading="lazy"/>
                     </div>
                     <div class="content">
-                                                                            <div class="text color-grey article"><p><strong>LEV Development</strong> has prepared a special offer for the purchase of housing for servicemen of the Armed Forces of Ukraine and their families, as well as for residents of temporarily occupied territories, and those who have lost their homes:</p>
+                                                                            <div class="text color-grey article"><p><strong>Evil Lev</strong> has prepared a special offer for the purchase of housing for servicemen of the Armed Forces of Ukraine and their families, as well as for residents of temporarily occupied territories, and those who have lost their homes:</p>
 <ul>
 <li>For servicemen of the Armed Forces and their families, residents of temporarily occupied territories, a discount of <strong>-12%</strong> of the total cost of the apartment (for all payment methods);</li>
 <li>For those who lost their home <strong>&#8211; 15%</strong> of the total cost of the apartment (for all payment methods);</li>

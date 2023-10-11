@@ -2,52 +2,8 @@
 <html>
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KWPMBRW');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3091367317567802');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=3091367317567802&ev=PageView
-&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -58,20 +14,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>ServiceHouse - LEV Development</title>
+	<title>ServiceHouse - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/servicehouse/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="ServiceHouse"/>
 	<meta property="og:url" content="https://evil-lev.tech/servicehouse/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2022-01-14T14:05:22+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg"/>
 	<meta property="og:image:width" content="500"/>
 	<meta property="og:image:height" content="1073"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/servicehouse/","url":"https://evil-lev.tech/servicehouse/","name":"[:uk]SERVICEHOUSE[:en]ServiceHouse[:ru]ServiceHouse[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/servicehouse/#primaryimage"},"image":{"@id":"https://evil-lev.tech/servicehouse/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","datePublished":"2020-02-13T15:18:40+00:00","dateModified":"2022-01-14T14:05:22+00:00","breadcrumb":{"@id":"https://evil-lev.tech/servicehouse/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/servicehouse/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/servicehouse/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/servicehouse/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"SERVICEHOUSE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/servicehouse/","url":"https://evil-lev.tech/servicehouse/","name":"[:uk]SERVICEHOUSE[:en]ServiceHouse[:ru]ServiceHouse[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/servicehouse/#primaryimage"},"image":{"@id":"https://evil-lev.tech/servicehouse/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","datePublished":"2020-02-13T15:18:40+00:00","dateModified":"2022-01-14T14:05:22+00:00","breadcrumb":{"@id":"https://evil-lev.tech/servicehouse/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/servicehouse/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/servicehouse/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/servicehouse/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"SERVICEHOUSE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -89,9 +45,7 @@
 </head>
 
 <body class="page-template page-template-page-service_house page-template-page-service_house-php page page-id-3396 language-en">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWPMBRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
 
@@ -391,7 +345,7 @@
                                                                                 <div class="text-anime">
                                                                                             <h4 class="h4 title">Keeping the concept <br> home</h4>
                                                                                                                                         <div class="text text-md w-thin color-optional">
-                                                    <p>All LEV DEVELOPMENT projects are conceptual architectural solutions, and SERVICEHOUSE will continue to care for them as if they were their own child. Keeping the facade is one of the most important tasks, so the management company arranges for the supervision and control of the placement of air conditioners, for any work that may damage the exterior of the house or the interior design of entrances, and for the Internet in special boxes, which are in advance installed in the complex.</p>
+                                                    <p>All Evil Lev projects are conceptual architectural solutions, and SERVICEHOUSE will continue to care for them as if they were their own child. Keeping the facade is one of the most important tasks, so the management company arranges for the supervision and control of the placement of air conditioners, for any work that may damage the exterior of the house or the interior design of entrances, and for the Internet in special boxes, which are in advance installed in the complex.</p>
                                                 </div>
                                                                                     </div>
                                     </div>
@@ -764,7 +718,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2023</div>
+                <div>© Evil Lev 2023</div>
                 <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>

@@ -2,52 +2,8 @@
 <html>
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KWPMBRW');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3091367317567802');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=3091367317567802&ev=PageView
-&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -59,14 +15,14 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>≡ ЖК OBRIY 2 ᐈ Квартири комфорт-класу в новобудові по вул. Малоголосківській у Львові</title>
-	<meta name="description" content="ЖК OBRIY 2 (Обрій 2) від LEV Development - житловий комплекс з дизайнерським холом, дитячим садочком та підземним паркінгом."/>
+	<meta name="description" content="ЖК OBRIY 2 (Обрій 2) від Evil Lev - житловий комплекс з дизайнерським холом, дитячим садочком та підземним паркінгом."/>
 	<link rel="canonical" href="https://evil-lev.tech/en/complex/obriy-2/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ ЖК OBRIY 2 ᐈ Квартири комфорт-класу в новобудові по вул. Малоголосківській у Львові"/>
-	<meta property="og:description" content="ЖК OBRIY 2 (Обрій 2) від LEV Development - житловий комплекс з дизайнерським холом, дитячим садочком та підземним паркінгом."/>
+	<meta property="og:description" content="ЖК OBRIY 2 (Обрій 2) від Evil Lev - житловий комплекс з дизайнерським холом, дитячим садочком та підземним паркінгом."/>
 	<meta property="og:url" content="https://evil-lev.tech/en/complex/obriy-2/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2022-08-12T08:46:37+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2019/10/obriy2-preview.jpg"/>
 	<meta property="og:image:width" content="500"/>
@@ -74,8 +30,8 @@
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="≡ ЖК OBRIY 2 ᐈ Квартири комфорт-класу в новобудові по вул. Малоголосківській у Львові"/>
-	<meta name="twitter:description" content="ЖК OBRIY 2 (Обрій 2) від LEV Development - житловий комплекс з дизайнерським холом, дитячим садочком та підземним паркінгом."/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/complex/obriy-2/","url":"https://evil-lev.tech/en/complex/obriy-2/","name":"≡ ЖК OBRIY 2 ᐈ Квартири комфорт-класу в новобудові по вул. Малоголосківській у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/complex/obriy-2/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/complex/obriy-2/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2019/10/obriy2-preview.jpg","datePublished":"2019-10-02T12:16:17+00:00","dateModified":"2022-08-12T08:46:37+00:00","description":"ЖК OBRIY 2 (Обрій 2) від LEV Development - житловий комплекс з дизайнерським холом, дитячим садочком та підземним паркінгом.","breadcrumb":{"@id":"https://evil-lev.tech/en/complex/obriy-2/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/complex/obriy-2/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/complex/obriy-2/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2019/10/obriy2-preview.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2019/10/obriy2-preview.jpg","width":500,"height":680},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/complex/obriy-2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"ЖК OBRIY 2"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<meta name="twitter:description" content="ЖК OBRIY 2 (Обрій 2) від Evil Lev - житловий комплекс з дизайнерським холом, дитячим садочком та підземним паркінгом."/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/complex/obriy-2/","url":"https://evil-lev.tech/en/complex/obriy-2/","name":"≡ ЖК OBRIY 2 ᐈ Квартири комфорт-класу в новобудові по вул. Малоголосківській у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/complex/obriy-2/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/complex/obriy-2/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2019/10/obriy2-preview.jpg","datePublished":"2019-10-02T12:16:17+00:00","dateModified":"2022-08-12T08:46:37+00:00","description":"ЖК OBRIY 2 (Обрій 2) від Evil Lev - житловий комплекс з дизайнерським холом, дитячим садочком та підземним паркінгом.","breadcrumb":{"@id":"https://evil-lev.tech/en/complex/obriy-2/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/complex/obriy-2/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/complex/obriy-2/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2019/10/obriy2-preview.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2019/10/obriy2-preview.jpg","width":500,"height":680},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/complex/obriy-2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"ЖК OBRIY 2"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -84,7 +40,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/complex/obriy-2/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/complex/obriy-2/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/complex/obriy-2/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="RC OBRIY 2"><meta property="og:url" content="https://evil-lev.tech/en/complex/obriy-2/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/10/obriy2-preview.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="RC OBRIY 2"><meta property="og:url" content="https://evil-lev.tech/en/complex/obriy-2/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/10/obriy2-preview.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -93,9 +49,7 @@
 </head>
 
 <body class="complex-template-default single single-complex postid-611 language-en">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWPMBRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
 
@@ -1056,7 +1010,7 @@
                                                                                             <div class="accordeon-toggle">
                                                     <!-- style="display: block" -->
                                                     <div class="article">
-                                                        <p><strong>Customer:</strong> LLC “LEV DEVELOPMENT”;<br/>
+                                                        <p><strong>Customer:</strong> LLC “Evil Lev”;<br/>
 <strong>General Contractor:</strong> DEVELOPMENT-CITY LLC, License №2013022695;<br/>
 <strong>Technical supervision:</strong> Mogilyak Andriy Ivanovich, certificate series JSC №002259<br/>
 <strong>Author&#8217;s supervision:</strong> Platonov Yevhen Illich, certificate of architect AA №001605</p>
@@ -1099,7 +1053,7 @@
 </ul>
 <p><strong>Urban planning conditions and restrictions:</strong></p>
 <ul>
-<li>Approved by Decision № 850 of 03.08.2018 for the design of a construction object for the construction of LLC &#8220;Lev Development&#8221; apartment building with a technical floor, built-in public facilities, underground parking and transformer substation in the tract &#8220;Holosko&#8221;, serving the cooperative society &#8220;Ray Golosko&#8221; (sections № 3-7).</li>
+<li>Approved by Decision № 850 of 03.08.2018 for the design of a construction object for the construction of LLC &#8220;Evil Lev&#8221; apartment building with a technical floor, built-in public facilities, underground parking and transformer substation in the tract &#8220;Holosko&#8221;, serving the cooperative society &#8220;Ray Golosko&#8221; (sections № 3-7).</li>
 </ul>
                                                     </div>
                                                 </div>
@@ -1421,7 +1375,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2023</div>
+                <div>© Evil Lev 2023</div>
                 <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>

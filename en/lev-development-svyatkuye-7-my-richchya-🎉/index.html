@@ -2,52 +2,8 @@
 <html>
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KWPMBRW');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3091367317567802');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=3091367317567802&ev=PageView
-&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -58,33 +14,33 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉 - LEV Development</title>
-	<link rel="canonical" href="https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-🎉/"/>
+	<title>Evil Lev IS CELEBRATING ITS 7TH ANNIVERSARY 🎉 - Evil Lev</title>
+	<link rel="canonical" href="https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-🎉/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
-	<meta property="og:title" content="LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉"/>
-	<meta property="og:url" content="https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-🎉/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:title" content="Evil Lev IS CELEBRATING ITS 7TH ANNIVERSARY 🎉"/>
+	<meta property="og:url" content="https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-🎉/"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:published_time" content="2022-09-30T06:00:57+00:00"/>
 	<meta property="article:modified_time" content="2022-10-05T09:51:59+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg"/>
 	<meta property="og:image:width" content="1200"/>
 	<meta property="og:image:height" content="630"/>
 	<meta property="og:image:type" content="image/jpeg"/>
-	<meta name="author" content="lev-development"/>
+	<meta name="author" content="Evil-Lev"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:label1" content="Written by"/>
-	<meta name="twitter:data1" content="lev-development"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/","url":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/","name":"[:uk]LEV Development святкує 7-ми річчя 🎉[:en]LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","datePublished":"2022-09-30T06:00:57+00:00","dateModified":"2022-10-05T09:51:59+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","width":1200,"height":630},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"lev-development","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"lev-development"}}]}</script>
+	<meta name="twitter:data1" content="Evil-Lev"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/","url":"https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/","name":"[:uk]Evil Lev святкує 7-ми річчя 🎉[:en]Evil Lev IS CELEBRATING ITS 7TH ANNIVERSARY 🎉[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","datePublished":"2022-09-30T06:00:57+00:00","dateModified":"2022-10-05T09:51:59+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg","width":1200,"height":630},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Evil Lev IS CELEBRATING ITS 7TH ANNIVERSARY 🎉"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"Evil-Lev","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"Evil-Lev"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="https://api.w.org/" href="https://evil-lev.tech/en/wp-json/"/><link rel="alternate" type="application/json" href="https://evil-lev.tech/en/wp-json/wp/v2/posts/9803"/><link rel="alternate" type="application/json+oembed" href="https://evil-lev.tech/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fen%2Flev-development-svyatkuye-7-my-richchya-%25f0%259f%258e%2589%2F"/>
-<link rel="alternate" type="text/xml+oembed" href="https://evil-lev.tech/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fen%2Flev-development-svyatkuye-7-my-richchya-%25f0%259f%258e%2589%2F&#038;format=xml"/>
-<link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
-<link rel="alternate" hreflang="uk" href="https://evil-lev.tech/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
-<link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉"><meta property="og:url" content="https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<link rel="https://api.w.org/" href="https://evil-lev.tech/en/wp-json/"/><link rel="alternate" type="application/json" href="https://evil-lev.tech/en/wp-json/wp/v2/posts/9803"/><link rel="alternate" type="application/json+oembed" href="https://evil-lev.tech/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fen%2FEvil-Lev-svyatkuye-7-my-richchya-%25f0%259f%258e%2589%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://evil-lev.tech/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fen%2FEvil-Lev-svyatkuye-7-my-richchya-%25f0%259f%258e%2589%2F&#038;format=xml"/>
+<link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
+<link rel="alternate" hreflang="uk" href="https://evil-lev.tech/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
+<link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="Evil Lev IS CELEBRATING ITS 7TH ANNIVERSARY 🎉"><meta property="og:url" content="https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -93,9 +49,7 @@
 </head>
 
 <body class="post-template-default single single-post postid-9803 single-format-standard language-en">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWPMBRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
 
@@ -224,7 +178,7 @@
                             <li><a href="#" class="flatrisbutton" data-flatris-id="1dzoQ0NdPNW83pR">RC HYGGE lux</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="P3XQb0gM1wWzAg1">RC SILENT PARK</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="4Qd7VxYrVeWJpRA">RC PERFECT LIFE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e18Xg6keKxydMQj">RC FEEL HOUSE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="Na9e4xlDjxVBYnA">RC ARTHOUSE park</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="9gEpvWn8y0bP514">RC HYGGE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="krGQj6PPy6AD9My">RC OBRIY 3</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e18Xg6kAKAxydMQ">RC Central Hills</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="vo24Mx379x93yga">RC LIFE STORY</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="mbdRBxrXBD67Z8a">Smart Hill</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e2wa90QM90rXLAN">LEV CITY HOTEL</a></li>                        </ul>
                     </div>
 
-                    <div class="lang" tabindex="0"><span>ENG</span><ul><li><a href='https://evil-lev.tech/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/'>УКР</a></li></ul></div>                    
+                    <div class="lang" tabindex="0"><span>ENG</span><ul><li><a href='https://evil-lev.tech/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/'>УКР</a></li></ul></div>                    
                 </div>
             </div>
 
@@ -251,7 +205,7 @@
                     <div class="col-md-11 offset-md-1 col-lg-7 offset-lg-1">
                         <div class="cell-view">
                             <h1 class="h2 block-title lettering line-left-2 style2">
-                                <span>LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉</span>                            </h1>
+                                <span>Evil Lev IS CELEBRATING ITS 7TH ANNIVERSARY 🎉</span>                            </h1>
                             <div class="fade-anime delay2">
                                 <div class="date-detail bg-white">
                                     <div class="text text-xs color-grey">September 2022</div>
@@ -274,10 +228,10 @@
                             </a>
                             <div class="shares">
                                 <div class="socials">
-                                    <a class="tw" href="https://telegram.me/share/url?text=LEV DEVELOPMENT IS CELEBRATING ITS 7TH ANNIVERSARY 🎉&url=https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/" target="_blank">
+                                    <a class="tw" href="https://telegram.me/share/url?text=Evil Lev IS CELEBRATING ITS 7TH ANNIVERSARY 🎉&url=https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/" target="_blank">
                                         <svg class="fill-hover" height="682pt" viewBox="-21 -51 682.66669 682" width="682pt" xmlns="http://www.w3.org/2000/svg" fill="rgba(255,255,255,.8)"><path d="m640-1.667969-640 272.039063 167.777344 66.585937 59.726562 224.507813 109.976563-106.558594 178.917969 123.570312zm-403.78125 367.402344-6.457031 58.535156-24.800781-93.234375 435.039062-332.703125zm0 0"/></svg>
                                     </a>
-                                    <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=https://evil-lev.tech/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/" target="_blank">
+                                    <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=https://evil-lev.tech/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/" target="_blank">
                                         <svg class="fill-hover" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="430.113px" height="430.114px" viewBox="0 0 430.113 430.114" style="enable-background:new 0 0 430.113 430.114;" xml:space="preserve" fill="rgba(255,255,255,.8)">
                                         <g>
                                             <path d="M158.081,83.3c0,10.839,0,59.218,0,59.218h-43.385v72.412h43.385v215.183h89.122V214.936h59.805
@@ -297,8 +251,8 @@
                     <div class="col-lg-10 order-1 order-lg-2">
                         <div class="blog-detail">
                             <article class="article text-md w-thin color-grey">
-                                <p><strong><span>LEV Development</span></strong><span> is celebrating a birthday🎁</span></p>
-<p><span>Love for one&#8217;s business, the desire to create the best, to feel customers and satisfy their needs — for </span><strong><span>7 years</span></strong><span> the main principles of </span><strong><span>LEV Development</span></strong><span> . During this time, the company made a significant contribution to the strengthening and development of our state.</span></p>
+                                <p><strong><span>Evil Lev</span></strong><span> is celebrating a birthday🎁</span></p>
+<p><span>Love for one&#8217;s business, the desire to create the best, to feel customers and satisfy their needs — for </span><strong><span>7 years</span></strong><span> the main principles of </span><strong><span>Evil Lev</span></strong><span> . During this time, the company made a significant contribution to the strengthening and development of our state.</span></p>
 <p><span>The LEV team invests its soul and experience in each project, so we are always sure of the result. We are building a quality future for Ukrainians, changing lifestyles, and conquering new peaks.</span></p>
 <p><span>More to come 🥰</span></p>
     <img data-src="https://evil-lev.tech/wp-content/uploads/2022/10/7ye-vidnovleno_-kopiya-1000x525.jpg.pagespeed.ce.oMuW-mU7JK.jpg" alt="">
@@ -467,7 +421,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2023</div>
+                <div>© Evil Lev 2023</div>
                 <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>
@@ -584,7 +538,7 @@
                 <div class="cf7-wrapper" data-message="" data-error="">
                     <div class="wpcf7 no-js" id="wpcf7-f395-o1" lang="uk" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/en/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/#wpcf7-f395-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<form action="/en/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/#wpcf7-f395-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="395"/>
 <input type="hidden" name="_wpcf7_version" value="5.7.2"/>

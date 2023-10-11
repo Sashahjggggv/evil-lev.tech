@@ -2,52 +2,8 @@
 <html>
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KWPMBRW');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3091367317567802');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=3091367317567802&ev=PageView
-&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -59,20 +15,20 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>≡ ЖК FEEL HOUSE ᐈ Квартири бізнес-класу в новобудові у Львові</title>
-	<meta name="description" content="ЖК Feel House (Філ Хаус) від LEV Development - малоповерховий проєкт біля озера у скандинавському стилі з дизайнерськими холами та закритою територією."/>
+	<meta name="description" content="ЖК Feel House (Філ Хаус) від Evil Lev - малоповерховий проєкт біля озера у скандинавському стилі з дизайнерськими холами та закритою територією."/>
 	<link rel="canonical" href="https://evil-lev.tech/complex/zhk-feel-house/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ ЖК FEEL HOUSE ᐈ Квартири бізнес-класу в новобудові у Львові"/>
-	<meta property="og:description" content="ЖК Feel House (Філ Хаус) від LEV Development - малоповерховий проєкт біля озера у скандинавському стилі з дизайнерськими холами та закритою територією."/>
+	<meta property="og:description" content="ЖК Feel House (Філ Хаус) від Evil Lev - малоповерховий проєкт біля озера у скандинавському стилі з дизайнерськими холами та закритою територією."/>
 	<meta property="og:url" content="https://evil-lev.tech/complex/zhk-feel-house/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2023-09-18T11:26:34+00:00"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="≡ ЖК FEEL HOUSE ᐈ Квартири бізнес-класу в новобудові у Львові"/>
-	<meta name="twitter:description" content="ЖК Feel House (Філ Хаус) від LEV Development - малоповерховий проєкт біля озера у скандинавському стилі з дизайнерськими холами та закритою територією."/>
+	<meta name="twitter:description" content="ЖК Feel House (Філ Хаус) від Evil Lev - малоповерховий проєкт біля озера у скандинавському стилі з дизайнерськими холами та закритою територією."/>
 	<meta name="twitter:image" content="https://evil-lev.tech/wp-content/uploads/2021/06/03jpg.jpg"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/complex/zhk-feel-house/","url":"https://evil-lev.tech/complex/zhk-feel-house/","name":"≡ ЖК FEEL HOUSE ᐈ Квартири бізнес-класу в новобудові у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/complex/zhk-feel-house/#primaryimage"},"image":{"@id":"https://evil-lev.tech/complex/zhk-feel-house/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/06/03jpg.jpg","datePublished":"2021-06-07T07:47:59+00:00","dateModified":"2023-09-18T11:26:34+00:00","description":"ЖК Feel House (Філ Хаус) від LEV Development - малоповерховий проєкт біля озера у скандинавському стилі з дизайнерськими холами та закритою територією.","breadcrumb":{"@id":"https://evil-lev.tech/complex/zhk-feel-house/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/complex/zhk-feel-house/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/complex/zhk-feel-house/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/06/03jpg.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/06/03jpg.jpg","width":1628,"height":2250},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/complex/zhk-feel-house/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"ЖК FEEL HOUSE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/complex/zhk-feel-house/","url":"https://evil-lev.tech/complex/zhk-feel-house/","name":"≡ ЖК FEEL HOUSE ᐈ Квартири бізнес-класу в новобудові у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/complex/zhk-feel-house/#primaryimage"},"image":{"@id":"https://evil-lev.tech/complex/zhk-feel-house/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/06/03jpg.jpg","datePublished":"2021-06-07T07:47:59+00:00","dateModified":"2023-09-18T11:26:34+00:00","description":"ЖК Feel House (Філ Хаус) від Evil Lev - малоповерховий проєкт біля озера у скандинавському стилі з дизайнерськими холами та закритою територією.","breadcrumb":{"@id":"https://evil-lev.tech/complex/zhk-feel-house/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/complex/zhk-feel-house/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/complex/zhk-feel-house/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/06/03jpg.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/06/03jpg.jpg","width":1628,"height":2250},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/complex/zhk-feel-house/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"ЖК FEEL HOUSE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -81,7 +37,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/complex/zhk-feel-house/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/complex/zhk-feel-house/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/complex/zhk-feel-house/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="RC FEEL HOUSE"><meta property="og:url" content="https://evil-lev.tech/en/complex/zhk-feel-house/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/06/03jpg.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="RC FEEL HOUSE"><meta property="og:url" content="https://evil-lev.tech/en/complex/zhk-feel-house/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/06/03jpg.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -90,9 +46,7 @@
 </head>
 
 <body class="complex-template-default single single-complex postid-7041 language-en">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWPMBRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
 
@@ -419,7 +373,7 @@
                             <div class="t-overflow">
                                 <article class="article text-md two-column color-grey w-regular text-anime delay2">
                                     <p>Have you noticed how much time we spend searching for our place of strength? One where you get energy and peace, happiness and freedom, where you are confident in your safety and can be yourself. More and more people are starting to think and care about themselves and their feelings. And this is not selfishness, this is a natural desire to find harmony in life.</p>
-<p>FEEL HOUSE is a special business class residential complex from LEV Development. Scandinavian-style low-rise project with exclusive design halls and an enclosed area. Located in a location with a unique ecosystem and two lakes for relaxation. A place where ideas are born and inspiration hovers.</p>
+<p>FEEL HOUSE is a special business class residential complex from Evil Lev. Scandinavian-style low-rise project with exclusive design halls and an enclosed area. Located in a location with a unique ecosystem and two lakes for relaxation. A place where ideas are born and inspiration hovers.</p>
                                 </article>
                             </div>
                             <div class="spacer-sm"></div>
@@ -1452,7 +1406,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2023</div>
+                <div>© Evil Lev 2023</div>
                 <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>
@@ -1855,7 +1809,7 @@
         <div class="layer-close"></div>
         <div class="popup-container size-2">
             <div class="popup-align bg-white">
-                                <div class="h4 title text-center w-medium">Terms of installments from LEV Development:</div>
+                                <div class="h4 title text-center w-medium">Terms of installments from Evil Lev:</div>
                                 <div class="text text-lg w-thin">
                 <p>&nbsp;</p>
 <p>For housing:</p>

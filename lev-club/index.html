@@ -2,52 +2,8 @@
 <html>
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KWPMBRW');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3091367317567802');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=3091367317567802&ev=PageView
-&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -58,20 +14,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>LEV Club - LEV Development</title>
+	<title>LEV Club - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/lev-club/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="LEV Club"/>
 	<meta property="og:url" content="https://evil-lev.tech/lev-club/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2022-01-14T14:05:03+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/01/image_part_002.jpg"/>
 	<meta property="og:image:width" content="500"/>
 	<meta property="og:image:height" content="1073"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/lev-club/","url":"https://evil-lev.tech/lev-club/","name":"[:uk]LEV Club[:en]LEV Club[:ru]LEV Club[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/lev-club/#primaryimage"},"image":{"@id":"https://evil-lev.tech/lev-club/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_002.jpg","datePublished":"2019-09-17T16:08:16+00:00","dateModified":"2022-01-14T14:05:03+00:00","breadcrumb":{"@id":"https://evil-lev.tech/lev-club/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/lev-club/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/lev-club/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_002.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_002.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/lev-club/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"LEV Club"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/lev-club/","url":"https://evil-lev.tech/lev-club/","name":"[:uk]LEV Club[:en]LEV Club[:ru]LEV Club[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/lev-club/#primaryimage"},"image":{"@id":"https://evil-lev.tech/lev-club/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_002.jpg","datePublished":"2019-09-17T16:08:16+00:00","dateModified":"2022-01-14T14:05:03+00:00","breadcrumb":{"@id":"https://evil-lev.tech/lev-club/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/lev-club/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/lev-club/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_002.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_002.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/lev-club/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"LEV Club"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -89,9 +45,7 @@
 </head>
 
 <body class="page-template page-template-page-club page-template-page-club-php page page-id-337 language-uk">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWPMBRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
 
@@ -278,8 +232,8 @@
                         </div>
                                                 <div class="t-overflow">
                             <div class="article text-md color-grey w-thin text-anime">
-                                <p>Обираючи нерухомість компанії LEV Development Ви автоматично стаєте членом LEV Club. Для учасників цього клубу передбачено ряд переваг, Ви зможете користуватися знижками на усю нерухомість компанії, відвідувати цікаві події та івенти. Приємним бонусом стануть знижки на товари та послуги від партнерів компанії.</p>
-<p>«LEV Development пропонує лише перевірені та надійні компанії, які надають якісний сервіс та найкращі товари», – запевняє Олександр Островський, співзасновник компанії LEV Development.</p>
+                                <p>Обираючи нерухомість компанії Evil Lev Ви автоматично стаєте членом LEV Club. Для учасників цього клубу передбачено ряд переваг, Ви зможете користуватися знижками на усю нерухомість компанії, відвідувати цікаві події та івенти. Приємним бонусом стануть знижки на товари та послуги від партнерів компанії.</p>
+<p>«Evil Lev пропонує лише перевірені та надійні компанії, які надають якісний сервіс та найкращі товари», – запевняє Олександр Островський, співзасновник компанії Evil Lev.</p>
                             </div>
                         </div>
                     </div>
@@ -311,7 +265,7 @@
                                     <div class="subtitle">Картка Gold</div>
                                     <div class="desc">
                                         <div class="text-md w-thin color-grey">
-                                            <p>Чорне золото. Міняємо картку Black на Gold, якщо купив квартиру в LEV Development. Тепер у тебе 3% знижки.</p>
+                                            <p>Чорне золото. Міняємо картку Black на Gold, якщо купив квартиру в Evil Lev. Тепер у тебе 3% знижки.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -324,7 +278,7 @@
                                     <div class="subtitle">Картка Platinum</div>
                                     <div class="desc">
                                         <div class="text-md w-thin color-grey">
-                                            <p>Клієнтам LEV Development, які з нами пройшли вогонь, воду та мідні труби, даруємо картку Platinum і 5% знижки.</p>
+                                            <p>Клієнтам Evil Lev, які з нами пройшли вогонь, воду та мідні труби, даруємо картку Platinum і 5% знижки.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -497,7 +451,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2023</div>
+                <div>© Evil Lev 2023</div>
                 <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>

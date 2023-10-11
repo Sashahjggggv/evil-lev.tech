@@ -2,52 +2,8 @@
 <html>
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KWPMBRW');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3091367317567802');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=3091367317567802&ev=PageView
-&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -59,14 +15,14 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>≡ ЖК LIFE STORY ᐈ Квартири бізнес-класу в новобудові у Києві</title>
-	<meta name="description" content="ЖК LIFE STORY (Лайф Сторі) від LEV Development - житловий комплекс поруч з парку Феофанія, двором без машин та дизайнерськими холами."/>
+	<meta name="description" content="ЖК LIFE STORY (Лайф Сторі) від Evil Lev - житловий комплекс поруч з парку Феофанія, двором без машин та дизайнерськими холами."/>
 	<link rel="canonical" href="https://evil-lev.tech/complex/zhk-life-story/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ ЖК LIFE STORY ᐈ Квартири бізнес-класу в новобудові у Києві"/>
-	<meta property="og:description" content="ЖК LIFE STORY (Лайф Сторі) від LEV Development - житловий комплекс поруч з парку Феофанія, двором без машин та дизайнерськими холами."/>
+	<meta property="og:description" content="ЖК LIFE STORY (Лайф Сторі) від Evil Lev - житловий комплекс поруч з парку Феофанія, двором без машин та дизайнерськими холами."/>
 	<meta property="og:url" content="https://evil-lev.tech/complex/zhk-life-story/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2022-10-18T15:27:47+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2019/12/444x614-scaled.jpg"/>
 	<meta property="og:image:width" content="1852"/>
@@ -74,8 +30,8 @@
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="≡ ЖК LIFE STORY ᐈ Квартири бізнес-класу в новобудові у Києві"/>
-	<meta name="twitter:description" content="ЖК LIFE STORY (Лайф Сторі) від LEV Development - житловий комплекс поруч з парку Феофанія, двором без машин та дизайнерськими холами."/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/complex/zhk-life-story/","url":"https://evil-lev.tech/complex/zhk-life-story/","name":"≡ ЖК LIFE STORY ᐈ Квартири бізнес-класу в новобудові у Києві","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/complex/zhk-life-story/#primaryimage"},"image":{"@id":"https://evil-lev.tech/complex/zhk-life-story/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2019/12/444x614-scaled.jpg","datePublished":"2019-12-03T16:18:11+00:00","dateModified":"2022-10-18T15:27:47+00:00","description":"ЖК LIFE STORY (Лайф Сторі) від LEV Development - житловий комплекс поруч з парку Феофанія, двором без машин та дизайнерськими холами.","breadcrumb":{"@id":"https://evil-lev.tech/complex/zhk-life-story/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/complex/zhk-life-story/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/complex/zhk-life-story/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2019/12/444x614-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2019/12/444x614-scaled.jpg","width":1852,"height":2560},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/complex/zhk-life-story/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"RC LIFE STORY"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<meta name="twitter:description" content="ЖК LIFE STORY (Лайф Сторі) від Evil Lev - житловий комплекс поруч з парку Феофанія, двором без машин та дизайнерськими холами."/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/complex/zhk-life-story/","url":"https://evil-lev.tech/complex/zhk-life-story/","name":"≡ ЖК LIFE STORY ᐈ Квартири бізнес-класу в новобудові у Києві","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/complex/zhk-life-story/#primaryimage"},"image":{"@id":"https://evil-lev.tech/complex/zhk-life-story/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2019/12/444x614-scaled.jpg","datePublished":"2019-12-03T16:18:11+00:00","dateModified":"2022-10-18T15:27:47+00:00","description":"ЖК LIFE STORY (Лайф Сторі) від Evil Lev - житловий комплекс поруч з парку Феофанія, двором без машин та дизайнерськими холами.","breadcrumb":{"@id":"https://evil-lev.tech/complex/zhk-life-story/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/complex/zhk-life-story/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/complex/zhk-life-story/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2019/12/444x614-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2019/12/444x614-scaled.jpg","width":1852,"height":2560},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/complex/zhk-life-story/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"RC LIFE STORY"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -84,7 +40,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/complex/zhk-life-story/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/complex/zhk-life-story/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/complex/zhk-life-story/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="RC LIFE STORY"><meta property="og:url" content="https://evil-lev.tech/en/complex/zhk-life-story/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/12/444x614-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="RC LIFE STORY"><meta property="og:url" content="https://evil-lev.tech/en/complex/zhk-life-story/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/12/444x614-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -93,9 +49,7 @@
 </head>
 
 <body class="complex-template-default single single-complex postid-2877 language-en">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWPMBRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
 
@@ -1351,7 +1305,7 @@ State and specialized schools and lyceums</p>
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2023</div>
+                <div>© Evil Lev 2023</div>
                 <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>
@@ -1754,7 +1708,7 @@ State and specialized schools and lyceums</p>
         <div class="layer-close"></div>
         <div class="popup-container size-2">
             <div class="popup-align bg-white">
-                                <div class="h4 title text-center w-medium">Terms of installments from LEV Development:</div>
+                                <div class="h4 title text-center w-medium">Terms of installments from Evil Lev:</div>
                                 <div class="text text-lg w-thin">
                 <p>The first minimum payment &#8211; 30% of the cost of the apartment, paid after signing the contract.</p>
 <p>For 6 months &#8211; without any overpayments, pegged to the dollar exchange rate;</p>

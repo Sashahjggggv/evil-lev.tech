@@ -2,52 +2,8 @@
 <html>
 
 <head>
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KWPMBRW');
-    </script>
-    <!-- End Google Tag Manager -->
-    <!-- Facebook Pixel Code -->
-    <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '3091367317567802');
-        fbq('track', 'PageView');
-    </script>
-    <noscript>
-        <img height="1" width="1" src="https://www.facebook.com/tr?id=3091367317567802&ev=PageView
-&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
+    
+    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -58,20 +14,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Executive floors ARTHOUSE park - LEV Development</title>
+	<title>Executive floors ARTHOUSE park - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="Executive floors ARTHOUSE park"/>
 	<meta property="og:url" content="https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2022-06-22T18:40:56+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg"/>
 	<meta property="og:image:width" content="2560"/>
 	<meta property="og:image:height" content="1009"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/","url":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/","name":"[:uk]Представницькі поверхи ARTHOUSE park[:en]Executive floors ARTHOUSE park[:ru]Представницькі поверхи ARTHOUSE park[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","datePublished":"2021-01-05T09:29:03+00:00","dateModified":"2022-06-22T18:40:56+00:00","breadcrumb":{"@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","width":2560,"height":1009},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Executive floors ARTHOUSE park"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/","url":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/","name":"[:uk]Представницькі поверхи ARTHOUSE park[:en]Executive floors ARTHOUSE park[:ru]Представницькі поверхи ARTHOUSE park[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","datePublished":"2021-01-05T09:29:03+00:00","dateModified":"2022-06-22T18:40:56+00:00","breadcrumb":{"@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","width":2560,"height":1009},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/predstavnyczki-poverhy-arthouse-park/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/en/"},{"@type":"ListItem","position":2,"name":"Executive floors ARTHOUSE park"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -89,9 +45,7 @@
 </head>
 
 <body class="page-template page-template-page-complex-arhouse page-template-page-complex-arhouse-php page page-id-5533 language-en">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWPMBRW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+    
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
 
@@ -736,7 +690,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2023</div>
+                <div>© Evil Lev 2023</div>
                 <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
             </div>
         </div>
