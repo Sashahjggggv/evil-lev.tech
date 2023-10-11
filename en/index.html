@@ -270,7 +270,7 @@
                 </div>
 
                 <div class="map-fixed d-xs-none">
-                    <div class="map-wrapper" id="map-canvas-1" data-lat="49.8629254" data-lng="24.0438003" data-zoom="6" data-xs-zoom="6" data-cluster-img="https://evil-lev.tech/wp-content/themes/lev/img/icon-cluster.png" data-gm-key="AIzaSyCYwk23aIR-N5XTFmojgQRHbj_T6lOOUPE"></div>
+                    <div class="map-wrapper" id="map-canvas-1" data-lat="49.8629254" data-lng="24.0438003" data-zoom="6" data-xs-zoom="6" data-cluster-img="https://evil-lev.tech/wp-content/themes/lev/img/icon-cluster.png" data-gm-key="AIzaSyClBLlxNuBIprKBsHs0khJVm_5f1Rdz7kE"></div>
 
                     <!-- markers -->
                                         <a class="marker" data-rel="map-canvas-1" data-filter1="1,3" data-filter2="3" data-lat="49.80818496830155" data-lng="24.069923003720614" data-image="https://evil-lev.tech/wp-content/uploads/2022/12/point-hygge-lux.png" data-xs-image="https://evil-lev.tech/wp-content/uploads/2022/12/point-hygge-lux-95x52.png" data-string="<div class='bg-image' style='background-image:url(https://evil-lev.tech/wp-content/uploads/2022/11/04-scaled.jpg)'></div><div class='content'><h5>RC HYGGE lux</h5><ul><li><b>Address: </b>Lviv, Pasichna st., 166</li><li><b>Stage of construction: </b>IV QUARTER 2024</li><li class='flat-price'><b>Price from: </b>53 480 UAH / m<sup>2</sup></li></ul><div class='btn-wrap'><a class='btn btn-simple' href='https://evil-lev.tech/en/complex/zhk-hygge-lux/'><span>more detail</span></a><a class='btn btn-simple flatrisbutton' data-flatris-id='1dzoQ0NdPNW83pR' href='#'><span>property search</span></a></div></div>"></a>
@@ -1199,16 +1199,12 @@ var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/en\/wp-json\/","namespace":
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.lettering.js,qver=9.075.pagespeed.ce.BzioWQ4s9d.js' id='lettering-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/custom-anime.js,qver=9.075.pagespeed.ce.dc2IozKHnP.js' id='custom-anime-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.inputmask.min.js,qver=9.075.pagespeed.ce.ouyNH2ED9G.js' id='jquery-inputmask-js-js'></script>
-<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCYwk23aIR-N5XTFmojgQRHbj_T6lOOUPE&#038;libraries=geometry%2Cplaces&#038;v=3&#038;language=en&#038;ver=9.075' id='gm-js-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyClBLlxNuBIprKBsHs0khJVm_5f1Rdz7kE&#038;libraries=geometry%2Cplaces&#038;v=3&#038;language=en&#038;ver=9.075' id='gm-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/infobox.js,qver=9.075.pagespeed.ce.GI3ux4B4tZ.js' id='infobox-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/markerclusterer.min.js,qver=9.075.pagespeed.ce.9FmIqwklwe.js' id='markerclusterer-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/map.js,qver=9.075.pagespeed.ce.NcFWMRvqqT.js' id='map-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/main.js,qver=9.075.pagespeed.ce.2qS-Jtg9Uf.js' id='main-js-js'></script>
-<script type="text/javascript">
-    (function (d, s, u, e, p) {
-        p = d.getElementsByTagName(s)[0], e = d.createElement(s), e.async = 1, e.src = u, p.parentNode.insertBefore(e, p);
-    })(document, 'script', 'https://flatris.com.ua/public/web.js?cid=P3XQb0g7V0zAg1G&hl=uk');
-</script>
+
 
 </body>
 

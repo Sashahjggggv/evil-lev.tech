@@ -531,7 +531,7 @@
             
             <div class="infrustructure-map">
                 
-                                <div class="map-wrapper" id="map-canvas-1" data-lat="49.867901" data-lng="24.002670" data-zoom="15" data-xs-zoom="14" data-cluster-img="https://evil-lev.tech/wp-content/themes/lev/img/icon-cluster.png" data-image="https://evil-lev.tech/wp-content/uploads/2020/03/obriy-2.png" data-image-xs="https://evil-lev.tech/wp-content/uploads/2020/03/obriy-2-61x45.png" data-home="https://evil-lev.tech/wp-content/themes/lev/" data-gm-key="AIzaSyCYwk23aIR-N5XTFmojgQRHbj_T6lOOUPE"></div>
+                                <div class="map-wrapper" id="map-canvas-1" data-lat="49.867901" data-lng="24.002670" data-zoom="15" data-xs-zoom="14" data-cluster-img="https://evil-lev.tech/wp-content/themes/lev/img/icon-cluster.png" data-image="https://evil-lev.tech/wp-content/uploads/2020/03/obriy-2.png" data-image-xs="https://evil-lev.tech/wp-content/uploads/2020/03/obriy-2-61x45.png" data-home="https://evil-lev.tech/wp-content/themes/lev/" data-gm-key="AIzaSyClBLlxNuBIprKBsHs0khJVm_5f1Rdz7kE"></div>
 
 
                                     <a class="marker" data-rel="map-canvas-1" data-filter1="6" data-lat="49.867115" data-lng="24.002329" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-cafe.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-cafe-hover.png" data-string="<div class='infobox-style2'>
@@ -1818,7 +1818,7 @@ var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/en\/wp-json\/","namespace":
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.lettering.js,qver=9.075.pagespeed.ce.BzioWQ4s9d.js' id='lettering-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/custom-anime.js,qver=9.075.pagespeed.ce.dc2IozKHnP.js' id='custom-anime-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.inputmask.min.js,qver=9.075.pagespeed.ce.ouyNH2ED9G.js' id='jquery-inputmask-js-js'></script>
-<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCYwk23aIR-N5XTFmojgQRHbj_T6lOOUPE&#038;libraries=geometry%2Cplaces&#038;v=3&#038;language=en&#038;ver=9.075' id='gm-js-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyClBLlxNuBIprKBsHs0khJVm_5f1Rdz7kE&#038;libraries=geometry%2Cplaces&#038;v=3&#038;language=en&#038;ver=9.075' id='gm-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/infobox.js,qver=9.075.pagespeed.ce.GI3ux4B4tZ.js' id='infobox-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/markerclusterer.min.js,qver=9.075.pagespeed.ce.9FmIqwklwe.js' id='markerclusterer-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/map.js,qver=9.075.pagespeed.ce.NcFWMRvqqT.js' id='map-js-js'></script>
@@ -1913,10 +1913,6 @@ var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/en\/wp-json\/","namespace":
             }, 600);
         });
     });
-</script><script type="text/javascript">
-    (function (d, s, u, e, p) {
-        p = d.getElementsByTagName(s)[0], e = d.createElement(s), e.async = 1, e.src = u, p.parentNode.insertBefore(e, p);
-    })(document, 'script', 'https://flatris.com.ua/public/web.js?cid=P3XQb0g7V0zAg1G&hl=uk');
 </script>
 
 </body>

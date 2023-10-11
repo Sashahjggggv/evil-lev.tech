@@ -937,10 +937,6 @@ var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/wp-json\/","namespace":"con
             }, 600);
         });
     });
-</script><script type="text/javascript">
-    (function (d, s, u, e, p) {
-        p = d.getElementsByTagName(s)[0], e = d.createElement(s), e.async = 1, e.src = u, p.parentNode.insertBefore(e, p);
-    })(document, 'script', 'https://flatris.com.ua/public/web.js?cid=P3XQb0g7V0zAg1G&hl=uk');
 </script>
 
 </body>
