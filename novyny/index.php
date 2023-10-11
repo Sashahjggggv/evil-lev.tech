@@ -152,11 +152,7 @@
                             </a>
                                             </div>
 
-                    <div class="icon-link-wr">
-                        <!-- <a class="icon-link b24-web-form-popup-btn-151 d-xs-none"><span></span></a> -->
-                        <a class="icon-link d-xs-none" onclick="delegate_click();"><span>
-                                Зворотний дзвінок</span></a>
-                    </div>
+                    
                     <div class="search-btn" tabindex="0">
                         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27.2px" height="27.2px" viewBox="0 0 27.2 27.2" style="enable-background:new 0 0 27.2 27.2;" xml:space="preserve" class="svg-fill">
                             <g>
