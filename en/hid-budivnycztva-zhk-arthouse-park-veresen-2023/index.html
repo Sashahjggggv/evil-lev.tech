@@ -492,7 +492,7 @@
             </div>
             <div class="copyright">
                 <div>© Evil Lev 2023</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX.svg" alt="Створення сайтів ALEX"></a>
             </div>
         </div>
     </footer>
