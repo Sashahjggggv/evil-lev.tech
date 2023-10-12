@@ -204,9 +204,9 @@
 		<div class="container custom">
 			<div class="row news-row">
 										<div class="col-lg-6 anime">
-							<a href="https://evil-lev.tech/en/Evil-Lev-na-mapi-zakonnyh-zabudov/" class="news-item">
+							<a href="https://evil-lev.tech/en/lev-development-na-mapi-zakonnyh-zabudov/" class="news-item">
 								<div class="full-size img-enter hover-image">
-									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/09/Evil-Lev-na-mapi-zakordonnyh-zabudov-preview.jpg"></div>
+									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/09/lev-development-na-mapi-zakordonnyh-zabudov-preview.jpg"></div>
 								</div>
 								<div class="news-desc fade-anime delay2">
 									<div class="date">

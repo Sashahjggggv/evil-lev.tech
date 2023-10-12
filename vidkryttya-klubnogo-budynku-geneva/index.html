@@ -352,7 +352,7 @@
                     <div class="col-lg-10 offset-lg-2 fade-anime">
                         <div class="blog-detail-layout">
                             <div class="prev-next">
-                                                                    <a class="btn btn-lg prev" href="https://evil-lev.tech/romantychnyj-polit-na-povitryanij-kuli-vid-Evil-Lev/"><span>попередня новина<span class="ar"></span></span></a>
+                                                                    <a class="btn btn-lg prev" href="https://evil-lev.tech/romantychnyj-polit-na-povitryanij-kuli-vid-lev-development/"><span>попередня новина<span class="ar"></span></span></a>
                                                                                                     <a class="btn btn-lg next" href="https://evil-lev.tech/start-prodazhu-4-sekcziyi-zhk-obriy3/"><span>наступна новина<span class="ar"></span></span></a>
                                                             </div>
                         </div>

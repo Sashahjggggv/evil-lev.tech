@@ -308,7 +308,7 @@
                         <div class="blog-detail-layout">
                             <div class="prev-next">
                                                                     <a class="btn btn-lg prev" href="https://evil-lev.tech/en/kupuj-vygidno-zrostannya-czin-u-zhk-hygge148/"><span>previous news<span class="ar"></span></span></a>
-                                                                                                    <a class="btn btn-lg next" href="https://evil-lev.tech/en/vidkryttya-novogo-viddilu-prodazhu-Evil-Lev/"><span>the next news<span class="ar"></span></span></a>
+                                                                                                    <a class="btn btn-lg next" href="https://evil-lev.tech/en/vidkryttya-novogo-viddilu-prodazhu-lev-development/"><span>the next news<span class="ar"></span></span></a>
                                                             </div>
                         </div>
                     </div>

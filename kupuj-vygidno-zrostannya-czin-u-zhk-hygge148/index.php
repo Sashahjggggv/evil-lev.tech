@@ -264,7 +264,7 @@
                     <div class="col-lg-10 offset-lg-2 fade-anime">
                         <div class="blog-detail-layout">
                             <div class="prev-next">
-                                                                    <a class="btn btn-lg prev" href="https://evil-lev.tech/forum-novobudov-ta-investyczij-2019Evil-Lev-2/"><span>попередня новина<span class="ar"></span></span></a>
+                                                                    <a class="btn btn-lg prev" href="https://evil-lev.tech/forum-novobudov-ta-investyczij-2019lev-development-2/"><span>попередня новина<span class="ar"></span></span></a>
                                                                                                     <a class="btn btn-lg next" href="https://evil-lev.tech/boom-awards-2019/"><span>наступна новина<span class="ar"></span></span></a>
                                                             </div>
                         </div>

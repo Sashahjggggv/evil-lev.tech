@@ -204,9 +204,9 @@
 		<div class="container custom">
 			<div class="row news-row">
 										<div class="col-lg-6 anime">
-							<a href="https://evil-lev.tech/en/romantychnyj-polit-na-povitryanij-kuli-vid-Evil-Lev/" class="news-item">
+							<a href="https://evil-lev.tech/en/romantychnyj-polit-na-povitryanij-kuli-vid-lev-development/" class="news-item">
 								<div class="full-size img-enter hover-image">
-									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/07/romantychnyj-polit-na-povitryanij-kuli-vid-Evil-Lev-preview.jpg"></div>
+									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/07/romantychnyj-polit-na-povitryanij-kuli-vid-lev-development-preview.jpg"></div>
 								</div>
 								<div class="news-desc fade-anime delay2">
 									<div class="date">
@@ -220,9 +220,9 @@
 							</a>
 						</div>
 											<div class="col-lg-6 anime">
-							<a href="https://evil-lev.tech/en/vidkryttya-novogo-viddilu-prodazhu-Evil-Lev/" class="news-item">
+							<a href="https://evil-lev.tech/en/vidkryttya-novogo-viddilu-prodazhu-lev-development/" class="news-item">
 								<div class="full-size img-enter hover-image">
-									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/11/vidkryttya-novogo-viddilu-prodazhu-Evil-Lev-preview.jpg"></div>
+									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/11/vidkryttya-novogo-viddilu-prodazhu-lev-development-preview.jpg"></div>
 								</div>
 								<div class="news-desc fade-anime delay2">
 									<div class="date">
@@ -252,9 +252,9 @@
 							</a>
 						</div>
 											<div class="col-lg-6 anime">
-							<a href="https://evil-lev.tech/en/forum-novobudov-ta-investyczij-2019Evil-Lev-2/" class="news-item">
+							<a href="https://evil-lev.tech/en/forum-novobudov-ta-investyczij-2019lev-development-2/" class="news-item">
 								<div class="full-size img-enter hover-image">
-									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/05/forum-novobudov-ta-investyczij-2019Evil-Lev-2-preview.jpg"></div>
+									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/05/forum-novobudov-ta-investyczij-2019lev-development-2-preview.jpg"></div>
 								</div>
 								<div class="news-desc fade-anime delay2">
 									<div class="date">

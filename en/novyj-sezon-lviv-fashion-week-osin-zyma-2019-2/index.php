@@ -332,8 +332,8 @@
                     <div class="col-lg-10 offset-lg-2 fade-anime">
                         <div class="blog-detail-layout">
                             <div class="prev-next">
-                                                                    <a class="btn btn-lg prev" href="https://evil-lev.tech/en/Evil-Lev-club/"><span>previous news<span class="ar"></span></span></a>
-                                                                                                    <a class="btn btn-lg next" href="https://evil-lev.tech/en/lviv-art-days-2019Evil-Lev-2/"><span>the next news<span class="ar"></span></span></a>
+                                                                    <a class="btn btn-lg prev" href="https://evil-lev.tech/en/lev-development-club/"><span>previous news<span class="ar"></span></span></a>
+                                                                                                    <a class="btn btn-lg next" href="https://evil-lev.tech/en/lviv-art-days-2019lev-development-2/"><span>the next news<span class="ar"></span></span></a>
                                                             </div>
                         </div>
                     </div>

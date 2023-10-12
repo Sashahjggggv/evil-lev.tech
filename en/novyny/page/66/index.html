@@ -252,9 +252,9 @@
 							</a>
 						</div>
 											<div class="col-lg-6 anime">
-							<a href="https://evil-lev.tech/en/vidkryttya-suchasnoyi-zony-dlya-doroslyh-ta-ditej-vid-Evil-Lev/" class="news-item">
+							<a href="https://evil-lev.tech/en/vidkryttya-suchasnoyi-zony-dlya-doroslyh-ta-ditej-vid-lev-development/" class="news-item">
 								<div class="full-size img-enter hover-image">
-									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/11/vidkryttya-suchasnoyi-zony-dlya-doroslyh-ta-ditej-vid-Evil-Lev-preview.jpg"></div>
+									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/11/vidkryttya-suchasnoyi-zony-dlya-doroslyh-ta-ditej-vid-lev-development-preview.jpg"></div>
 								</div>
 								<div class="news-desc fade-anime delay2">
 									<div class="date">

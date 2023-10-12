@@ -203,9 +203,9 @@
 		<div class="container custom">
 			<div class="row news-row">
 										<div class="col-lg-6 anime">
-							<a href="https://evil-lev.tech/Evil-Lev-club/" class="news-item">
+							<a href="https://evil-lev.tech/lev-development-club/" class="news-item">
 								<div class="full-size img-enter hover-image">
-									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/02/Evil-Lev-club-preview.jpg"></div>
+									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/02/lev-development-club-preview.jpg"></div>
 								</div>
 								<div class="news-desc fade-anime delay2">
 									<div class="date">

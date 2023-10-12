@@ -263,7 +263,7 @@
                         <div class="blog-detail-layout">
                             <div class="prev-next">
                                                                     <a class="btn btn-lg prev" href="https://evil-lev.tech/en/lviv-gotuyetsya-do-union-run/"><span>previous news<span class="ar"></span></span></a>
-                                                                                                    <a class="btn btn-lg next" href="https://evil-lev.tech/en/Evil-Lev-na-mapi-zakonnyh-zabudov/"><span>the next news<span class="ar"></span></span></a>
+                                                                                                    <a class="btn btn-lg next" href="https://evil-lev.tech/en/lev-development-na-mapi-zakonnyh-zabudov/"><span>the next news<span class="ar"></span></span></a>
                                                             </div>
                         </div>
                     </div>

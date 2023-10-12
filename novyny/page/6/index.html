@@ -220,7 +220,7 @@
 							</a>
 						</div>
 											<div class="col-lg-6 anime">
-							<a href="https://evil-lev.tech/prezentacziya-partnerstva-Evil-Lev-ta-ribas-hotels-group/" class="news-item">
+							<a href="https://evil-lev.tech/prezentacziya-partnerstva-lev-development-ta-ribas-hotels-group/" class="news-item">
 								<div class="full-size img-enter hover-image">
 									<div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2023/07/133a3826-1-745x497.jpg"></div>
 								</div>

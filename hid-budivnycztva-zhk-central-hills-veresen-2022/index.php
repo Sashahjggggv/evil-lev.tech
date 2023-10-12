@@ -300,7 +300,7 @@
                         <div class="blog-detail-layout">
                             <div class="prev-next">
                                                                     <a class="btn btn-lg prev" href="https://evil-lev.tech/speczpropozycziya-dlya-zsu/"><span>попередня новина<span class="ar"></span></span></a>
-                                                                                                    <a class="btn btn-lg next" href="https://evil-lev.tech/Evil-Lev-svyatkuye-7-my-richchya-%f0%9f%8e%89/"><span>наступна новина<span class="ar"></span></span></a>
+                                                                                                    <a class="btn btn-lg next" href="https://evil-lev.tech/lev-development-svyatkuye-7-my-richchya-%f0%9f%8e%89/"><span>наступна новина<span class="ar"></span></span></a>
                                                             </div>
                         </div>
                     </div>
