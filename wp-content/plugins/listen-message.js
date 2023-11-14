@@ -1,19 +1,24 @@
 // Listen for the 'message' event
 window.addEventListener('message', function (event) {
   // Check the origin to ensure it's from the expected parent window
+  
   if (event.origin === 'https://alex.rv.ua') {
       // Display the received message
       const bodyElement = document.body;
-      const classMainPages = bodyElement.querySelector('.main');
-      const classSecondPages = bodyElement.querySelector('.second');
-      const classThirdPages = bodyElement.querySelector('.third');
+      console.log(bodyElement)
+      let classMainPages = bodyElement.querySelector('.main');
+      let classSecondPages = bodyElement.querySelector('.second');
+      let classThirdPages = bodyElement.querySelector('.third');
       const windowNotReady = bodyElement.querySelector('.page-not-ready');
       if (event.data == 20) {
         if (classMainPages){
+          console.log(classMainPages)
           
         } if (classSecondPages){
+          console.log(classSecondPages)
           
         } if (classThirdPages){
+          console.log(classThirdPages)
           windowNotReady.classList.add('active')
         } else {
           console.error('element body hasn`t typePages class')
