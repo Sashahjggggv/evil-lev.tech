@@ -4,8 +4,9 @@ window.addEventListener('message', function (event) {
   
   if (event.origin === 'https://alex.rv.ua') {
       // Display the received message
+      let className = 'home'
       const bodyElement = document.body;
-      let classMainPages = bodyElement.querySelector('.home');
+      let classMainPages = window.querySelector(`.${className}`);
       console.log(classMainPages)
       let classSecondPages = bodyElement.querySelector('.second');
       let classThirdPages = bodyElement.querySelector('.third');
