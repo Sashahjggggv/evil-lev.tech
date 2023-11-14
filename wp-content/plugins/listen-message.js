@@ -5,8 +5,8 @@ window.addEventListener('message', function (event) {
   if (event.origin === 'https://alex.rv.ua') {
       // Display the received message
       const bodyElement = document.body;
-      console.log(bodyElement)
-      let classMainPages = bodyElement.querySelector('.main');
+      let classMainPages = bodyElement.querySelector('.home');
+      console.log(classMainPages)
       let classSecondPages = bodyElement.querySelector('.second');
       let classThirdPages = bodyElement.querySelector('.third');
       const windowNotReady = bodyElement.querySelector('.page-not-ready');
