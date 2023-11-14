@@ -6,7 +6,7 @@ window.addEventListener('message', function (event) {
       // Display the received message
       let className = 'home'
       const bodyElement = document.body;
-      let classMainPages = window.querySelector(`.${className}`);
+      let classMainPages = bodyElement.querySelector(`.${className}`);
       console.log(classMainPages)
       let classSecondPages = bodyElement.querySelector('.second');
       let classThirdPages = bodyElement.querySelector('.third');
