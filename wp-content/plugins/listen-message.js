@@ -4,26 +4,13 @@ window.addEventListener('message', function (event) {
   
   if (event.origin === 'https://alex.rv.ua') {
       // Display the received message
-      let className = 'home'
-      const bodyElement = document.body;
-      let classMainPages = bodyElement.querySelector(`.${className}`);
-      console.log(classMainPages)
-      let classSecondPages = bodyElement.querySelector('.second');
-      let classThirdPages = bodyElement.querySelector('.third');
-      const windowNotReady = bodyElement.querySelector('.page-not-ready');
+      // const bodyElement = document.body;
+      // let classMainPages = bodyElement.querySelector(`.main`);
+      // let classSecondPages = bodyElement.querySelector('.second');
+      // let classThirdPages = bodyElement.querySelector('.third');
+      // const windowNotReady = bodyElement.querySelector('.page-not-ready');
       if (event.data == 20) {
-        if (classMainPages){
-          console.log(classMainPages)
-          
-        } if (classSecondPages){
-          console.log(classSecondPages)
-          
-        } if (classThirdPages){
-          console.log(classThirdPages)
-          windowNotReady.classList.add('active')
-        } else {
-          console.error('element body hasn`t typePages class')
-        }
+        console.log('success $')
       } if (event.data == 30) {
 
       } if (event.data == 50) {
