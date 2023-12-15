@@ -3,7 +3,7 @@
 // let classThirdPages = document.body.querySelector('.third');
 // let windowNotReady = document.body.querySelector('.page-not-ready');
 console.log('success.........')
-let header123 = document.getElementById('header123')
+let header123 = document.querySelector('#header123')
 console.log(header123)
 header123.classList.add('none')
 
