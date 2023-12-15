@@ -4,13 +4,21 @@ window.addEventListener('message', function (event) {
   
   if (event.origin === 'https://alex.rv.ua') {
       // Display the received message
-      // const bodyElement = document.body;
-      // let classMainPages = bodyElement.querySelector(`.main`);
-      // let classSecondPages = bodyElement.querySelector('.second');
-      // let classThirdPages = bodyElement.querySelector('.third');
-      // const windowNotReady = bodyElement.querySelector('.page-not-ready');
+      const bodyElement = document.body;
+      let classMainPages = bodyElement.querySelector(`.main`);
+      let classSecondPages = bodyElement.querySelector('.second');
+      let classThirdPages = bodyElement.querySelector('.third');
+      const windowNotReady = bodyElement.querySelector('.page-not-ready');
       if (event.data == 20) {
-        console.log('success $')
+        if (classMainPages){
+          
+        } if (classSecondPages){
+          
+        } if (classThirdPages){
+          windowNotReady.classList.add('active')
+        } else {
+          console.error('element body hasn`t typePages class')
+        }
       } if (event.data == 30) {
 
       } if (event.data == 50) {
@@ -21,12 +29,13 @@ window.addEventListener('message', function (event) {
         
       } if (event.data == 80) {
         
-      } if (event.data == 90) {
+      } if (event.data == '90') {
+        console.log('recived MESSAGE from parrent is 90')
         
       } if (event.data == 100) {
         
       } else {
-        console.error('recived MESSAGE from parrent is NOT RIGHT')
+        console.error('recived MESSAGE from parrent is NOT RIGHT. event.data is ', event.data)
       }
   }
 });
