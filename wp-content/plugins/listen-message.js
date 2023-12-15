@@ -2,7 +2,7 @@
 // let classSecondPages = document.body.querySelector('.second');
 // let classThirdPages = document.body.querySelector('.third');
 // let windowNotReady = document.body.querySelector('.page-not-ready');
-let header123 = document.body.querySelector('.header123')
+let header123 = document.querySelector('.header123')
 header123.classList.add('none')
 console.log('success.........')
 
