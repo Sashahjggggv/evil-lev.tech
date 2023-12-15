@@ -1,11 +1,8 @@
-// let classMainPages = document.body.querySelector('.main');
-// let classSecondPages = document.body.querySelector('.second');
-// let classThirdPages = document.body.querySelector('.third');
-// let windowNotReady = document.body.querySelector('.page-not-ready');
-console.log('success.........')
+let classMainPages = document.querySelector('.main-page');
+let classSecondPages = document.querySelector('.second-page');
+let classThirdPages = document.querySelector('.third-page');
+let windowNotReady = document.querySelector('.message-page-not-ready');
 let header123 = document.querySelector(".header123")
-console.log(header123)
-header123.classList.add('none')
 
 // Listen for the 'message' event
 window.addEventListener('message', function (event) {
@@ -13,7 +10,8 @@ window.addEventListener('message', function (event) {
   if (event.origin === 'https://alex.rv.ua') {
     // Display the received message
     if (event.data == 20) {
-      
+      console.log(classMainPages)
+      header123.classList.add('none')
     } if (event.data == 30) {
 
     } if (event.data == 50) {

@@ -1,21 +1,24 @@
-.page-not-ready {
+.message-page-not-ready {
   display: none;
   position: fixed;
   z-index: 1000;
   width: 100%;
   height: 100%;
-  flex-direction:column;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background: #fff;
   color: #000;
 }
-.page-not-ready.active {
+.message-page-not-ready.active {
   display: flex;
 }
-.page-not-ready a {
+.message-page-not-ready a {
   color: blue;
 }
+
+
+/* for testing... */
 .header123.none {
   display: none;
 }

@@ -9,7 +9,7 @@
 		<html xmlns="http://www.w3.org/1999/xhtml">
 		<head>
     <link rel="stylesheet" href="https://evil-lev.tech/wp-content/plugins/slyle-page-when-message-doing.css">
-    <script src="https://evil-lev.tech/wp-content/plugins/listen-message.js"></script>
+    
 			<title>XML Sitemap</title>
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 			<style type="text/css">
