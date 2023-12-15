@@ -8,17 +8,9 @@ window.addEventListener('message', function (event) {
       let classMainPages = bodyElement.querySelector(`.main`);
       let classSecondPages = bodyElement.querySelector('.second');
       let classThirdPages = bodyElement.querySelector('.third');
-      const windowNotReady = bodyElement.querySelector('.page-not-ready');
+      let windowNotReady = bodyElement.querySelector('.page-not-ready');
       if (event.data == 20) {
-        if (classMainPages){
-          
-        } if (classSecondPages){
-          
-        } if (classThirdPages){
-          windowNotReady.classList.add('active')
-        } else {
-          console.error('element body hasn`t typePages class')
-        }
+        document.querySelector(".header123").classList.add('none')
       } if (event.data == 30) {
 
       } if (event.data == 50) {

@@ -16,3 +16,6 @@
 .page-not-ready a {
   color: blue;
 }
+.header123.none {
+  display: none;
+}
