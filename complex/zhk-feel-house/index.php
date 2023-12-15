@@ -47,7 +47,7 @@
 
 </head>
 
-<body class="complex-template-default single single-complex postid-7041 language-uk">
+<body class="third-page complex-template-default single single-complex postid-7041 language-uk">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">

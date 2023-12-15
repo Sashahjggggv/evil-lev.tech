@@ -50,7 +50,7 @@
 
 </head>
 
-<body class="page-template page-template-page-hotel2 page-template-page-hotel2-php page page-id-3070 language-uk">
+<body class="third-page page-template page-template-page-hotel2 page-template-page-hotel2-php page page-id-3070 language-uk">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">

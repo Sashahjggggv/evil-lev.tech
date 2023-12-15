@@ -42,7 +42,7 @@
 
 </head>
 
-<body class="page-template page-template-page-sales page-template-page-sales-php page page-id-292 language-en">
+<body class="third-page page-template page-template-page-sales page-template-page-sales-php page page-id-292 language-en">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">

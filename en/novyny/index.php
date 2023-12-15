@@ -44,7 +44,7 @@
 
 </head>
 
-<body class="blog language-en">
+<body class="third-page blog language-en">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">

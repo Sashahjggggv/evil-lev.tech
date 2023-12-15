@@ -46,7 +46,7 @@
 
 </head>
 
-<body class="page-template page-template-page-complex-arhouse page-template-page-complex-arhouse-php page page-id-10226 language-uk">
+<body class="third-page page-template page-template-page-complex-arhouse page-template-page-complex-arhouse-php page page-id-10226 language-uk">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">

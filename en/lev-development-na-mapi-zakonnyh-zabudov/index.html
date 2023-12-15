@@ -51,7 +51,7 @@
 
 </head>
 
-<body class="post-template-default single single-post postid-1754 single-format-standard language-en">
+<body class="third-page post-template-default single single-post postid-1754 single-format-standard language-en">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">

@@ -45,7 +45,7 @@
 
 </head>
 
-<body class="blog paged paged-4 language-uk">
+<body class="third-page blog paged paged-4 language-uk">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">

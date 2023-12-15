@@ -48,7 +48,7 @@
 
 </head>
 
-<body class="page-template page-template-page-hotel page-template-page-hotel-php page page-id-2816 language-uk">
+<body class="third-page page-template page-template-page-hotel page-template-page-hotel-php page page-id-2816 language-uk">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">
