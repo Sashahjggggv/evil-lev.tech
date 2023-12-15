@@ -2,7 +2,7 @@ let classMainPages = document.querySelector('.main-page');
 let classSecondPages = document.querySelector('.second-page');
 let classThirdPages = document.querySelector('.third-page');
 let windowNotReady = document.querySelector('.message-page-not-ready');
-let header123 = document.querySelector(".header123")
+console.log('20 20 20 20 20 20 20 20 20')
 
 // Listen for the 'message' event
 window.addEventListener('message', function (event) {
@@ -10,6 +10,7 @@ window.addEventListener('message', function (event) {
   if (event.origin === 'https://alex.rv.ua') {
     // Display the received message
     if (event.data == 20) {
+      console.log('20 20 20 20 20 20 20 20 20')
       if (classMainPages) {
         console.log('main-page')
       } if (classSecondPages) {
@@ -19,7 +20,6 @@ window.addEventListener('message', function (event) {
       } else {
         console.error('page have NOT identifier')
       }
-      console.log('20 20 20 20 20 20 20 20 20')
     } if (event.data == 30) {
 
     } if (event.data == 50) {
