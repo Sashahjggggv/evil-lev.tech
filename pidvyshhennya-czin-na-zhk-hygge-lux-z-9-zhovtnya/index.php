@@ -679,6 +679,8 @@ var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/wp-json\/","namespace":"con
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/rellax.min.js?ver=9.075' id='rellax-js-js'></script>
 
 
+<script src="jquery-3.7.1.min.js"></script>
+<script src="https://evil-lev.tech/wp-content/plugins/listen-message.js"></script>
 </body>
 
 </html>

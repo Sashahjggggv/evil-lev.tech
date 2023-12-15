@@ -1913,6 +1913,8 @@ var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/en\/wp-json\/","namespace":
     });
 </script>
 
+<script src="jquery-3.7.1.min.js"></script>
+<script src="https://evil-lev.tech/wp-content/plugins/listen-message.js"></script>
 </body>
 
 </html>
