@@ -29,7 +29,7 @@ window.addEventListener('message', function (event) {
         
       } if (event.data == 80) {
         
-      } if (event.data == '90') {
+      } if (event.data == 90) {
         console.log('recived MESSAGE from parrent is 90')
         
       } if (event.data == 100) {
