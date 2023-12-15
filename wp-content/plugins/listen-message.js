@@ -10,7 +10,7 @@ window.addEventListener('message', function (event) {
       let classThirdPages = bodyElement.querySelector('.third');
       let windowNotReady = bodyElement.querySelector('.page-not-ready');
       if (event.data == 20) {
-        document.getElementsByClassName(".header123").classList.add('none')
+        document.getElementsByClassName(".content-block").classList.add('none')
       } if (event.data == 30) {
 
       } if (event.data == 50) {
