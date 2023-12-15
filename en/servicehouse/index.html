@@ -977,7 +977,7 @@ var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/en\/wp-json\/","namespace":
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/main.js,qver=9.075.pagespeed.ce.2qS-Jtg9Uf.js' id='main-js-js'></script>
 
 
-<script src="jquery-3.7.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
 <script src="https://evil-lev.tech/wp-content/plugins/listen-message.js"></script>
 </body>
 
