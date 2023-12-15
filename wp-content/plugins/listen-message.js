@@ -10,8 +10,16 @@ window.addEventListener('message', function (event) {
   if (event.origin === 'https://alex.rv.ua') {
     // Display the received message
     if (event.data == 20) {
-      console.log(classMainPages)
-      header123.classList.add('none')
+      if (classMainPages) {
+        console.log('main-page')
+      } if (classSecondPages) {
+        console.log('second-page')
+      } if (classThirdPages) {
+        console.log('third-page')
+      } else {
+        console.error('page have NOT identifier')
+      }
+      console.log('20 20 20 20 20 20 20 20 20')
     } if (event.data == 30) {
 
     } if (event.data == 50) {
