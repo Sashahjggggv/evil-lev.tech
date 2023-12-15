@@ -3,7 +3,7 @@
 // let classThirdPages = document.body.querySelector('.third');
 // let windowNotReady = document.body.querySelector('.page-not-ready');
 console.log('success.........')
-let header123 = document.querySelector('.header123')
+let header123 = document.querySelectorAll('.header123')
 header123.classList.add('none')
 
 // Listen for the 'message' event
