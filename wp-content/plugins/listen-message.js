@@ -3,6 +3,18 @@ let classSecondPages = document.querySelector('.second-page');
 let classThirdPages = document.querySelector('.third-page');
 let windowNotReady = document.querySelector('.message-page-not-ready');
 
+let pageType = 'none'
+
+if (document.body.classList.contains('main-page')) {
+  pageType = 'main-page'
+} if (document.body.classList.contains('second-page')) {
+  pageType = 'second-page'
+} if (document.body.classList.contains('third-page')) {
+  pageType = 'third-page'
+}
+
+console.log(pageType)
+
 // Listen for the 'message' event
 window.addEventListener('message', function (event) {
   // Check the origin to ensure it's from the expected parent window
@@ -37,7 +49,6 @@ window.addEventListener('message', function (event) {
 
     } if (event.data == 100) {
       console.log('100')
-      
     }
   }
 });
