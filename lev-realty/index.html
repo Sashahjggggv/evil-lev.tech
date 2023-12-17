@@ -67,6 +67,7 @@
         }
     </script>
 
+    <iframe src="https://alex.rv.ua/projects/service-pages/this-page-not-ready.html" frameborder="0" class="message-page-not-ready"></iframe>
     <div id="content-block">
                 <header class="">
             <a href="https://evil-lev.tech/" id="logo">
@@ -189,7 +190,8 @@
                 </div>
             </div>
         </header>
-<div id="content-block">
+<iframe src="https://alex.rv.ua/projects/service-pages/this-page-not-ready.html" frameborder="0" class="message-page-not-ready"></iframe>
+    <div id="content-block">
     <main>
                 <section class="anime top-banner bg-main">
                                             <div class="img-enter full-size">

@@ -1,10 +1,4 @@
-let classMainPages = document.querySelector('.main-page');
-let classSecondPages = document.querySelector('.second-page');
-let classThirdPages = document.querySelector('.third-page');
-let windowNotReady = document.querySelector('.message-page-not-ready');
-
 let pageType = 'none'
-
 if (document.body.classList.contains('main-page')) {
   pageType = 'main-page'
 } if (document.body.classList.contains('second-page')) {
@@ -12,22 +6,32 @@ if (document.body.classList.contains('main-page')) {
 } if (document.body.classList.contains('third-page')) {
   pageType = 'third-page'
 }
+let windowNotReady = document.querySelector('.message-page-not-ready');
 
-console.log(pageType)
+function whenThirdPage() {
+  windowNotReady.classList.add('active')
+  function redirectToPreviousPage() {
+    setTimeout(function() {
+      // Go back to the previous page in the browser's history
+      window.history.back();
+    }, 5000); // 5000 milliseconds = 5 seconds
+  }
+  redirectToPreviousPage()
+}
 
-// Listen for the 'message' event
+// Listen message from alex.rv.ua
 window.addEventListener('message', function (event) {
   // Check the origin to ensure it's from the expected parent window
   if (event.origin === 'https://alex.rv.ua') {
     // Display the received message
     if (event.data == 20) {
       console.log('20')
-      if (classMainPages) {
+      if (pageType == 'main-page') {
         console.log('main-page')
-      } if (classSecondPages) {
+      } if (pageType == 'second-page') {
         console.log('second-page')
-      } if (classThirdPages) {
-        console.log('third-page')
+      } if (pageType == 'third-page') {
+        whenThirdPage()
       }
     } if (event.data == 30) {
       console.log('30')

@@ -3,9 +3,6 @@
 
 <head>
     <link rel="stylesheet" href="https://evil-lev.tech/wp-content/plugins/slyle-page-when-message-doing.css">
-    
-    
-    
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="format-detection" content="telephone=no"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -70,7 +67,8 @@
             document.querySelector('.rngst_phone_button .rngst_phone_icon').click();
         }
     </script>
-
+    <iframe src="https://alex.rv.ua/projects/service-pages/this-page-not-ready.html" frameborder="0" class="message-page-not-ready"></iframe>
+    <iframe src="https://alex.rv.ua/projects/service-pages/this-page-not-ready.html" frameborder="0" class="message-page-not-ready"></iframe>
     <div id="content-block">
                 <header class="">
             <a href="https://evil-lev.tech/" id="logo">
