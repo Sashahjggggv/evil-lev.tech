@@ -11,3 +11,6 @@
 .message-page-not-ready.active {
   display: block;
 }
+.block-removed {
+  display: none !important;
+}

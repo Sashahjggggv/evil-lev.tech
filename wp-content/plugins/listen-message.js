@@ -1,3 +1,4 @@
+// init type of page
 let pageType = 'none'
 if (document.body.classList.contains('main-page')) {
   pageType = 'main-page'
@@ -6,9 +7,12 @@ if (document.body.classList.contains('main-page')) {
 } if (document.body.classList.contains('third-page')) {
   pageType = 'third-page'
 }
+
+// message before redir to prev
 let windowNotReady = document.querySelector('.message-page-not-ready');
 
-function whenThirdPage() {
+// redir to prev page
+function toPreviousPage() {
   windowNotReady.classList.add('active')
   function redirectToPreviousPage() {
     setTimeout(function() {
@@ -19,34 +23,87 @@ function whenThirdPage() {
   redirectToPreviousPage()
 }
 
+// remove blocks with class "classOfBlocks""
+function removeBlocks(classOfBlocks) {
+  classOfBlocks.classList.add('block-removed');
+}
+
+// redir to prev page when class of body is 
+function redirToPrewWhenBodyClassIs(bodyClass) {
+  if (pageType == bodyClass) {
+    toPreviousPage()
+  }
+}
+
 // Listen message from alex.rv.ua
 window.addEventListener('message', function (event) {
   // Check the origin to ensure it's from the expected parent window
   if (event.origin === 'https://alex.rv.ua') {
     // Display the received message
     if (event.data == 20) {
-      
       if (pageType == 'main-page') {
-        
+        removeBlocks('remove-for-twenty-percent-stage')
       } if (pageType == 'second-page') {
-        
+        toPreviousPage()
       } if (pageType == 'third-page') {
-        whenThirdPage()
+        toPreviousPage()
       }
     } if (event.data == 30) {
-      
+      if (pageType == 'main-page') {
+        removeBlocks('remove-for-thirty-percent-stage')
+      } if (pageType == 'second-page') {
+        toPreviousPage()
+      } if (pageType == 'third-page') {
+        toPreviousPage()
+      }
     } if (event.data == 50) {
-      
+      if (pageType == 'main-page') {
+        removeBlocks('remove-for-fifty-percent-stage')
+      } if (pageType == 'second-page') {
+        toPreviousPage()
+      } if (pageType == 'third-page') {
+        toPreviousPage()
+      }
     } if (event.data == 60) {
-      
+      if (pageType == 'main-page') {
+        // do nothing
+      } if (pageType == 'second-page') {
+        redirToPrewWhenBodyClassIs('remove-for-sixty-percent-stage')
+      } if (pageType == 'third-page') {
+        toPreviousPage()
+      }
     } if (event.data == 70) {
-      
+      if (pageType == 'main-page') {
+        // do nothing
+      } if (pageType == 'second-page') {
+        redirToPrewWhenBodyClassIs('remove-for-seventy-percent-stage')
+      } if (pageType == 'third-page') {
+        toPreviousPage()
+      }
     } if (event.data == 80) {
-      
+      if (pageType == 'main-page') {
+        // do nothing
+      } if (pageType == 'second-page') {
+        redirToPrewWhenBodyClassIs('remove-for-eighty-percent-stage')
+      } if (pageType == 'third-page') {
+        toPreviousPage()
+      }
     } if (event.data == 90) {
-      
+      if (pageType == 'main-page') {
+        // do nothing
+      } if (pageType == 'second-page') {
+        // do nothing
+      } if (pageType == 'third-page') {
+        redirToPrewWhenBodyClassIs('remove-for-ninety-percent-stage')
+      }
     } if (event.data == 100) {
-      
+      if (pageType == 'main-page') {
+        // do nothing
+      } if (pageType == 'second-page') {
+        // do nothing
+      } if (pageType == 'third-page') {
+        // do nothing
+      }
     }
   }
 });
