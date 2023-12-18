@@ -14,7 +14,7 @@ function whenThirdPage() {
     setTimeout(function() {
       // Go back to the previous page in the browser's history
       window.history.back();
-    }, 10000);
+    }, 5000);
   }
   redirectToPreviousPage()
 }
