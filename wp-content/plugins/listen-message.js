@@ -25,7 +25,7 @@ function toPreviousPage() {
 
 // remove blocks with class "classOfBlocks""
 function removeBlocks(classOfBlocks) {
-  classOfBlocks.classList.add('block-removed');
+  document.querySelector(classOfBlocks).classList.add('block-removed');
 }
 
 // redir to prev page when class of body is 
@@ -42,7 +42,6 @@ window.addEventListener('message', function (event) {
     // Display the received message
     if (event.data == 20) {
       if (pageType == 'main-page') {
-        console.log(classOfBlocks.classList.add('block-removed'))
         removeBlocks('hide-for-twenty-percent-stage')
       } if (pageType == 'second-page') {
         toPreviousPage()
