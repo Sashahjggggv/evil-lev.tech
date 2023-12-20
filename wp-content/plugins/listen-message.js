@@ -25,6 +25,7 @@ function toPreviousPage() {
 
 // remove blocks with class "classOfBlocks""
 function removeBlocks(classOfBlocks) {
+  console.log(document.querySelector(classOfBlocks))
   document.querySelector(classOfBlocks).classList.add('block-removed');
 }
 
