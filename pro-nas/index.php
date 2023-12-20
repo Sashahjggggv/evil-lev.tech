@@ -46,7 +46,7 @@
 
 </head>
 
-<body class="third-page page-template page-template-page-about page-template-page-about-php page page-id-168 language-uk">
+<body class="second-page hide-for-seventy-percent-stage hide-for-eighty-percent-stage page-template page-template-page-about page-template-page-about-php page page-id-168 language-uk">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">

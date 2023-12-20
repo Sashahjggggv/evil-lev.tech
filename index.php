@@ -193,7 +193,7 @@
                         закрити                    </div>
                 </div>
             </div>
-        </header>    <section class="anime main-section">
+        </header>    <section class="anime main-section hide-for-twenty-percent-stage">
                     <div class="slide-images-wrap full-size">
                                         <div class="slide-image bg-image full-size" data-bg="https://evil-lev.tech/wp-content/uploads/2022/02/prapor-ukrayini.jpg"></div>
                                 </div>
@@ -235,7 +235,7 @@
             </div>
         </div>
     </section>
-<main>
+<main class="hide-for-twenty-percent-stage hide-for-thirty-percent-stage">
         <section class="anime t-move-wrap bg-main map-section scroll-to-block" data-rel="1">
 
             <div class="map-outer-wrapper">

@@ -44,7 +44,7 @@
 
 </head>
 
-<body class="third-page blog language-uk">
+<body class="second-page hide-for-eighty-percent-stage blog language-uk">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">

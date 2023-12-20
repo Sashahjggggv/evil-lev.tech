@@ -50,7 +50,7 @@
 
 </head>
 
-<body class="third-page complex-template-default single single-complex postid-625 language-uk">
+<body class="third-page hide-for-ninety-percent-stagehide-for-ninety-percent-stage complex-template-default single single-complex postid-625 language-uk">
     
     
     <script data-b24-form="click/139/4moiq1" data-skip-moving="true">

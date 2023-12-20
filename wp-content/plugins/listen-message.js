@@ -42,7 +42,7 @@ window.addEventListener('message', function (event) {
     // Display the received message
     if (event.data == 20) {
       if (pageType == 'main-page') {
-        removeBlocks('remove-for-twenty-percent-stage')
+        removeBlocks('hide-for-twenty-percent-stage')
       } if (pageType == 'second-page') {
         toPreviousPage()
       } if (pageType == 'third-page') {
@@ -50,7 +50,7 @@ window.addEventListener('message', function (event) {
       }
     } if (event.data == 30) {
       if (pageType == 'main-page') {
-        removeBlocks('remove-for-thirty-percent-stage')
+        removeBlocks('hide-for-thirty-percent-stage')
       } if (pageType == 'second-page') {
         toPreviousPage()
       } if (pageType == 'third-page') {
@@ -58,7 +58,7 @@ window.addEventListener('message', function (event) {
       }
     } if (event.data == 50) {
       if (pageType == 'main-page') {
-        removeBlocks('remove-for-fifty-percent-stage')
+        removeBlocks('hide-for-fifty-percent-stage')
       } if (pageType == 'second-page') {
         toPreviousPage()
       } if (pageType == 'third-page') {
@@ -68,7 +68,7 @@ window.addEventListener('message', function (event) {
       if (pageType == 'main-page') {
         // do nothing
       } if (pageType == 'second-page') {
-        redirToPrewWhenBodyClassIs('remove-for-sixty-percent-stage')
+        redirToPrewWhenBodyClassIs('hide-for-sixty-percent-stage')
       } if (pageType == 'third-page') {
         toPreviousPage()
       }
@@ -76,7 +76,7 @@ window.addEventListener('message', function (event) {
       if (pageType == 'main-page') {
         // do nothing
       } if (pageType == 'second-page') {
-        redirToPrewWhenBodyClassIs('remove-for-seventy-percent-stage')
+        redirToPrewWhenBodyClassIs('hide-for-seventy-percent-stage')
       } if (pageType == 'third-page') {
         toPreviousPage()
       }
@@ -84,7 +84,7 @@ window.addEventListener('message', function (event) {
       if (pageType == 'main-page') {
         // do nothing
       } if (pageType == 'second-page') {
-        redirToPrewWhenBodyClassIs('remove-for-eighty-percent-stage')
+        redirToPrewWhenBodyClassIs('hide-for-eighty-percent-stage')
       } if (pageType == 'third-page') {
         toPreviousPage()
       }
@@ -94,7 +94,7 @@ window.addEventListener('message', function (event) {
       } if (pageType == 'second-page') {
         // do nothing
       } if (pageType == 'third-page') {
-        redirToPrewWhenBodyClassIs('remove-for-ninety-percent-stage')
+        redirToPrewWhenBodyClassIs('hide-for-ninety-percent-stage')
       }
     } if (event.data == 100) {
       if (pageType == 'main-page') {
