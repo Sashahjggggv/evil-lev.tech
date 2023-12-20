@@ -25,8 +25,8 @@ function toPreviousPage() {
 
 // remove blocks with class "classOfBlocks""
 function removeBlocks(classOfBlocks) {
-  console.log(classOfBlocks)
-  document.querySelector(classOfBlocks).classList.add('block-removed');
+  let blocks = document.querySelector(classOfBlocks)
+  blocks.classList.add('block-removed');
 }
 
 // redir to prev page when class of body is 
