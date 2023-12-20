@@ -42,6 +42,7 @@ window.addEventListener('message', function (event) {
     // Display the received message
     if (event.data == 20) {
       if (pageType == 'main-page') {
+        console.log(classOfBlocks.classList.add('block-removed'))
         removeBlocks('hide-for-twenty-percent-stage')
       } if (pageType == 'second-page') {
         toPreviousPage()
