@@ -538,7 +538,7 @@
                         </script>
                         <button class="btn btn-secondary transfer-btn b24-web-form-popup-btn-153"><span>Безкоштовний трансфер<span class="ar"></span></span></button>
                     
-                    <div class="map-wrapper" id="map-canvas-1" data-lat="49.847669" data-lng="24.000339" data-zoom="15" data-xs-zoom="14" data-cluster-img="https://evil-lev.tech/wp-content/themes/lev/img/icon-cluster.png" data-image="https://evil-lev.tech/wp-content/themes/lev/img/city-hotel-marker.png" data-image-xs="https://evil-lev.tech/wp-content/themes/lev/img/city-hotel-marker.png" data-home="https://evil-lev.tech/wp-content/themes/lev/" data-gm-key="AIzaSyBWL2Cp_rDpY0EtgIYNRyeUlUdm1IiQ4WQ"></div>
+                    <div class="map-wrapper" id="map-canvas-1" data-lat="49.847669" data-lng="24.000339" data-zoom="15" data-xs-zoom="14" data-cluster-img="https://evil-lev.tech/wp-content/themes/lev/img/icon-cluster.png" data-image="https://evil-lev.tech/wp-content/themes/lev/img/city-hotel-marker.png" data-image-xs="https://evil-lev.tech/wp-content/themes/lev/img/city-hotel-marker.png" data-home="https://evil-lev.tech/wp-content/themes/lev/" data-gm-key="AIzaSyClBLlxNuBIprKBsHs0khJVm_5f1Rdz7kE"></div>
                     
 
 
@@ -1827,7 +1827,7 @@ var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/wp-json\/","namespace":"con
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.lettering.js,qver=9.077.pagespeed.ce.BzioWQ4s9d.js' id='lettering-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/custom-anime.js,qver=9.077.pagespeed.ce.dc2IozKHnP.js' id='custom-anime-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.inputmask.min.js,qver=9.077.pagespeed.ce.ouyNH2ED9G.js' id='jquery-inputmask-js-js'></script>
-<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBWL2Cp_rDpY0EtgIYNRyeUlUdm1IiQ4WQ&#038;libraries=geometry%2Cplaces&#038;v=3&#038;language=uk&#038;ver=9.077' id='gm-js-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyClBLlxNuBIprKBsHs0khJVm_5f1Rdz7kE&#038;libraries=geometry%2Cplaces&#038;v=3&#038;language=uk&#038;ver=9.077' id='gm-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/infobox.js,qver=9.077.pagespeed.ce.GI3ux4B4tZ.js' id='infobox-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/markerclusterer.min.js,qver=9.077.pagespeed.ce.9FmIqwklwe.js' id='markerclusterer-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/map.js,qver=9.077.pagespeed.ce.2dkAb0UoM6.js' id='map-js-js'></script>
