@@ -345,7 +345,7 @@
                             
                             <div class="content">
                                                             <div class="t-overflow">
-                                    <div class="price text-anime delay3 h2 w-thin">Ціна: від <span class="w-ultrabold h2 color-white">45 058</span> грн/м<sup>2</sup></div>
+                                    <div class="price text-anime delay3 h2 w-thin">Ціна: від <span class="w-ultrabold h2 color-white">45 226</span> грн/м<sup>2</sup></div>
                                 </div>
                                                             <h1 class="h1 block-title lettering"><span>ЖК LIFE STORY</span></h1>
                                 <div class="t-overflow">
@@ -436,7 +436,7 @@
                                     <div class="table-item text-anime delay3">
                                                                             <div class="cell">
                                             <div class="title">Ціна:</div>
-                                            <div class="desc">від 45 058 грн/м<sup>2</sup></div>
+                                            <div class="desc">від 45 226 грн/м<sup>2</sup></div>
                                         </div>
                                                                                 <div class="cell">
                                             <div class="title">Етап будівництва:</div>
@@ -565,7 +565,7 @@
                         </script>
                         <button class="btn btn-secondary transfer-btn b24-web-form-popup-btn-169"><span>Безкоштовний трансфер<span class="ar"></span></span></button>
                                     
-                                <div class="map-wrapper" id="map-canvas-1" data-lat="50.352702936135785" data-lng="30.47788298863716" data-zoom="15" data-xs-zoom="14" data-cluster-img="https://evil-lev.tech/wp-content/themes/lev/img/icon-cluster.png" data-image="https://evil-lev.tech/wp-content/uploads/2020/11/life-story.png" data-image-xs="https://evil-lev.tech/wp-content/uploads/2020/11/life-story.png" data-home="https://evil-lev.tech/wp-content/themes/lev/" data-gm-key="AIzaSyClBLlxNuBIprKBsHs0khJVm_5f1Rdz7kE"></div>
+                                <div class="map-wrapper" id="map-canvas-1" data-lat="50.352702936135785" data-lng="30.47788298863716" data-zoom="15" data-xs-zoom="14" data-cluster-img="https://evil-lev.tech/wp-content/themes/lev/img/icon-cluster.png" data-image="https://evil-lev.tech/wp-content/uploads/2020/11/life-story.png" data-image-xs="https://evil-lev.tech/wp-content/uploads/2020/11/life-story.png" data-home="https://evil-lev.tech/wp-content/themes/lev/" data-gm-key="AIzaSyCYwk23aIR-N5XTFmojgQRHbj_T6lOOUPE"></div>
 
 
                                     <a class="marker" data-rel="map-canvas-1" data-filter1="2" data-lat="50.351701" data-lng="30.475839" data-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-cart.png" data-active-image="https://evil-lev.tech/wp-content/uploads/2019/09/point-cart-hover.png" data-string="<div class='infobox-style2'>
@@ -1809,7 +1809,7 @@ var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/wp-json\/","namespace":"con
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.lettering.js,qver=9.077.pagespeed.ce.BzioWQ4s9d.js' id='lettering-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/custom-anime.js,qver=9.077.pagespeed.ce.dc2IozKHnP.js' id='custom-anime-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/jquery.inputmask.min.js,qver=9.077.pagespeed.ce.ouyNH2ED9G.js' id='jquery-inputmask-js-js'></script>
-<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyClBLlxNuBIprKBsHs0khJVm_5f1Rdz7kE&#038;libraries=geometry%2Cplaces&#038;v=3&#038;language=uk&#038;ver=9.077' id='gm-js-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyCYwk23aIR-N5XTFmojgQRHbj_T6lOOUPE&#038;libraries=geometry%2Cplaces&#038;v=3&#038;language=uk&#038;ver=9.077' id='gm-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/infobox.js,qver=9.077.pagespeed.ce.GI3ux4B4tZ.js' id='infobox-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/markerclusterer.min.js,qver=9.077.pagespeed.ce.9FmIqwklwe.js' id='markerclusterer-js-js'></script>
 <script type='text/javascript' src='https://evil-lev.tech/wp-content/themes/lev/js/map.js,qver=9.077.pagespeed.ce.2dkAb0UoM6.js' id='map-js-js'></script>
