@@ -60,14 +60,14 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>≡ LEV CITY HOTEL ᐈ Апартаменти бізнес-класу в готелі у Львові</title>
-	<meta name="description" content="LEV CITY HOTEL (Лев Сіті Хотел) від LEV Development - перший мережевий готель у Львові, що працює на вас."/>
+	<meta name="description" content="LEV CITY HOTEL (Лев Сіті Хотел) від Evil Lev - перший мережевий готель у Львові, що працює на вас."/>
 	<link rel="canonical" href="https://evil-lev.tech/en/lev-city-hotel/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ LEV CITY HOTEL ᐈ Апартаменти бізнес-класу в готелі у Львові"/>
-	<meta property="og:description" content="LEV CITY HOTEL (Лев Сіті Хотел) від LEV Development - перший мережевий готель у Львові, що працює на вас."/>
+	<meta property="og:description" content="LEV CITY HOTEL (Лев Сіті Хотел) від Evil Lev - перший мережевий готель у Львові, що працює на вас."/>
 	<meta property="og:url" content="https://evil-lev.tech/en/lev-city-hotel/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-04-02T17:00:40+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg"/>
 	<meta property="og:image:width" content="1170"/>
@@ -75,8 +75,8 @@
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="≡ LEV CITY HOTEL ᐈ Апартаменти бізнес-класу в готелі у Львові"/>
-	<meta name="twitter:description" content="LEV CITY HOTEL (Лев Сіті Хотел) від LEV Development - перший мережевий готель у Львові, що працює на вас."/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/lev-city-hotel/","url":"https://evil-lev.tech/en/lev-city-hotel/","name":"≡ LEV CITY HOTEL ᐈ Апартаменти бізнес-класу в готелі у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/lev-city-hotel/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/lev-city-hotel/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","datePublished":"2020-01-22T15:05:18+00:00","dateModified":"2024-04-02T17:00:40+00:00","description":"LEV CITY HOTEL (Лев Сіті Хотел) від LEV Development - перший мережевий готель у Львові, що працює на вас.","breadcrumb":{"@id":"https://evil-lev.tech/en/lev-city-hotel/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/lev-city-hotel/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/lev-city-hotel/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","width":1170,"height":1616},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/lev-city-hotel/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"LEV CITY HOTEL"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<meta name="twitter:description" content="LEV CITY HOTEL (Лев Сіті Хотел) від Evil Lev - перший мережевий готель у Львові, що працює на вас."/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/lev-city-hotel/","url":"https://evil-lev.tech/en/lev-city-hotel/","name":"≡ LEV CITY HOTEL ᐈ Апартаменти бізнес-класу в готелі у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/lev-city-hotel/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/lev-city-hotel/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","datePublished":"2020-01-22T15:05:18+00:00","dateModified":"2024-04-02T17:00:40+00:00","description":"LEV CITY HOTEL (Лев Сіті Хотел) від Evil Lev - перший мережевий готель у Львові, що працює на вас.","breadcrumb":{"@id":"https://evil-lev.tech/en/lev-city-hotel/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/lev-city-hotel/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/lev-city-hotel/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/11/lev-city-hotel_visualisation.jpg","width":1170,"height":1616},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/lev-city-hotel/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"LEV CITY HOTEL"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -1258,7 +1258,7 @@
                                                                                             <div class="accordeon-toggle">
                                                     <!-- style="display: block" -->
                                                     <div class="article">
-                                                        <p><strong>Customer:</strong> LLC “LEV DEVELOPMENT”<br/>
+                                                        <p><strong>Customer:</strong> LLC “Evil Lev”<br/>
 <strong>General Contractor:</strong> DEVELOPMENT-CITY LLC<br/>
 <strong>Project organization:</strong> PE &#8220;SAVITSKIY DESIGN&#8221;<br/>
 <strong>Technical supervision:</strong> Petruk Timofei Fedorovich, Certificate of joint-stock company №001489</p>
@@ -1551,8 +1551,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>
@@ -1771,7 +1771,7 @@
         <div class="layer-close"></div>
         <div class="popup-container size-2">
             <div class="popup-align bg-white">
-                                <div class="h4 title text-center w-medium">Terms of installments from LEV Development:</div>
+                                <div class="h4 title text-center w-medium">Terms of installments from Evil Lev:</div>
                                 <div class="text text-lg w-thin">
                 <p>The first minimum payment &#8211; 30% of the cost of the apartment, paid after signing the contract.</p>
 <p>For 6 months &#8211; without any overpayments, pegged to the dollar.</p>

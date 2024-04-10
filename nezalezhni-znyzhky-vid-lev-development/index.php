@@ -60,35 +60,35 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Незалежні знижки від LEV Development - LEV Development</title>
-	<link rel="canonical" href="https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/"/>
+	<title>Незалежні знижки від Evil Lev - Evil Lev</title>
+	<link rel="canonical" href="https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
-	<meta property="og:title" content="Незалежні знижки від LEV Development"/>
-	<meta property="og:url" content="https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:title" content="Незалежні знижки від Evil Lev"/>
+	<meta property="og:url" content="https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:published_time" content="2022-08-27T06:00:15+00:00"/>
 	<meta property="article:modified_time" content="2022-09-26T17:35:48+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/08/front-view-adult-holding-yellow-blue-hearts-scaled.jpg"/>
 	<meta property="og:image:width" content="2560"/>
 	<meta property="og:image:height" content="1662"/>
 	<meta property="og:image:type" content="image/jpeg"/>
-	<meta name="author" content="lev-development"/>
+	<meta name="author" content="evil-lev"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<meta name="twitter:title" content="Незалежні знижки від LEV Development"/>
-	<meta name="twitter:description" content="Незалежні знижки від LEV Development"/>
+	<meta name="twitter:title" content="Незалежні знижки від Evil Lev"/>
+	<meta name="twitter:description" content="Незалежні знижки від Evil Lev"/>
 	<meta name="twitter:label1" content="Написано"/>
-	<meta name="twitter:data1" content="lev-development"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/","url":"https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/","name":"[:uk]Незалежні знижки від LEV Development[:en]INDEPENDENT DISCOUNTS FROM LEV DEVELOPMENT[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/#primaryimage"},"image":{"@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/08/front-view-adult-holding-yellow-blue-hearts-scaled.jpg","datePublished":"2022-08-27T06:00:15+00:00","dateModified":"2022-09-26T17:35:48+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/08/front-view-adult-holding-yellow-blue-hearts-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/08/front-view-adult-holding-yellow-blue-hearts-scaled.jpg","width":2560,"height":1662},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Незалежні знижки від LEV Development"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"lev-development","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"lev-development"}}]}</script>
+	<meta name="twitter:data1" content="evil-lev"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/","url":"https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/","name":"[:uk]Незалежні знижки від Evil Lev[:en]INDEPENDENT DISCOUNTS FROM Evil Lev[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/#primaryimage"},"image":{"@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/08/front-view-adult-holding-yellow-blue-hearts-scaled.jpg","datePublished":"2022-08-27T06:00:15+00:00","dateModified":"2022-09-26T17:35:48+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/08/front-view-adult-holding-yellow-blue-hearts-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/08/front-view-adult-holding-yellow-blue-hearts-scaled.jpg","width":2560,"height":1662},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Незалежні знижки від Evil Lev"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"evil-lev","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"evil-lev"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="https://api.w.org/" href="https://evil-lev.tech/wp-json/"/><link rel="alternate" type="application/json" href="https://evil-lev.tech/wp-json/wp/v2/posts/9691"/><link rel="alternate" type="application/json+oembed" href="https://evil-lev.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fnezalezhni-znyzhky-vid-lev-development%2F"/>
-<link rel="alternate" type="text/xml+oembed" href="https://evil-lev.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fnezalezhni-znyzhky-vid-lev-development%2F&#038;format=xml"/>
-<link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/"/>
-<link rel="alternate" hreflang="uk" href="https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/"/>
-<link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/nezalezhni-znyzhky-vid-lev-development/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="Незалежні знижки від LEV Development"><meta property="og:url" content="https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/08/front-view-adult-holding-yellow-blue-hearts-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<link rel="https://api.w.org/" href="https://evil-lev.tech/wp-json/"/><link rel="alternate" type="application/json" href="https://evil-lev.tech/wp-json/wp/v2/posts/9691"/><link rel="alternate" type="application/json+oembed" href="https://evil-lev.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fnezalezhni-znyzhky-vid-evil-lev%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://evil-lev.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fnezalezhni-znyzhky-vid-evil-lev%2F&#038;format=xml"/>
+<link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/"/>
+<link rel="alternate" hreflang="uk" href="https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/"/>
+<link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/nezalezhni-znyzhky-vid-evil-lev/"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="Незалежні знижки від Evil Lev"><meta property="og:url" content="https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/08/front-view-adult-holding-yellow-blue-hearts-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -228,7 +228,7 @@
                             <li><a href="#" class="flatrisbutton" data-flatris-id="1dzoQ0NdPNW83pR">ЖК HYGGE lux</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="P3XQb0gM1wWzAg1">ЖК SILENT PARK</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="4Qd7VxYrVeWJpRA">ЖК PERFECT LIFE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e18Xg6keKxydMQj">ЖК FEEL HOUSE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="Na9e4xlDjxVBYnA">ЖК ARTHOUSE park</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="9gEpvWn8y0bP514">ЖК HYGGE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="krGQj6PPy6AD9My">ЖК OBRIY 3</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="vo24Mx379x93yga">ЖК LIFE STORY</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="yNLpPx5NdzWX3Zb">LEV CITY HOTEL</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="rkn2A6pYwn0JmoL">LEV Resort Hotel</a></li>                        </ul>
                     </div>
 
-                    <div class="lang" tabindex="0"><span>УКР</span><ul><li><a href='https://evil-lev.tech/en/nezalezhni-znyzhky-vid-lev-development/'>ENG</a></li></ul></div>                    
+                    <div class="lang" tabindex="0"><span>УКР</span><ul><li><a href='https://evil-lev.tech/en/nezalezhni-znyzhky-vid-evil-lev/'>ENG</a></li></ul></div>                    
                 </div>
             </div>
 
@@ -255,7 +255,7 @@
                     <div class="col-md-11 offset-md-1 col-lg-7 offset-lg-1">
                         <div class="cell-view">
                             <h1 class="h2 block-title lettering line-left-2 style2">
-                                <span>Незалежні знижки від LEV Development</span>                            </h1>
+                                <span>Незалежні знижки від Evil Lev</span>                            </h1>
                             <div class="fade-anime delay2">
                                 <div class="date-detail bg-white">
                                     <div class="text text-xs color-grey">Серпень 2022</div>
@@ -278,10 +278,10 @@
                             </a>
                             <div class="shares">
                                 <div class="socials">
-                                    <a class="tw" href="https://telegram.me/share/url?text=Незалежні знижки від LEV Development&url=https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/" target="_blank">
+                                    <a class="tw" href="https://telegram.me/share/url?text=Незалежні знижки від Evil Lev&url=https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/" target="_blank">
                                         <svg class="fill-hover" height="682pt" viewBox="-21 -51 682.66669 682" width="682pt" xmlns="http://www.w3.org/2000/svg" fill="rgba(255,255,255,.8)"><path d="m640-1.667969-640 272.039063 167.777344 66.585937 59.726562 224.507813 109.976563-106.558594 178.917969 123.570312zm-403.78125 367.402344-6.457031 58.535156-24.800781-93.234375 435.039062-332.703125zm0 0"/></svg>
                                     </a>
-                                    <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=https://evil-lev.tech/nezalezhni-znyzhky-vid-lev-development/" target="_blank">
+                                    <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=https://evil-lev.tech/nezalezhni-znyzhky-vid-evil-lev/" target="_blank">
                                         <svg class="fill-hover" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="430.113px" height="430.114px" viewBox="0 0 430.113 430.114" style="enable-background:new 0 0 430.113 430.114;" xml:space="preserve" fill="rgba(255,255,255,.8)">
                                         <g>
                                             <path d="M158.081,83.3c0,10.839,0,59.218,0,59.218h-43.385v72.412h43.385v215.183h89.122V214.936h59.805
@@ -301,7 +301,7 @@
                     <div class="col-lg-10 order-1 order-lg-2">
                         <div class="blog-detail">
                             <article class="article text-md w-thin color-grey">
-                                <p>Інвестуй у свою <strong>Незалежність</strong> та гарантовано отримуй знижки до <strong>350 000 грн</strong> на квартири від <strong>LEV Development</strong> у Львові.</p>
+                                <p>Інвестуй у свою <strong>Незалежність</strong> та гарантовано отримуй знижки до <strong>350 000 грн</strong> на квартири від <strong>Evil Lev</strong> у Львові.</p>
 <p>Акцію продовжено до <strong>17 жовтня 2022 року</strong> включно на квартири у:</p>
 <ul>
 <li><a href="https://evil-lev.tech/complex/zhk-arthouse-park/">ЖК ARTHOUSE park</a></li>
@@ -476,8 +476,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>
@@ -593,7 +593,7 @@
                 <div class="cf7-wrapper" data-message="" data-error="">
                     <div class="wpcf7 no-js" id="wpcf7-f395-o1" lang="uk" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/nezalezhni-znyzhky-vid-lev-development/#wpcf7-f395-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<form action="/nezalezhni-znyzhky-vid-evil-lev/#wpcf7-f395-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="395"/>
 <input type="hidden" name="_wpcf7_version" value="5.7.2"/>

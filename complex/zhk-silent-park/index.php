@@ -60,14 +60,14 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>≡ ЖК SILENT PARK ᐈ Квартири бізнес-класу в новобудові по вул. Орлика у Львові</title>
-	<meta name="description" content="ЖК Silent Park (Сайлент Парк) від LEV Development - малоповерховий проєкт біля Замарстинівського парку, дизайнерські холи, закрита територія та двір без машин."/>
+	<meta name="description" content="ЖК Silent Park (Сайлент Парк) від Evil Lev - малоповерховий проєкт біля Замарстинівського парку, дизайнерські холи, закрита територія та двір без машин."/>
 	<link rel="canonical" href="https://evil-lev.tech/en/complex/zhk-silent-park/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ ЖК SILENT PARK ᐈ Квартири бізнес-класу в новобудові по вул. Орлика у Львові"/>
-	<meta property="og:description" content="ЖК Silent Park (Сайлент Парк) від LEV Development - малоповерховий проєкт біля Замарстинівського парку, дизайнерські холи, закрита територія та двір без машин."/>
+	<meta property="og:description" content="ЖК Silent Park (Сайлент Парк) від Evil Lev - малоповерховий проєкт біля Замарстинівського парку, дизайнерські холи, закрита територія та двір без машин."/>
 	<meta property="og:url" content="https://evil-lev.tech/en/complex/zhk-silent-park/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-03-21T15:00:24+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2021/10/e346-orlyka-2023_view_3.jpg"/>
 	<meta property="og:image:width" content="1562"/>
@@ -75,8 +75,8 @@
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="≡ ЖК SILENT PARK ᐈ Квартири бізнес-класу в новобудові по вул. Орлика у Львові"/>
-	<meta name="twitter:description" content="ЖК Silent Park (Сайлент Парк) від LEV Development - малоповерховий проєкт біля Замарстинівського парку, дизайнерські холи, закрита територія та двір без машин."/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/complex/zhk-silent-park/","url":"https://evil-lev.tech/en/complex/zhk-silent-park/","name":"≡ ЖК SILENT PARK ᐈ Квартири бізнес-класу в новобудові по вул. Орлика у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/complex/zhk-silent-park/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/complex/zhk-silent-park/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/10/e346-orlyka-2023_view_3.jpg","datePublished":"2021-10-05T11:33:38+00:00","dateModified":"2024-03-21T15:00:24+00:00","description":"ЖК Silent Park (Сайлент Парк) від LEV Development - малоповерховий проєкт біля Замарстинівського парку, дизайнерські холи, закрита територія та двір без машин.","breadcrumb":{"@id":"https://evil-lev.tech/en/complex/zhk-silent-park/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/complex/zhk-silent-park/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/en/complex/zhk-silent-park/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/10/e346-orlyka-2023_view_3.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/10/e346-orlyka-2023_view_3.jpg","width":1562,"height":2160},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/complex/zhk-silent-park/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"RC SILENT PARK"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
+	<meta name="twitter:description" content="ЖК Silent Park (Сайлент Парк) від Evil Lev - малоповерховий проєкт біля Замарстинівського парку, дизайнерські холи, закрита територія та двір без машин."/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/complex/zhk-silent-park/","url":"https://evil-lev.tech/en/complex/zhk-silent-park/","name":"≡ ЖК SILENT PARK ᐈ Квартири бізнес-класу в новобудові по вул. Орлика у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/complex/zhk-silent-park/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/complex/zhk-silent-park/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/10/e346-orlyka-2023_view_3.jpg","datePublished":"2021-10-05T11:33:38+00:00","dateModified":"2024-03-21T15:00:24+00:00","description":"ЖК Silent Park (Сайлент Парк) від Evil Lev - малоповерховий проєкт біля Замарстинівського парку, дизайнерські холи, закрита територія та двір без машин.","breadcrumb":{"@id":"https://evil-lev.tech/en/complex/zhk-silent-park/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/complex/zhk-silent-park/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/en/complex/zhk-silent-park/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/10/e346-orlyka-2023_view_3.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/10/e346-orlyka-2023_view_3.jpg","width":1562,"height":2160},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/complex/zhk-silent-park/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"RC SILENT PARK"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -85,7 +85,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/complex/zhk-silent-park/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/complex/zhk-silent-park/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/complex/zhk-silent-park/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="ЖК SILENT PARK"><meta property="og:url" content="https://evil-lev.tech/complex/zhk-silent-park/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/10/e346-orlyka-2023_view_3.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="ЖК SILENT PARK"><meta property="og:url" content="https://evil-lev.tech/complex/zhk-silent-park/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/10/e346-orlyka-2023_view_3.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -1161,7 +1161,7 @@
                                                     <!-- style="display: block" -->
                                                     <div class="article">
                                                         <p><strong>Місце розташування об’єкту будівництва:</strong> Львівська обл., Львівський район, Львівська територіальна громада, м. Львів (станом на 01.01.2021), вулиця Орлика П.;</p>
-<p><strong>Замовник:</strong> ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ &#8220;ЛЕВ ДЕВЕЛОПМЕНТ&#8221; (41549345);</p>
+<p><strong>Замовник:</strong> ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ &#8220;ЕВІЛ ЛЕВ&#8221; (41549345);</p>
 <p><strong>Генеральний підрядник:</strong> Товариство з обмеженою відповідальністю &#8221;ДЕВЕЛОПМЕНТ-СІТІ&#8221; (40038129);</p>
 <p><strong>Технічний нагляд:</strong> Петрук Тимофій Федорович (АТ 010563, АТ 001489);</p>
 <p><strong>Авторський нагляд: </strong>Вахнич Тарас Романович, наказ від 03 червня 2022 № 03/06/22-АН;</p>
@@ -1485,8 +1485,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>
@@ -1888,7 +1888,7 @@
         <div class="layer-close"></div>
         <div class="popup-container size-2">
             <div class="popup-align bg-white">
-                                <div class="h4 title text-center w-medium">Умови розтермінування від LEV Development:</div>
+                                <div class="h4 title text-center w-medium">Умови розтермінування від Evil Lev:</div>
                                 <div class="text text-lg w-thin">
                 <p>&nbsp;</p>
 <p><strong>Для житла:</strong></p>

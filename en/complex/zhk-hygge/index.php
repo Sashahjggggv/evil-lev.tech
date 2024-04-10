@@ -60,14 +60,14 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>≡ ЖК HYGGE ᐈ Квартири бізнес-класу в новобудові по вул. Пасічній у Львові</title>
-	<meta name="description" content="ЖК HYGGE (Хюге) від LEV Development - малоповерховий проєкт у скандинавському стилі з дизайнерськими холами, закритою територією та двором без машин."/>
+	<meta name="description" content="ЖК HYGGE (Хюге) від Evil Lev - малоповерховий проєкт у скандинавському стилі з дизайнерськими холами, закритою територією та двором без машин."/>
 	<link rel="canonical" href="https://evil-lev.tech/complex/zhk-hygge/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ ЖК HYGGE ᐈ Квартири бізнес-класу в новобудові по вул. Пасічній у Львові"/>
-	<meta property="og:description" content="ЖК HYGGE (Хюге) від LEV Development - малоповерховий проєкт у скандинавському стилі з дизайнерськими холами, закритою територією та двором без машин."/>
+	<meta property="og:description" content="ЖК HYGGE (Хюге) від Evil Lev - малоповерховий проєкт у скандинавському стилі з дизайнерськими холами, закритою територією та двором без машин."/>
 	<meta property="og:url" content="https://evil-lev.tech/complex/zhk-hygge/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-02-28T09:39:53+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2019/11/hygge148-preview.jpg"/>
 	<meta property="og:image:width" content="500"/>
@@ -75,8 +75,8 @@
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="≡ ЖК HYGGE ᐈ Квартири бізнес-класу в новобудові по вул. Пасічній у Львові"/>
-	<meta name="twitter:description" content="ЖК HYGGE (Хюге) від LEV Development - малоповерховий проєкт у скандинавському стилі з дизайнерськими холами, закритою територією та двором без машин."/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/complex/zhk-hygge/","url":"https://evil-lev.tech/complex/zhk-hygge/","name":"≡ ЖК HYGGE ᐈ Квартири бізнес-класу в новобудові по вул. Пасічній у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/complex/zhk-hygge/#primaryimage"},"image":{"@id":"https://evil-lev.tech/complex/zhk-hygge/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2019/11/hygge148-preview.jpg","datePublished":"2019-11-11T09:05:39+00:00","dateModified":"2024-02-28T09:39:53+00:00","description":"ЖК HYGGE (Хюге) від LEV Development - малоповерховий проєкт у скандинавському стилі з дизайнерськими холами, закритою територією та двором без машин.","breadcrumb":{"@id":"https://evil-lev.tech/complex/zhk-hygge/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/complex/zhk-hygge/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/complex/zhk-hygge/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2019/11/hygge148-preview.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2019/11/hygge148-preview.jpg","width":500,"height":680},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/complex/zhk-hygge/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"ЖК HYGGE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<meta name="twitter:description" content="ЖК HYGGE (Хюге) від Evil Lev - малоповерховий проєкт у скандинавському стилі з дизайнерськими холами, закритою територією та двором без машин."/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/complex/zhk-hygge/","url":"https://evil-lev.tech/complex/zhk-hygge/","name":"≡ ЖК HYGGE ᐈ Квартири бізнес-класу в новобудові по вул. Пасічній у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/complex/zhk-hygge/#primaryimage"},"image":{"@id":"https://evil-lev.tech/complex/zhk-hygge/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2019/11/hygge148-preview.jpg","datePublished":"2019-11-11T09:05:39+00:00","dateModified":"2024-02-28T09:39:53+00:00","description":"ЖК HYGGE (Хюге) від Evil Lev - малоповерховий проєкт у скандинавському стилі з дизайнерськими холами, закритою територією та двором без машин.","breadcrumb":{"@id":"https://evil-lev.tech/complex/zhk-hygge/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/complex/zhk-hygge/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/complex/zhk-hygge/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2019/11/hygge148-preview.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2019/11/hygge148-preview.jpg","width":500,"height":680},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/complex/zhk-hygge/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"ЖК HYGGE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -85,7 +85,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/complex/zhk-hygge/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/complex/zhk-hygge/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/complex/zhk-hygge/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="RC HYGGE"><meta property="og:url" content="https://evil-lev.tech/en/complex/zhk-hygge/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/11/hygge148-preview.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="RC HYGGE"><meta property="og:url" content="https://evil-lev.tech/en/complex/zhk-hygge/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/11/hygge148-preview.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -1452,8 +1452,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>
@@ -1855,7 +1855,7 @@
         <div class="layer-close"></div>
         <div class="popup-container size-2">
             <div class="popup-align bg-white">
-                                <div class="h4 title text-center w-medium">Terms of installments from LEV Development:</div>
+                                <div class="h4 title text-center w-medium">Terms of installments from Evil Lev:</div>
                                 <div class="text text-lg w-thin">
                 <p>&nbsp;</p>
 <p>For parking spaces:</p>

@@ -59,20 +59,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>SERVICEHOUSE - LEV Development</title>
+	<title>SERVICEHOUSE - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/servicehouse/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="SERVICEHOUSE"/>
 	<meta property="og:url" content="https://evil-lev.tech/servicehouse/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2022-01-14T14:05:22+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg"/>
 	<meta property="og:image:width" content="500"/>
 	<meta property="og:image:height" content="1073"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/servicehouse/","url":"https://evil-lev.tech/servicehouse/","name":"[:uk]SERVICEHOUSE[:en]ServiceHouse[:ru]ServiceHouse[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/servicehouse/#primaryimage"},"image":{"@id":"https://evil-lev.tech/servicehouse/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","datePublished":"2020-02-13T15:18:40+00:00","dateModified":"2022-01-14T14:05:22+00:00","breadcrumb":{"@id":"https://evil-lev.tech/servicehouse/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/servicehouse/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/servicehouse/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/servicehouse/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"SERVICEHOUSE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/servicehouse/","url":"https://evil-lev.tech/servicehouse/","name":"[:uk]SERVICEHOUSE[:en]ServiceHouse[:ru]ServiceHouse[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/servicehouse/#primaryimage"},"image":{"@id":"https://evil-lev.tech/servicehouse/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","datePublished":"2020-02-13T15:18:40+00:00","dateModified":"2022-01-14T14:05:22+00:00","breadcrumb":{"@id":"https://evil-lev.tech/servicehouse/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/servicehouse/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/servicehouse/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_003.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/servicehouse/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"SERVICEHOUSE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -301,7 +301,7 @@
                                 <div class="article text color-grey text-anime">
                                     <p>«SERVICESHOUSE» пропонує своїм клієнтам не лише квадратні метри, створені за найкращими технологіями, а й гармонійний простір для життя. Адже придбавши квартиру, ви отримуєте комфорт та затишок на кожному етапі: від зовнішнього вигляду будинку та простору навколо до інтер’єру окремих помешкань і площ спільного користування.<br/>
 <br/>
-Девелоперська компанія «LEV Development» створює житло, в якому мешканці почуватимуться наче у родинній фортеці. В такій оселі ви зможете насолоджуватися затишною атмосферою, досконалим комфортом та вишуканим дизайном.</p>
+Девелоперська компанія «Evil Lev» створює житло, в якому мешканці почуватимуться наче у родинній фортеці. В такій оселі ви зможете насолоджуватися затишною атмосферою, досконалим комфортом та вишуканим дизайном.</p>
                                 </div>
                             </div>
                         </div>
@@ -394,7 +394,7 @@
                                                                                 <div class="text-anime">
                                                                                             <h4 class="h4 title">Збереження концепту <br> будинку</h4>
                                                                                                                                         <div class="text text-md w-thin color-optional">
-                                                    <p>Всі проекти LEV Development – це концептуальні архітектурні рішення, а SERVICEHOUSE продовжить піклуватися про них, немов про свою дитину. Збереження фасаду одне з найприорітетніших завдань, тому управлінська компанія організує нагляд та контроль за розміщенням кондиціонерів, за будь-якими роботами, які можуть пошкодити екстер’єр будинку чи дизайнерський інтер’єр під’їздів, та за проведенням інтернету в спеціальних коробах, які завчасно встановлені в комплексі.</p>
+                                                    <p>Всі проекти Evil Lev – це концептуальні архітектурні рішення, а SERVICEHOUSE продовжить піклуватися про них, немов про свою дитину. Збереження фасаду одне з найприорітетніших завдань, тому управлінська компанія організує нагляд та контроль за розміщенням кондиціонерів, за будь-якими роботами, які можуть пошкодити екстер’єр будинку чи дизайнерський інтер’єр під’їздів, та за проведенням інтернету в спеціальних коробах, які завчасно встановлені в комплексі.</p>
                                                 </div>
                                                                                     </div>
                                     </div>
@@ -767,8 +767,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

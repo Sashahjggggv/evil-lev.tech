@@ -59,17 +59,17 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>EASTER PROMOTION - LEV Development</title>
+	<title>EASTER PROMOTION - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/sale/velykodnya-akcziya/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="EASTER PROMOTION"/>
 	<meta property="og:url" content="https://evil-lev.tech/sale/velykodnya-akcziya/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-04-04T19:02:05+00:00"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:image" content="https://evil-lev.tech/wp-content/uploads/2024/04/velykd_1fb.jpg"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/sale/velykodnya-akcziya/","url":"https://evil-lev.tech/sale/velykodnya-akcziya/","name":"[:uk]Великодня акція[:en]EASTER PROMOTION[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/sale/velykodnya-akcziya/#primaryimage"},"image":{"@id":"https://evil-lev.tech/sale/velykodnya-akcziya/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2024/04/velykd_1fb.jpg","datePublished":"2024-04-05T04:00:47+00:00","dateModified":"2024-04-04T19:02:05+00:00","breadcrumb":{"@id":"https://evil-lev.tech/sale/velykodnya-akcziya/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/sale/velykodnya-akcziya/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/sale/velykodnya-akcziya/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2024/04/velykd_1fb.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2024/04/velykd_1fb.jpg","width":1440,"height":960},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/sale/velykodnya-akcziya/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Акція","item":"https://evil-lev.tech/sale/"},{"@type":"ListItem","position":3,"name":"Великодня акція"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/sale/velykodnya-akcziya/","url":"https://evil-lev.tech/sale/velykodnya-akcziya/","name":"[:uk]Великодня акція[:en]EASTER PROMOTION[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/sale/velykodnya-akcziya/#primaryimage"},"image":{"@id":"https://evil-lev.tech/sale/velykodnya-akcziya/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2024/04/velykd_1fb.jpg","datePublished":"2024-04-05T04:00:47+00:00","dateModified":"2024-04-04T19:02:05+00:00","breadcrumb":{"@id":"https://evil-lev.tech/sale/velykodnya-akcziya/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/sale/velykodnya-akcziya/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/sale/velykodnya-akcziya/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2024/04/velykd_1fb.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2024/04/velykd_1fb.jpg","width":1440,"height":960},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/sale/velykodnya-akcziya/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Акція","item":"https://evil-lev.tech/sale/"},{"@type":"ListItem","position":3,"name":"Великодня акція"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -78,7 +78,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/sale/velykodnya-akcziya/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/sale/velykodnya-akcziya/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/sale/velykodnya-akcziya/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="EASTER PROMOTION"><meta property="og:url" content="https://evil-lev.tech/en/sale/velykodnya-akcziya/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2024/04/velykd_1fb.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="EASTER PROMOTION"><meta property="og:url" content="https://evil-lev.tech/en/sale/velykodnya-akcziya/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2024/04/velykd_1fb.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -289,10 +289,10 @@
                     <div class="col-lg-10 order-1 order-lg-2">
                         <div class="blog-detail">
                             <article class="article text-md w-thin color-grey">
-                                <p><span>Easter promotion from </span><strong><span>LEV Development</span></strong><span> 🪺</span></p>
+                                <p><span>Easter promotion from </span><strong><span>Evil Lev</span></strong><span> 🪺</span></p>
 <p><span>Try your luck now.</span></p>
 <p><span>Visit the sales department, choose your scratch card, erase the protective field and get </span><strong><span>a discount of up to 10%</span></strong><span> 💥</span></p>
-<p><span>The promotion is valid </span><strong><span>for all real estate</span></strong><span> from </span><strong><span>LEV Development</span></strong><span> until the Easter holidays❤️‍🔥</span></p>
+<p><span>The promotion is valid </span><strong><span>for all real estate</span></strong><span> from </span><strong><span>Evil Lev</span></strong><span> until the Easter holidays❤️‍🔥</span></p>
     <img data-src="https://evil-lev.tech/wp-content/uploads/2024/04/velykd_1fb-1000x667.jpg.pagespeed.ce.nou93Qiijg.jpg" alt="">
                             </article>
                             <div class="spacer-lgx" style="height: 90px"></div>
@@ -451,8 +451,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

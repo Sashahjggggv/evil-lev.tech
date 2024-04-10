@@ -59,20 +59,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>News - LEV Development</title>
+	<title>News - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/novyny/"/>
 	<link rel="next" href="https://evil-lev.tech/novyny/page/2/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="News"/>
 	<meta property="og:url" content="https://evil-lev.tech/novyny/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/11/untitled-3-1.jpg"/>
 	<meta property="og:image:width" content="355"/>
 	<meta property="og:image:height" content="600"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["WebPage","CollectionPage"],"@id":"https://evil-lev.tech/novyny/","url":"https://evil-lev.tech/novyny/","name":"[:uk]Новини[:en]News[:ru]Новости[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"datePublished":"2019-09-16T16:19:04+00:00","dateModified":"2020-11-02T15:41:03+00:00","breadcrumb":{"@id":"https://evil-lev.tech/novyny/#breadcrumb"},"inLanguage":"en-GB"},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/novyny/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["WebPage","CollectionPage"],"@id":"https://evil-lev.tech/novyny/","url":"https://evil-lev.tech/novyny/","name":"[:uk]Новини[:en]News[:ru]Новости[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"datePublished":"2019-09-16T16:19:04+00:00","dateModified":"2020-11-02T15:41:03+00:00","breadcrumb":{"@id":"https://evil-lev.tech/novyny/#breadcrumb"},"inLanguage":"en-GB"},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/novyny/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -501,8 +501,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

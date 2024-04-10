@@ -60,14 +60,14 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>≡ ЖК PERFECT LIFE ᐈ Квартири бізнес-класу в новобудові у Львові</title>
-	<meta name="description" content="ЖК Perfect Life (Перфект Лайф) від LEV Development - інноваційний житловий простір в мальовничій еколокації з лісопарком, озером, закритою територією та школою."/>
+	<meta name="description" content="ЖК Perfect Life (Перфект Лайф) від Evil Lev - інноваційний житловий простір в мальовничій еколокації з лісопарком, озером, закритою територією та школою."/>
 	<link rel="canonical" href="https://evil-lev.tech/complex/zhk-perfect-life/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ ЖК PERFECT LIFE ᐈ Квартири бізнес-класу в новобудові у Львові"/>
-	<meta property="og:description" content="ЖК Perfect Life (Перфект Лайф) від LEV Development - інноваційний житловий простір в мальовничій еколокації з лісопарком, озером, закритою територією та школою."/>
+	<meta property="og:description" content="ЖК Perfect Life (Перфект Лайф) від Evil Lev - інноваційний житловий простір в мальовничій еколокації з лісопарком, озером, закритою територією та школою."/>
 	<meta property="og:url" content="https://evil-lev.tech/complex/zhk-perfect-life/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-04-01T09:54:35+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2021/09/12345678.jpg"/>
 	<meta property="og:image:width" content="1628"/>
@@ -75,8 +75,8 @@
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="≡ ЖК PERFECT LIFE ᐈ Квартири бізнес-класу в новобудові у Львові"/>
-	<meta name="twitter:description" content="ЖК Perfect Life (Перфект Лайф) від LEV Development - інноваційний житловий простір в мальовничій еколокації з лісопарком, озером, закритою територією та школою."/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/complex/zhk-perfect-life/","url":"https://evil-lev.tech/complex/zhk-perfect-life/","name":"≡ ЖК PERFECT LIFE ᐈ Квартири бізнес-класу в новобудові у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/complex/zhk-perfect-life/#primaryimage"},"image":{"@id":"https://evil-lev.tech/complex/zhk-perfect-life/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/09/12345678.jpg","datePublished":"2021-07-13T12:39:19+00:00","dateModified":"2024-04-01T09:54:35+00:00","description":"ЖК Perfect Life (Перфект Лайф) від LEV Development - інноваційний житловий простір в мальовничій еколокації з лісопарком, озером, закритою територією та школою.","breadcrumb":{"@id":"https://evil-lev.tech/complex/zhk-perfect-life/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/complex/zhk-perfect-life/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/complex/zhk-perfect-life/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/09/12345678.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/09/12345678.jpg","width":1628,"height":2251},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/complex/zhk-perfect-life/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"ЖК PERFECT LIFE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
+	<meta name="twitter:description" content="ЖК Perfect Life (Перфект Лайф) від Evil Lev - інноваційний житловий простір в мальовничій еколокації з лісопарком, озером, закритою територією та школою."/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/complex/zhk-perfect-life/","url":"https://evil-lev.tech/complex/zhk-perfect-life/","name":"≡ ЖК PERFECT LIFE ᐈ Квартири бізнес-класу в новобудові у Львові","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/complex/zhk-perfect-life/#primaryimage"},"image":{"@id":"https://evil-lev.tech/complex/zhk-perfect-life/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/09/12345678.jpg","datePublished":"2021-07-13T12:39:19+00:00","dateModified":"2024-04-01T09:54:35+00:00","description":"ЖК Perfect Life (Перфект Лайф) від Evil Lev - інноваційний житловий простір в мальовничій еколокації з лісопарком, озером, закритою територією та школою.","breadcrumb":{"@id":"https://evil-lev.tech/complex/zhk-perfect-life/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/complex/zhk-perfect-life/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/complex/zhk-perfect-life/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/09/12345678.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/09/12345678.jpg","width":1628,"height":2251},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/complex/zhk-perfect-life/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Комплекси","item":"https://evil-lev.tech/complex/"},{"@type":"ListItem","position":3,"name":"ЖК PERFECT LIFE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -85,7 +85,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/complex/zhk-perfect-life/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/complex/zhk-perfect-life/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/complex/zhk-perfect-life/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="ЖК PERFECT LIFE"><meta property="og:url" content="https://evil-lev.tech/complex/zhk-perfect-life/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/09/12345678.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="ЖК PERFECT LIFE"><meta property="og:url" content="https://evil-lev.tech/complex/zhk-perfect-life/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/09/12345678.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -1710,8 +1710,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>
@@ -2113,7 +2113,7 @@
         <div class="layer-close"></div>
         <div class="popup-container size-2">
             <div class="popup-align bg-white">
-                                <div class="h4 title text-center w-medium">Умови розтермінування від LEV Development:</div>
+                                <div class="h4 title text-center w-medium">Умови розтермінування від Evil Lev:</div>
                                 <div class="text text-lg w-thin">
                 <p>&nbsp;</p>
 <p><strong>Для житла:</strong></p>

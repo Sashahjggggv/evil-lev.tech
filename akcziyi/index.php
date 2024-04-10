@@ -59,16 +59,16 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Акції - LEV Development</title>
+	<title>Акції - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/akcziyi/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="Акції"/>
 	<meta property="og:url" content="https://evil-lev.tech/akcziyi/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-02-07T17:57:37+00:00"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/akcziyi/","url":"https://evil-lev.tech/akcziyi/","name":"[:uk]Акції[:en]Promotions[:ru]Акции[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"datePublished":"2019-09-17T11:52:44+00:00","dateModified":"2024-02-07T17:57:37+00:00","breadcrumb":{"@id":"https://evil-lev.tech/akcziyi/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/akcziyi/"]}]},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/akcziyi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Акції"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/akcziyi/","url":"https://evil-lev.tech/akcziyi/","name":"[:uk]Акції[:en]Promotions[:ru]Акции[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"datePublished":"2019-09-17T11:52:44+00:00","dateModified":"2024-02-07T17:57:37+00:00","breadcrumb":{"@id":"https://evil-lev.tech/akcziyi/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/akcziyi/"]}]},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/akcziyi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Акції"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -421,8 +421,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

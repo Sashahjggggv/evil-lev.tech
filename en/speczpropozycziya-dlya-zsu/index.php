@@ -59,7 +59,7 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Special offer for AFU and TOT residents - LEV Development</title>
+	<title>Special offer for AFU and TOT residents - Evil Lev</title>
 	<meta name="description" content="Спецпропозиція для ЗСУ та мешканців ТОТ"/>
 	<link rel="canonical" href="https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/"/>
 	<meta property="og:locale" content="en_GB"/>
@@ -67,20 +67,20 @@
 	<meta property="og:title" content="Спецпропозиція для ЗСУ та мешканців ТОТ"/>
 	<meta property="og:description" content="Спецпропозиція для ЗСУ та мешканців ТОТ"/>
 	<meta property="og:url" content="https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:published_time" content="2022-09-15T17:57:24+00:00"/>
 	<meta property="article:modified_time" content="2023-12-28T11:40:19+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/09/1.jpg"/>
 	<meta property="og:image:width" content="2560"/>
 	<meta property="og:image:height" content="1795"/>
 	<meta property="og:image:type" content="image/jpeg"/>
-	<meta name="author" content="lev-development"/>
+	<meta name="author" content="evil-lev"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="Спецпропозиція для ЗСУ та мешканців ТОТ"/>
 	<meta name="twitter:description" content="Спецпропозиція для ЗСУ та мешканців ТОТ"/>
 	<meta name="twitter:label1" content="Written by"/>
-	<meta name="twitter:data1" content="lev-development"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/","url":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/","name":"[:uk]Спецпропозиція для ЗСУ, мешканців ТОТ та тих хто втратив житло[:en]Special offer for AFU and TOT residents[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/09/1.jpg","datePublished":"2022-09-15T17:57:24+00:00","dateModified":"2023-12-28T11:40:19+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"description":"Спецпропозиція для ЗСУ та мешканців ТОТ","breadcrumb":{"@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/09/1.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/09/1.jpg","width":2560,"height":1795},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Special offer for AFU and TOT residents"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"lev-development","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"lev-development"}}]}</script>
+	<meta name="twitter:data1" content="evil-lev"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/","url":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/","name":"[:uk]Спецпропозиція для ЗСУ, мешканців ТОТ та тих хто втратив житло[:en]Special offer for AFU and TOT residents[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/09/1.jpg","datePublished":"2022-09-15T17:57:24+00:00","dateModified":"2023-12-28T11:40:19+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"description":"Спецпропозиція для ЗСУ та мешканців ТОТ","breadcrumb":{"@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/09/1.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/09/1.jpg","width":2560,"height":1795},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Special offer for AFU and TOT residents"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"evil-lev","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"evil-lev"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -89,7 +89,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/speczpropozycziya-dlya-zsu/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/speczpropozycziya-dlya-zsu/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="Special offer for AFU and TOT residents"><meta property="og:url" content="https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/09/1.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="Special offer for AFU and TOT residents"><meta property="og:url" content="https://evil-lev.tech/en/speczpropozycziya-dlya-zsu/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/09/1.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -302,7 +302,7 @@
                     <div class="col-lg-10 order-1 order-lg-2">
                         <div class="blog-detail">
                             <article class="article text-md w-thin color-grey">
-                                <p><strong>LEV Development</strong> has prepared a special offer for the purchase of housing for servicemen of the Armed Forces of Ukraine and their families, as well as for residents of temporarily occupied territories, and those who have lost their homes:</p>
+                                <p><strong>Evil Lev</strong> has prepared a special offer for the purchase of housing for servicemen of the Armed Forces of Ukraine and their families, as well as for residents of temporarily occupied territories, and those who have lost their homes:</p>
 <ul>
 <li>For servicemen of the Armed Forces and their families, residents of temporarily occupied territories, a discount of <strong>-10%</strong> of the total cost of the apartment (for all payment methods);</li>
 <li>For those who lost their home <strong>&#8211; 13%</strong> of the total cost of the apartment (for all payment methods);</li>
@@ -316,7 +316,7 @@
 <li>Citizens of Ukraine living in temporarily occupied territories (including territories that are surrounded (blockade) and where active hostilities are ongoing).</li>
 </ul>
 <p>&nbsp;</p>
-<p>The discount is granted directly at <strong>LEV Development</strong> sales departments , subject to presentation of one of the following supporting documents:</p>
+<p>The discount is granted directly at <strong>Evil Lev</strong> sales departments , subject to presentation of one of the following supporting documents:</p>
 <ul>
 <li>Military ID, officer&#8217;s certificate or a certificate from the military commissariat;</li>
 <li>An extract from the personal file from the military commissariat, an extract from the order of the commander of the military unit, in which mobilization will be indicated;</li>
@@ -492,8 +492,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

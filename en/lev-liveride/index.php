@@ -59,20 +59,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>LEV Live&amp;Ride - LEV Development</title>
+	<title>LEV Live&amp;Ride - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/en/lev-liveride/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="LEV Live&amp;Ride"/>
 	<meta property="og:url" content="https://evil-lev.tech/en/lev-liveride/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-02-07T17:46:00+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/01/image_part_006.jpg"/>
 	<meta property="og:image:width" content="500"/>
 	<meta property="og:image:height" content="1073"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/lev-liveride/","url":"https://evil-lev.tech/en/lev-liveride/","name":"[:uk]LEV Live&Ride[:en]LEV Live&Ride[:ru]LEV Live&Ride[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/lev-liveride/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/lev-liveride/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_006.jpg","datePublished":"2022-01-11T08:46:48+00:00","dateModified":"2024-02-07T17:46:00+00:00","breadcrumb":{"@id":"https://evil-lev.tech/en/lev-liveride/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/lev-liveride/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/lev-liveride/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_006.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_006.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/lev-liveride/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"LEV Live&#038;Ride"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/lev-liveride/","url":"https://evil-lev.tech/en/lev-liveride/","name":"[:uk]LEV Live&Ride[:en]LEV Live&Ride[:ru]LEV Live&Ride[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/lev-liveride/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/lev-liveride/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_006.jpg","datePublished":"2022-01-11T08:46:48+00:00","dateModified":"2024-02-07T17:46:00+00:00","breadcrumb":{"@id":"https://evil-lev.tech/en/lev-liveride/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/lev-liveride/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/lev-liveride/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_006.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_006.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/lev-liveride/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"LEV Live&#038;Ride"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -283,7 +283,7 @@
               <div class="about-info  anime">
                 <div class="skew-scroll t-overflow">
                                   </div>
-                                  <div class="text  text-anime color-4"><p>The LEV Development team promotes human-centeredness. Our main priority is comfort and pleasure within our complexes, so we pay attention to every detail.</p>
+                                  <div class="text  text-anime color-4"><p>The Evil Lev team promotes human-centeredness. Our main priority is comfort and pleasure within our complexes, so we pay attention to every detail.</p>
 <p>&nbsp;</p>
 <p>The comfort of living consists of many details. Do you know what the beauty of simple things is? They are native to our lives, at first glance invisible, but give a feeling of extreme lightness and comfort.</p>
 <p>&nbsp;</p>
@@ -363,7 +363,7 @@
                     <div class="h4 title title-decor color-2 text-anime">Which RCs are involved?</div>
                   </div>
                                           </div>
-                          <div class="advantage-text text text-anime"><p><strong>The LEV Live&#038;Ride</strong> loyalty program extends to all residential complexes <strong>of LEV Development</strong></p>
+                          <div class="advantage-text text text-anime"><p><strong>The LEV Live&#038;Ride</strong> loyalty program extends to all residential complexes <strong>of Evil Lev</strong></p>
 </div>
                       </div>
                       <div class="col-12  col-xl-6 offset-xl-1  order-1 order-xl-2 anime">
@@ -544,8 +544,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

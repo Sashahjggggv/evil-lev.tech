@@ -59,20 +59,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Представницькі поверхи ARTHOUSE park - LEV Development</title>
+	<title>Представницькі поверхи ARTHOUSE park - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="Представницькі поверхи ARTHOUSE park"/>
 	<meta property="og:url" content="https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-02-20T20:14:04+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg"/>
 	<meta property="og:image:width" content="2560"/>
 	<meta property="og:image:height" content="1009"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/","url":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/","name":"[:uk]Представницькі поверхи ARTHOUSE park[:en]Executive floors ARTHOUSE park[:ru]Представницькі поверхи ARTHOUSE park[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/#primaryimage"},"image":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","datePublished":"2021-01-05T09:29:03+00:00","dateModified":"2024-02-20T20:14:04+00:00","breadcrumb":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","width":2560,"height":1009},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Представницькі поверхи ARTHOUSE park"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/","url":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/","name":"[:uk]Представницькі поверхи ARTHOUSE park[:en]Executive floors ARTHOUSE park[:ru]Представницькі поверхи ARTHOUSE park[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/#primaryimage"},"image":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","datePublished":"2021-01-05T09:29:03+00:00","dateModified":"2024-02-20T20:14:04+00:00","breadcrumb":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/01/0005_post-scaled.jpg","width":2560,"height":1009},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/predstavnyczki-poverhy-arthouse-park/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Представницькі поверхи ARTHOUSE park"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -737,8 +737,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

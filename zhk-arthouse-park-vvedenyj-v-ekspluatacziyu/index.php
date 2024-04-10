@@ -59,24 +59,24 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>ЖК ARTHOUSE park введений в експлуатацію 🥳 - Январь 2022[:] - LEV Development</title>
+	<title>ЖК ARTHOUSE park введений в експлуатацію 🥳 - Январь 2022[:] - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="ЖК ARTHOUSE park введений в експлуатацію 🥳"/>
 	<meta property="og:url" content="https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:published_time" content="2024-01-25T20:09:56+00:00"/>
 	<meta property="article:modified_time" content="2024-01-26T10:13:03+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2024/01/monosnap-syuzh-zustrichajte-shedevr-arthouse-park..jpg"/>
 	<meta property="og:image:width" content="1622"/>
 	<meta property="og:image:height" content="908"/>
 	<meta property="og:image:type" content="image/jpeg"/>
-	<meta name="author" content="lev-development"/>
+	<meta name="author" content="evil-lev"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:label1" content="Написано"/>
-	<meta name="twitter:data1" content="lev-development"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/","url":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/","name":"[:uk]ЖК ARTHOUSE park введений в експлуатацію 🥳[:en]ARTHOUSE PARK IS PUT INTO OPERATION[:ru]Ход строительства ЖК ARTHOUSE park - Январь 2022[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/#primaryimage"},"image":{"@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2024/01/monosnap-syuzh-zustrichajte-shedevr-arthouse-park..jpg","datePublished":"2024-01-25T20:09:56+00:00","dateModified":"2024-01-26T10:13:03+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2024/01/monosnap-syuzh-zustrichajte-shedevr-arthouse-park..jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2024/01/monosnap-syuzh-zustrichajte-shedevr-arthouse-park..jpg","width":1622,"height":908},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"ЖК ARTHOUSE park введений в експлуатацію 🥳"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"lev-development","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"lev-development"}}]}</script>
+	<meta name="twitter:data1" content="evil-lev"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/","url":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/","name":"[:uk]ЖК ARTHOUSE park введений в експлуатацію 🥳[:en]ARTHOUSE PARK IS PUT INTO OPERATION[:ru]Ход строительства ЖК ARTHOUSE park - Январь 2022[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/#primaryimage"},"image":{"@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2024/01/monosnap-syuzh-zustrichajte-shedevr-arthouse-park..jpg","datePublished":"2024-01-25T20:09:56+00:00","dateModified":"2024-01-26T10:13:03+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2024/01/monosnap-syuzh-zustrichajte-shedevr-arthouse-park..jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2024/01/monosnap-syuzh-zustrichajte-shedevr-arthouse-park..jpg","width":1622,"height":908},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"ЖК ARTHOUSE park введений в експлуатацію 🥳"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"evil-lev","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"evil-lev"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -85,7 +85,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="ЖК ARTHOUSE park введений в експлуатацію 🥳"><meta property="og:url" content="https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2024/01/monosnap-syuzh-zustrichajte-shedevr-arthouse-park..jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="ЖК ARTHOUSE park введений в експлуатацію 🥳"><meta property="og:url" content="https://evil-lev.tech/zhk-arthouse-park-vvedenyj-v-ekspluatacziyu/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2024/01/monosnap-syuzh-zustrichajte-shedevr-arthouse-park..jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -298,8 +298,8 @@
                     <div class="col-lg-10 order-1 order-lg-2">
                         <div class="blog-detail">
                             <article class="article text-md w-thin color-grey">
-                                <p>Компанія <strong>LEV Development</strong> ввела в експлуатацію житловий комплекс бізнес-класу — <strong>ARTHOUSE park</strong>.</p>
-<p>«Це наше відчуття мистецтва. Наше відчуття того, як повинен жити кожен українець і кожен львів’янин», — коментує співзасновник компанії «LEV Development» Олександр Островський.</p>
+                                <p>Компанія <strong>Evil Lev</strong> ввела в експлуатацію житловий комплекс бізнес-класу — <strong>ARTHOUSE park</strong>.</p>
+<p>«Це наше відчуття мистецтва. Наше відчуття того, як повинен жити кожен українець і кожен львів’янин», — коментує співзасновник компанії «Evil Lev» Олександр Островський.</p>
 <p>Житловий комплекс зданий в експлуатацію і готовий стати ексклюзивним та затишним помешканням саме для вас, аби щохвилини надихати на нові звершення та перемоги.</p>
 <p>А дізнатися більше про проєкт та його ексклюзивні дизайнерські рішення ви можете у новому сюжеті від Правда Тут 🎥</p>
     <iframe data-src="https://www.youtube.com/embed/0sYvhV9Gwg0"></iframe>
@@ -534,8 +534,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

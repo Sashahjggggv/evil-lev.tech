@@ -59,20 +59,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>SPRING IS COMING, BRINGS DISCOUNTS 🌿 - LEV Development</title>
+	<title>SPRING IS COMING, BRINGS DISCOUNTS 🌿 - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/vesna-ide-znyzhky-nese/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="SPRING IS COMING, BRINGS DISCOUNTS 🌿"/>
 	<meta property="og:url" content="https://evil-lev.tech/vesna-ide-znyzhky-nese/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:published_time" content="2024-02-29T08:14:24+00:00"/>
-	<meta name="author" content="lev-development"/>
+	<meta name="author" content="evil-lev"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:image" content="https://evil-lev.tech/wp-content/uploads/2021/03/93709_2.jpg"/>
 	<meta name="twitter:label1" content="Written by"/>
-	<meta name="twitter:data1" content="lev-development"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/","url":"https://evil-lev.tech/vesna-ide-znyzhky-nese/","name":"[:uk]Весна іде, знижки несе 🌿[:en]SPRING IS COMING, BRINGS DISCOUNTS 🌿[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/#primaryimage"},"image":{"@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/03/93709_2.jpg","datePublished":"2024-02-29T08:14:24+00:00","dateModified":"2024-02-29T08:14:24+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/vesna-ide-znyzhky-nese/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/03/93709_2.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/03/93709_2.jpg","width":2500,"height":1667},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Весна іде, знижки несе 🌿"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"lev-development","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"lev-development"}}]}</script>
+	<meta name="twitter:data1" content="evil-lev"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/","url":"https://evil-lev.tech/vesna-ide-znyzhky-nese/","name":"[:uk]Весна іде, знижки несе 🌿[:en]SPRING IS COMING, BRINGS DISCOUNTS 🌿[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/#primaryimage"},"image":{"@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/03/93709_2.jpg","datePublished":"2024-02-29T08:14:24+00:00","dateModified":"2024-02-29T08:14:24+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/vesna-ide-znyzhky-nese/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/03/93709_2.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/03/93709_2.jpg","width":2500,"height":1667},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/vesna-ide-znyzhky-nese/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Весна іде, знижки несе 🌿"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"evil-lev","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"evil-lev"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -81,7 +81,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/vesna-ide-znyzhky-nese/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/vesna-ide-znyzhky-nese/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/vesna-ide-znyzhky-nese/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="SPRING IS COMING, BRINGS DISCOUNTS 🌿"><meta property="og:url" content="https://evil-lev.tech/en/vesna-ide-znyzhky-nese/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/03/93709_2.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="SPRING IS COMING, BRINGS DISCOUNTS 🌿"><meta property="og:url" content="https://evil-lev.tech/en/vesna-ide-znyzhky-nese/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/03/93709_2.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -295,7 +295,7 @@
                         <div class="blog-detail">
                             <article class="article text-md w-thin color-grey">
                                 <p><strong><span>Spring is coming, brings discounts 🌿</span></strong></p>
-<p><span>From </span><strong><span>March 1 to March 31,</span></strong><span> 2024, </span><strong><span>LEV Development</span></strong><span> offers a </span><strong><span>-9%</span></strong><span> discount with </span><strong><span>100% payment</span></strong><span> on </span><strong><span>all projects</span></strong><span> in the construction phase. And that:</span></p>
+<p><span>From </span><strong><span>March 1 to March 31,</span></strong><span> 2024, </span><strong><span>Evil Lev</span></strong><span> offers a </span><strong><span>-9%</span></strong><span> discount with </span><strong><span>100% payment</span></strong><span> on </span><strong><span>all projects</span></strong><span> in the construction phase. And that:</span></p>
 <ul>
 <li><a href="https://evil-lev.tech/complex/zhk-hygge-lux/"><span>HYGGE lux</span></a></li>
 <li><a href="https://evil-lev.tech/complex/zhk-silent-park/"><span>SILENT PARK</span></a></li>
@@ -478,8 +478,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

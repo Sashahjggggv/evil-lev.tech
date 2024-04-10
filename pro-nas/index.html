@@ -59,20 +59,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Про нас - LEV Development</title>
+	<title>Про нас - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/pro-nas/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="Про нас"/>
 	<meta property="og:url" content="https://evil-lev.tech/pro-nas/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2022-02-02T15:42:02+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg"/>
 	<meta property="og:image:width" content="500"/>
 	<meta property="og:image:height" content="1073"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/pro-nas/","url":"https://evil-lev.tech/pro-nas/","name":"[:uk]Про нас[:en]About us[:ru]О нас[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/pro-nas/#primaryimage"},"image":{"@id":"https://evil-lev.tech/pro-nas/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","datePublished":"2019-09-16T10:25:34+00:00","dateModified":"2022-02-02T15:42:02+00:00","breadcrumb":{"@id":"https://evil-lev.tech/pro-nas/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/pro-nas/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/pro-nas/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/pro-nas/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Про нас"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/pro-nas/","url":"https://evil-lev.tech/pro-nas/","name":"[:uk]Про нас[:en]About us[:ru]О нас[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/pro-nas/#primaryimage"},"image":{"@id":"https://evil-lev.tech/pro-nas/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","datePublished":"2019-09-16T10:25:34+00:00","dateModified":"2022-02-02T15:42:02+00:00","breadcrumb":{"@id":"https://evil-lev.tech/pro-nas/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/pro-nas/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/pro-nas/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/image_part_001.jpg","width":500,"height":1073},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/pro-nas/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Про нас"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -248,7 +248,7 @@
                     <div class="col-lg-9">
                         <div class="cell-view">
                             <div class="t-overflow">
-                                <h1 class="h1 block-title text-anime">LEV Development</h1>
+                                <h1 class="h1 block-title text-anime">Evil Lev</h1>
                             </div>
                             <div class="spacer-xs"></div>
                             <div class="t-overflow">
@@ -291,8 +291,8 @@
                     <div class="col-xl-6 col-md-8 offset-md-2 offset-xl-3">
                         <div class="t-overflow">
                             <div class="article text color-grey text-anime">
-                                <p>«LEV Development» пропонує своїм клієнтам не лише квадратні метри, створені сучасними технологіями, а й гармонійний простір для життя. Адже придбавши нерухомість, ви отримуєте комфорт та затишок на кожному етапі: від зовнішнього вигляду будинку та простору навколо до інтер’єру окремих помешкань і площ спільного користування.</p>
-<p>Девелоперська компанія «LEV Development» створює житло, в якому мешканці насолоджуватимуться життям на повну!</p>
+                                <p>«Evil Lev» пропонує своїм клієнтам не лише квадратні метри, створені сучасними технологіями, а й гармонійний простір для життя. Адже придбавши нерухомість, ви отримуєте комфорт та затишок на кожному етапі: від зовнішнього вигляду будинку та простору навколо до інтер’єру окремих помешкань і площ спільного користування.</p>
+<p>Девелоперська компанія «Evil Lev» створює житло, в якому мешканці насолоджуватимуться життям на повну!</p>
                             </div>
                         </div>
                     </div>
@@ -308,7 +308,7 @@
                     <div class="col-xl-6">
                         <h2 class="t-move h2 block-title style2 lettering line-left-2">
                             <span class="t-move-to-copy">ЗАСНОВНИКИ</span>
-                            <span>LEV DEVELOPMENT</span>                        </h2>
+                            <span>Evil Lev</span>                        </h2>
                     </div>
                     <div class="spacer-xs d-xl-none"></div>
                     <div class="col-md-6 col-xl-4 d-flex align-self-center justify-content-xl-center">
@@ -570,8 +570,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

@@ -65,9 +65,9 @@
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ CITYZEN Ya ᐈ Апартаменти бізнес-класу у готелі в Яремче"/>
-	<meta property="og:description" content="CITYZEN Ya (Сітізен Я) від LEV Development - мультифункційний готель між схилами гір з оглядовим майданчиком, коворкінгом та рестораном."/>
+	<meta property="og:description" content="CITYZEN Ya (Сітізен Я) від Evil Lev - мультифункційний готель між схилами гір з оглядовим майданчиком, коворкінгом та рестораном."/>
 	<meta property="og:url" content="https://evil-lev.tech/en/smart-hill/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2023-04-15T09:55:08+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2023/04/1-1.jpg"/>
 	<meta property="og:image:width" content="1220"/>
@@ -75,8 +75,8 @@
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:title" content="≡ CITYZEN Ya ᐈ Апартаменти бізнес-класу у готелі в Яремче"/>
-	<meta name="twitter:description" content="CITYZEN Ya (Сітізен Я) від LEV Development - мультифункційний готель між схилами гір з оглядовим майданчиком, коворкінгом та рестораном."/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/smart-hill/","url":"https://evil-lev.tech/en/smart-hill/","name":"≡ Smart Hill ᐈ Апартаменти бізнес-класу у готелі в Яремче","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/smart-hill/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/smart-hill/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2023/04/1-1.jpg","datePublished":"2021-03-22T15:10:08+00:00","dateModified":"2023-04-15T09:55:08+00:00","description":"Smart Hill (Смарт Хіл) - мультифункційний готель між схилами гір з оглядовим майданчиком, коворкінгом та рестораном.","breadcrumb":{"@id":"https://evil-lev.tech/en/smart-hill/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/smart-hill/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/smart-hill/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2023/04/1-1.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2023/04/1-1.jpg","width":1220,"height":1689},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/smart-hill/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Smart Hill"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<meta name="twitter:description" content="CITYZEN Ya (Сітізен Я) від Evil Lev - мультифункційний готель між схилами гір з оглядовим майданчиком, коворкінгом та рестораном."/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/smart-hill/","url":"https://evil-lev.tech/en/smart-hill/","name":"≡ Smart Hill ᐈ Апартаменти бізнес-класу у готелі в Яремче","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/smart-hill/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/smart-hill/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2023/04/1-1.jpg","datePublished":"2021-03-22T15:10:08+00:00","dateModified":"2023-04-15T09:55:08+00:00","description":"Smart Hill (Смарт Хіл) - мультифункційний готель між схилами гір з оглядовим майданчиком, коворкінгом та рестораном.","breadcrumb":{"@id":"https://evil-lev.tech/en/smart-hill/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/smart-hill/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/smart-hill/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2023/04/1-1.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2023/04/1-1.jpg","width":1220,"height":1689},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/smart-hill/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Smart Hill"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -904,7 +904,7 @@
                                                     <!-- style="display: block" -->
                                                     <div class="article">
                                                         <p><strong><span>Location of the construction object:</span></strong><span> Ivano-Frankivsk region, Nadvirnyanskyi district, Yaremchansk territorial community, Yaremche city, 311 Svobody street;</span></p>
-<p><strong><span>Customer:</span></strong><span> &#8220;LEV DEVELOPMENT CAPITAL&#8221; Limited Liability Company;</span></p>
+<p><strong><span>Customer:</span></strong><span> &#8220;Evil Lev CAPITAL&#8221; Limited Liability Company;</span></p>
 <p><strong><span>General contractor:</span></strong><span> DEVELOPMENT-CITY Limited Liability Company (40038129);</span></p>
 <p><strong><span>Technical supervision:</span></strong><span> Petruk Tymofiy Fedorovych, JSC certificate #001489;</span></p>
 <p><strong><span>Author&#8217;s supervision:</span></strong><span> Rostyslav Evgenovich Pohorskyi (АА 004039);</span></p>
@@ -1156,8 +1156,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

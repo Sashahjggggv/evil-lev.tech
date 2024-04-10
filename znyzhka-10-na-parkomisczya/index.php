@@ -59,24 +59,24 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Знижка -10% на паркомісця - LEV Development</title>
+	<title>Знижка -10% на паркомісця - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="Знижка -10% на паркомісця"/>
 	<meta property="og:url" content="https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:published_time" content="2024-02-07T17:51:49+00:00"/>
 	<meta property="article:modified_time" content="2024-02-07T17:54:09+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg"/>
 	<meta property="og:image:width" content="2560"/>
 	<meta property="og:image:height" content="1709"/>
 	<meta property="og:image:type" content="image/jpeg"/>
-	<meta name="author" content="lev-development"/>
+	<meta name="author" content="evil-lev"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:label1" content="Написано"/>
-	<meta name="twitter:data1" content="lev-development"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/","url":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/","name":"[:uk]Знижка -10% на паркомісця[:en]10% DISCOUNT ON PARKING SPACES[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","datePublished":"2024-02-07T17:51:49+00:00","dateModified":"2024-02-07T17:54:09+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","width":2560,"height":1709},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"10% DISCOUNT ON PARKING SPACES"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"lev-development","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"lev-development"}}]}</script>
+	<meta name="twitter:data1" content="evil-lev"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/","url":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/","name":"[:uk]Знижка -10% на паркомісця[:en]10% DISCOUNT ON PARKING SPACES[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","datePublished":"2024-02-07T17:51:49+00:00","dateModified":"2024-02-07T17:54:09+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","width":2560,"height":1709},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"10% DISCOUNT ON PARKING SPACES"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"evil-lev","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"evil-lev"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -85,7 +85,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/znyzhka-10-na-parkomisczya/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/znyzhka-10-na-parkomisczya/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/znyzhka-10-na-parkomisczya/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="Знижка -10% на паркомісця"><meta property="og:url" content="https://evil-lev.tech/znyzhka-10-na-parkomisczya/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="Знижка -10% на паркомісця"><meta property="og:url" content="https://evil-lev.tech/znyzhka-10-na-parkomisczya/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -298,7 +298,7 @@
                     <div class="col-lg-10 order-1 order-lg-2">
                         <div class="blog-detail">
                             <article class="article text-md w-thin color-grey">
-                                <p>Команда <strong>LEV Development</strong> пропагує людиноцентризм. Наш головний пріоритет — комфорт і задоволення у межах наших комплексів, тому ми приділяємо увагу кожній дрібничці.</p>
+                                <p>Команда <strong>Evil Lev</strong> пропагує людиноцентризм. Наш головний пріоритет — комфорт і задоволення у межах наших комплексів, тому ми приділяємо увагу кожній дрібничці.</p>
 <p>Комфорт проживання складається з багатьох деталей. Знаєте, у чому вся краса простих речей? Вони нативно підлаштовуються до нашого життя, на перший погляд непомітні, проте дарують відчуття надзвичайної легкості та зручності.</p>
 <p>Наприклад, підземний паркінг на території. Корисний та функціональний простір: декілька хвилин на маневри — і ви вже їдете ліфтом до свого поверху, аби провести решту дня в затишку своєї оселі.</p>
 <p>Така проста річ суттєво підвищує рівень життя. Ба більше, час — найцінніший ресурс і витрачати його на пошуки вільного та доступного машиномісця не доведеться. За статистикою наявність підземного паркінгу економить резидентам до 30 хвилин на день.</p>
@@ -476,8 +476,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

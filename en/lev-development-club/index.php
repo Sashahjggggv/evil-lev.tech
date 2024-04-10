@@ -59,17 +59,17 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Lev Development Club - LEV Development</title>
-	<link rel="canonical" href="https://evil-lev.tech/en/lev-development-club/"/>
+	<title>Evil Lev Club - Evil Lev</title>
+	<link rel="canonical" href="https://evil-lev.tech/en/evil-lev-club/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
-	<meta property="og:title" content="Lev Development Club"/>
+	<meta property="og:title" content="Evil Lev Club"/>
 	<meta property="og:description" content="Комфортне життя у сучасному кварталі – це не лише красиві слова, а наші реальні дії."/>
-	<meta property="og:url" content="https://evil-lev.tech/en/lev-development-club/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:url" content="https://evil-lev.tech/en/evil-lev-club/"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:published_time" content="2019-02-27T15:25:33+00:00"/>
 	<meta property="article:modified_time" content="2019-11-14T21:30:31+00:00"/>
-	<meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/02/lev-development-club-preview.jpg"/>
+	<meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/02/evil-lev-club-preview.jpg"/>
 	<meta property="og:image:width" content="745"/>
 	<meta property="og:image:height" content="425"/>
 	<meta property="og:image:type" content="image/jpeg"/>
@@ -77,16 +77,16 @@
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:label1" content="Written by"/>
 	<meta name="twitter:data1" content="admin"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/lev-development-club/","url":"https://evil-lev.tech/en/lev-development-club/","name":"[:uk]Lev Development Club[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/lev-development-club/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/lev-development-club/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2019/02/lev-development-club-preview.jpg","datePublished":"2019-02-27T15:25:33+00:00","dateModified":"2019-11-14T21:30:31+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/6478d496e1ed3d1c099286a4029c0f58"},"breadcrumb":{"@id":"https://evil-lev.tech/en/lev-development-club/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/lev-development-club/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/lev-development-club/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2019/02/lev-development-club-preview.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2019/02/lev-development-club-preview.jpg","width":745,"height":425},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/lev-development-club/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Lev Development Club"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/6478d496e1ed3d1c099286a4029c0f58","name":"admin","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/a1db2860a365ca204ecf3c176f1b0a05?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/a1db2860a365ca204ecf3c176f1b0a05?s=96&d=mm&r=g","caption":"admin"}}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/evil-lev-club/","url":"https://evil-lev.tech/en/evil-lev-club/","name":"[:uk]Evil Lev Club[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/evil-lev-club/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/evil-lev-club/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2019/02/evil-lev-club-preview.jpg","datePublished":"2019-02-27T15:25:33+00:00","dateModified":"2019-11-14T21:30:31+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/6478d496e1ed3d1c099286a4029c0f58"},"breadcrumb":{"@id":"https://evil-lev.tech/en/evil-lev-club/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/evil-lev-club/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/evil-lev-club/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2019/02/evil-lev-club-preview.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2019/02/evil-lev-club-preview.jpg","width":745,"height":425},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/evil-lev-club/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Evil Lev Club"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/6478d496e1ed3d1c099286a4029c0f58","name":"admin","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/a1db2860a365ca204ecf3c176f1b0a05?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/a1db2860a365ca204ecf3c176f1b0a05?s=96&d=mm&r=g","caption":"admin"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
-<link rel="https://api.w.org/" href="https://evil-lev.tech/en/wp-json/"/><link rel="alternate" type="application/json" href="https://evil-lev.tech/en/wp-json/wp/v2/posts/1892"/><link rel="alternate" type="application/json+oembed" href="https://evil-lev.tech/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fen%2Flev-development-club%2F"/>
-<link rel="alternate" type="text/xml+oembed" href="https://evil-lev.tech/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fen%2Flev-development-club%2F&#038;format=xml"/>
-<link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/lev-development-club/"/>
-<link rel="alternate" hreflang="uk" href="https://evil-lev.tech/lev-development-club/"/>
-<link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/lev-development-club/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="Lev Development Club"><meta property="og:url" content="https://evil-lev.tech/en/lev-development-club/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/02/lev-development-club-preview.jpg"><meta property="og:description" content="[:uk]Комфортне життя у сучасному кварталі – це не лише красиві слова, а наші реальні дії.[:]"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<link rel="https://api.w.org/" href="https://evil-lev.tech/en/wp-json/"/><link rel="alternate" type="application/json" href="https://evil-lev.tech/en/wp-json/wp/v2/posts/1892"/><link rel="alternate" type="application/json+oembed" href="https://evil-lev.tech/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fen%2Fevil-lev-club%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="https://evil-lev.tech/en/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fevil-lev.tech%2Fen%2Fevil-lev-club%2F&#038;format=xml"/>
+<link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/evil-lev-club/"/>
+<link rel="alternate" hreflang="uk" href="https://evil-lev.tech/evil-lev-club/"/>
+<link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/evil-lev-club/"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="Evil Lev Club"><meta property="og:url" content="https://evil-lev.tech/en/evil-lev-club/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/02/evil-lev-club-preview.jpg"><meta property="og:description" content="[:uk]Комфортне життя у сучасному кварталі – це не лише красиві слова, а наші реальні дії.[:]"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -226,7 +226,7 @@
                             <li><a href="#" class="flatrisbutton" data-flatris-id="1dzoQ0NdPNW83pR">RC HYGGE lux</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="P3XQb0gM1wWzAg1">RC SILENT PARK</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="4Qd7VxYrVeWJpRA">RC PERFECT LIFE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e18Xg6keKxydMQj">RC FEEL HOUSE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="Na9e4xlDjxVBYnA">RC ARTHOUSE park</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="9gEpvWn8y0bP514">RC HYGGE</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="krGQj6PPy6AD9My">RC OBRIY 3</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="vo24Mx379x93yga">RC LIFE STORY</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="e2wa90QM90rXLAN">LEV CITY HOTEL</a></li><li><a href="#" class="flatrisbutton" data-flatris-id="rkn2A6pYwn0JmoL">LEV RESORT HOTEL</a></li>                        </ul>
                     </div>
 
-                    <div class="lang" tabindex="0"><span>ENG</span><ul><li><a href='https://evil-lev.tech/lev-development-club/'>УКР</a></li></ul></div>                    
+                    <div class="lang" tabindex="0"><span>ENG</span><ul><li><a href='https://evil-lev.tech/evil-lev-club/'>УКР</a></li></ul></div>                    
                 </div>
             </div>
 
@@ -246,14 +246,14 @@
     <main>
         <section class="top-banner-full anime bg-main js-fade-height js-t-height">
             <div class="img-enter full-size rellax" data-rellax-speed="-2">
-                <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/02/lev-development-club-banner.jpg"></div>
+                <div class="bg-full" data-bg="https://evil-lev.tech/wp-content/uploads/2019/02/evil-lev-club-banner.jpg"></div>
             </div>
             <div class="container custom relative fade-scroll">
                 <div class="row">
                     <div class="col-md-11 offset-md-1 col-lg-7 offset-lg-1">
                         <div class="cell-view">
                             <h1 class="h2 block-title lettering line-left-2 style2">
-                                <span>Lev Development Club</span>                            </h1>
+                                <span>Evil Lev Club</span>                            </h1>
                             <div class="fade-anime delay2">
                                 <div class="date-detail bg-white">
                                     <div class="text text-xs color-grey">February 2019</div>
@@ -276,10 +276,10 @@
                             </a>
                             <div class="shares">
                                 <div class="socials">
-                                    <a class="tw" href="https://telegram.me/share/url?text=Lev Development Club&url=https://evil-lev.tech/en/lev-development-club/" target="_blank">
+                                    <a class="tw" href="https://telegram.me/share/url?text=Evil Lev Club&url=https://evil-lev.tech/en/evil-lev-club/" target="_blank">
                                         <svg class="fill-hover" height="682pt" viewBox="-21 -51 682.66669 682" width="682pt" xmlns="http://www.w3.org/2000/svg" fill="rgba(255,255,255,.8)"><path d="m640-1.667969-640 272.039063 167.777344 66.585937 59.726562 224.507813 109.976563-106.558594 178.917969 123.570312zm-403.78125 367.402344-6.457031 58.535156-24.800781-93.234375 435.039062-332.703125zm0 0"/></svg>
                                     </a>
-                                    <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=https://evil-lev.tech/en/lev-development-club/" target="_blank">
+                                    <a class="fb" href="https://www.facebook.com/sharer/sharer.php?u=https://evil-lev.tech/en/evil-lev-club/" target="_blank">
                                         <svg class="fill-hover" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="430.113px" height="430.114px" viewBox="0 0 430.113 430.114" style="enable-background:new 0 0 430.113 430.114;" xml:space="preserve" fill="rgba(255,255,255,.8)">
                                         <g>
                                             <path d="M158.081,83.3c0,10.839,0,59.218,0,59.218h-43.385v72.412h43.385v215.183h89.122V214.936h59.805
@@ -299,13 +299,13 @@
                     <div class="col-lg-10 order-1 order-lg-2">
                         <div class="blog-detail">
                             <article class="article text-md w-thin color-grey">
-                                <p>Обираючи нерухомість компанії Lev Development Ви автоматично стаєте членом <strong>Lev Development Club</strong>. Для учасників цього клубу передбачено ряд переваг, Ви зможете користуватися знижками на усю нерухомість компанії, відвідувати цікаві події та івенти. Приємним бонусом стануть знижки на товари та послуги від партнерів компанії.</p>
-<p>«Lev Development пропонує лише перевірені та надійні компанії, які надають якісний сервіс та найкращі товари», – запевняє Олександр Островський, співзасновник компанії Lev Development.</p>
+                                <p>Обираючи нерухомість компанії Evil Lev Ви автоматично стаєте членом <strong>Evil Lev Club</strong>. Для учасників цього клубу передбачено ряд переваг, Ви зможете користуватися знижками на усю нерухомість компанії, відвідувати цікаві події та івенти. Приємним бонусом стануть знижки на товари та послуги від партнерів компанії.</p>
+<p>«Evil Lev пропонує лише перевірені та надійні компанії, які надають якісний сервіс та найкращі товари», – запевняє Олександр Островський, співзасновник компанії Evil Lev.</p>
 <p>Для клієнтів клубу передбачено серію карток, кожна з яких має відповідну знижку.</p>
-<p>Отож, якщо Ви прийшли на консультацію до відділу продажу Lev Development, то автоматично стаєте власником картки BLACK, котра Вас ні до чого не зобов’язує, але дає гарантовану знижку 0,5% на будь яку нерухомість. Ви можете використати її самі, або ж нею зможуть скористатись Ваші близькі, друзі чи знайомі. А вже придбавши квартиру Ви зможете обміняти карту BLACK на картку серії GOLD, яка дає знижку в 3% на купівлю наступної квартири.</p>
-<p>Клієнти ж які придбали більше 3-х об’єктів нерухомості у компанії Lev Development отримують іменну картку PLATINUM, що дозволяє отримати знижку 5%, а щоб отримати знижку в 7% на усю нерухомість та стати власником картки серії INFINITY варто придбати більше 5 об’єктів. Картки серії PLATINUM та INFINITY – іменні та не передаються.</p>
+<p>Отож, якщо Ви прийшли на консультацію до відділу продажу Evil Lev, то автоматично стаєте власником картки BLACK, котра Вас ні до чого не зобов’язує, але дає гарантовану знижку 0,5% на будь яку нерухомість. Ви можете використати її самі, або ж нею зможуть скористатись Ваші близькі, друзі чи знайомі. А вже придбавши квартиру Ви зможете обміняти карту BLACK на картку серії GOLD, яка дає знижку в 3% на купівлю наступної квартири.</p>
+<p>Клієнти ж які придбали більше 3-х об’єктів нерухомості у компанії Evil Lev отримують іменну картку PLATINUM, що дозволяє отримати знижку 5%, а щоб отримати знижку в 7% на усю нерухомість та стати власником картки серії INFINITY варто придбати більше 5 об’єктів. Картки серії PLATINUM та INFINITY – іменні та не передаються.</p>
 <p>Для зручності користуватись знижкою ви зможете не тільки показавши пластикову карту, але й за номером телефону, на який вона буде зареєстрована.</p>
-<p>Деталі у відділі продажу Lev Development:</p>
+<p>Деталі у відділі продажу Evil Lev:</p>
 <p>м. Львів, вул. Грушевського, 11</p>
 <p><a href="tel:+380972022200">+38 097 202 22 00</a></p>
                             </article>
@@ -472,8 +472,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>
@@ -589,7 +589,7 @@
                 <div class="cf7-wrapper" data-message="" data-error="">
                     <div class="wpcf7 no-js" id="wpcf7-f395-o1" lang="uk" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/en/lev-development-club/#wpcf7-f395-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<form action="/en/evil-lev-club/#wpcf7-f395-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="395"/>
 <input type="hidden" name="_wpcf7_version" value="5.7.2"/>

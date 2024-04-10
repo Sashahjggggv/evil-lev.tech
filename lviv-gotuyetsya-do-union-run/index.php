@@ -59,14 +59,14 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Львів готується до Union Run - LEV Development</title>
+	<title>Львів готується до Union Run - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/lviv-gotuyetsya-do-union-run/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="Львів готується до Union Run"/>
 	<meta property="og:description" content="Комфортне життя у сучасному кварталі – це не лише красиві слова, а наші реальні дії."/>
 	<meta property="og:url" content="https://evil-lev.tech/lviv-gotuyetsya-do-union-run/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:published_time" content="2019-08-20T13:34:12+00:00"/>
 	<meta property="article:modified_time" content="2019-11-14T20:28:04+00:00"/>
 	<meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/08/lviv-gotuyetsya-do-union-run-preview.jpg"/>
@@ -77,7 +77,7 @@
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:label1" content="Написано"/>
 	<meta name="twitter:data1" content="admin"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/","url":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/","name":"[:uk]Львів готується до Union Run[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/#primaryimage"},"image":{"@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2019/08/lviv-gotuyetsya-do-union-run-preview.jpg","datePublished":"2019-08-20T13:34:12+00:00","dateModified":"2019-11-14T20:28:04+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/6478d496e1ed3d1c099286a4029c0f58"},"breadcrumb":{"@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/lviv-gotuyetsya-do-union-run/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2019/08/lviv-gotuyetsya-do-union-run-preview.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2019/08/lviv-gotuyetsya-do-union-run-preview.jpg","width":745,"height":425},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Львів готується до Union Run"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/6478d496e1ed3d1c099286a4029c0f58","name":"admin","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/a1db2860a365ca204ecf3c176f1b0a05?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/a1db2860a365ca204ecf3c176f1b0a05?s=96&d=mm&r=g","caption":"admin"}}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/","url":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/","name":"[:uk]Львів готується до Union Run[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/#primaryimage"},"image":{"@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2019/08/lviv-gotuyetsya-do-union-run-preview.jpg","datePublished":"2019-08-20T13:34:12+00:00","dateModified":"2019-11-14T20:28:04+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/6478d496e1ed3d1c099286a4029c0f58"},"breadcrumb":{"@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/lviv-gotuyetsya-do-union-run/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2019/08/lviv-gotuyetsya-do-union-run-preview.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2019/08/lviv-gotuyetsya-do-union-run-preview.jpg","width":745,"height":425},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/lviv-gotuyetsya-do-union-run/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Львів готується до Union Run"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/6478d496e1ed3d1c099286a4029c0f58","name":"admin","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/a1db2860a365ca204ecf3c176f1b0a05?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/a1db2860a365ca204ecf3c176f1b0a05?s=96&d=mm&r=g","caption":"admin"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -86,7 +86,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/lviv-gotuyetsya-do-union-run/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/lviv-gotuyetsya-do-union-run/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/lviv-gotuyetsya-do-union-run/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="Львів готується до Union Run"><meta property="og:url" content="https://evil-lev.tech/lviv-gotuyetsya-do-union-run/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/08/lviv-gotuyetsya-do-union-run-preview.jpg"><meta property="og:description" content="[:uk]Комфортне життя у сучасному кварталі – це не лише красиві слова, а наші реальні дії.[:]"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="Львів готується до Union Run"><meta property="og:url" content="https://evil-lev.tech/lviv-gotuyetsya-do-union-run/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2019/08/lviv-gotuyetsya-do-union-run-preview.jpg"><meta property="og:description" content="[:uk]Комфортне життя у сучасному кварталі – це не лише красиві слова, а наші реальні дії.[:]"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -299,7 +299,7 @@
                     <div class="col-lg-10 order-1 order-lg-2">
                         <div class="blog-detail">
                             <article class="article text-md w-thin color-grey">
-                                <p>За підтримки Lev Development проходитиме цьогорічний Union Run – сімейний забіг у Шевченківському гаю.</p>
+                                <p>За підтримки Evil Lev проходитиме цьогорічний Union Run – сімейний забіг у Шевченківському гаю.</p>
 <p>Відбудеться забіг аж у жовтні. А от реєстрація на подію стартувала вже.</p>
 <p>Тож не вагайтеся і реєструйтеся. Разом із порцією оздоровлення отримаєте ще й приємні призи та нові враження.</p>
     <iframe data-src="https://www.youtube.com/embed/dWga2k142Zo"></iframe>
@@ -468,8 +468,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

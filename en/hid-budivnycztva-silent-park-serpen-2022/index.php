@@ -60,24 +60,24 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>SILENT PARK CONSTRUCTION PROGRESS - August 2022[:] - LEV Development</title>
+	<title>SILENT PARK CONSTRUCTION PROGRESS - August 2022[:] - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="SILENT PARK CONSTRUCTION PROGRESS - August 2022"/>
 	<meta property="og:url" content="https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:published_time" content="2022-08-31T09:59:53+00:00"/>
 	<meta property="article:modified_time" content="2022-09-02T09:03:13+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2021/10/1-3-scaled.jpg"/>
 	<meta property="og:image:width" content="2560"/>
 	<meta property="og:image:height" content="1707"/>
 	<meta property="og:image:type" content="image/jpeg"/>
-	<meta name="author" content="lev-development"/>
+	<meta name="author" content="evil-lev"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:label1" content="Written by"/>
-	<meta name="twitter:data1" content="lev-development"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/","url":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/","name":"[:uk]Хід будівництва ЖК SILENT PARK – Серпень 2022[:en]SILENT PARK CONSTRUCTION PROGRESS - August 2022[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/#primaryimage"},"image":{"@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/10/1-3-scaled.jpg","datePublished":"2022-08-31T09:59:53+00:00","dateModified":"2022-09-02T09:03:13+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/10/1-3-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/10/1-3-scaled.jpg","width":2560,"height":1707,"caption":"[:uk]default[:]"},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Хід будівництва ЖК SILENT PARK – Серпень 2022"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"lev-development","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"lev-development"}}]}</script>
+	<meta name="twitter:data1" content="evil-lev"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/","url":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/","name":"[:uk]Хід будівництва ЖК SILENT PARK – Серпень 2022[:en]SILENT PARK CONSTRUCTION PROGRESS - August 2022[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/#primaryimage"},"image":{"@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/10/1-3-scaled.jpg","datePublished":"2022-08-31T09:59:53+00:00","dateModified":"2022-09-02T09:03:13+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/10/1-3-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/10/1-3-scaled.jpg","width":2560,"height":1707,"caption":"[:uk]default[:]"},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Хід будівництва ЖК SILENT PARK – Серпень 2022"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"evil-lev","image":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"evil-lev"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -86,7 +86,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/hid-budivnycztva-silent-park-serpen-2022/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/hid-budivnycztva-silent-park-serpen-2022/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="SILENT PARK CONSTRUCTION PROGRESS &#8211; August 2022"><meta property="og:url" content="https://evil-lev.tech/en/hid-budivnycztva-silent-park-serpen-2022/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/10/1-3-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="SILENT PARK CONSTRUCTION PROGRESS &#8211; August 2022"><meta property="og:url" content="https://evil-lev.tech/en/hid-budivnycztva-silent-park-serpen-2022/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/10/1-3-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -380,7 +380,7 @@
                     <div class="col-lg-10 offset-lg-2 fade-anime">
                         <div class="blog-detail-layout">
                             <div class="prev-next">
-                                                                    <a class="btn btn-lg prev" href="https://evil-lev.tech/en/nezalezhni-znyzhky-vid-lev-development/"><span>previous news<span class="ar"></span></span></a>
+                                                                    <a class="btn btn-lg prev" href="https://evil-lev.tech/en/nezalezhni-znyzhky-vid-evil-lev/"><span>previous news<span class="ar"></span></span></a>
                                                                                                     <a class="btn btn-lg next" href="https://evil-lev.tech/en/hid-budivnycztva-zhk-arthouse-park-serpen-2022/"><span>the next news<span class="ar"></span></span></a>
                                                             </div>
                         </div>
@@ -536,8 +536,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

@@ -60,21 +60,21 @@
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>≡ LEV RESORT HOTEL ᐈ Апартаменти бізнес-класу у готелі в Буковелі</title>
-	<meta name="description" content="LEV RESORT HOTEL (ЛЕВ Резорт Хотел) від LEV Development - мережевий готель, розташований біля ТК Буковель з можливістю придбання номерів у приватну власність."/>
+	<meta name="description" content="LEV RESORT HOTEL (ЛЕВ Резорт Хотел) від Evil Lev - мережевий готель, розташований біля ТК Буковель з можливістю придбання номерів у приватну власність."/>
 	<link rel="canonical" href="https://evil-lev.tech/en/lev-resort-hotel/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="≡ LEV RESORT HOTEL ᐈ Апартаменти бізнес-класу у готелі в Буковелі"/>
-	<meta property="og:description" content="LEV RESORT HOTEL (ЛЕВ Резорт Хотел) від LEV Development - мережевий готель, розташований біля ТК Буковель з можливістю придбання номерів у приватну власність."/>
+	<meta property="og:description" content="LEV RESORT HOTEL (ЛЕВ Резорт Хотел) від Evil Lev - мережевий готель, розташований біля ТК Буковель з можливістю придбання номерів у приватну власність."/>
 	<meta property="og:url" content="https://evil-lev.tech/en/lev-resort-hotel/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-03-18T11:22:36+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2021/09/img_2918-1.jpeg"/>
 	<meta property="og:image:width" content="976"/>
 	<meta property="og:image:height" content="1350"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/lev-resort-hotel/","url":"https://evil-lev.tech/en/lev-resort-hotel/","name":"≡ LEV RESORT HOTEL ᐈ Апартаменти бізнес-класу у готелі в Буковелі","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/lev-resort-hotel/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/lev-resort-hotel/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/09/img_2918-1.jpeg","datePublished":"2019-11-27T10:39:59+00:00","dateModified":"2024-03-18T11:22:36+00:00","description":"LEV RESORT HOTEL (ЛЕВ Резорт Хотел) від LEV Development - мережевий готель, розташований біля ТК Буковель з можливістю придбання номерів у приватну власність.","breadcrumb":{"@id":"https://evil-lev.tech/en/lev-resort-hotel/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/lev-resort-hotel/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/en/lev-resort-hotel/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/09/img_2918-1.jpeg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/09/img_2918-1.jpeg","width":976,"height":1350},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/lev-resort-hotel/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"LEV RESORT HOTEL"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/lev-resort-hotel/","url":"https://evil-lev.tech/en/lev-resort-hotel/","name":"≡ LEV RESORT HOTEL ᐈ Апартаменти бізнес-класу у готелі в Буковелі","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/lev-resort-hotel/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/lev-resort-hotel/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/09/img_2918-1.jpeg","datePublished":"2019-11-27T10:39:59+00:00","dateModified":"2024-03-18T11:22:36+00:00","description":"LEV RESORT HOTEL (ЛЕВ Резорт Хотел) від Evil Lev - мережевий готель, розташований біля ТК Буковель з можливістю придбання номерів у приватну власність.","breadcrumb":{"@id":"https://evil-lev.tech/en/lev-resort-hotel/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/lev-resort-hotel/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/en/lev-resort-hotel/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/09/img_2918-1.jpeg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/09/img_2918-1.jpeg","width":976,"height":1350},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/lev-resort-hotel/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"LEV RESORT HOTEL"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -1552,8 +1552,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

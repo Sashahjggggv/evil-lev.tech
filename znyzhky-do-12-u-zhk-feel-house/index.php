@@ -59,24 +59,24 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Знижки до 12% у ЖК FEEL HOUSE - Январь 2022[:] - LEV Development</title>
+	<title>Знижки до 12% у ЖК FEEL HOUSE - Январь 2022[:] - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="10% знижки на квартири у ЖК FEEL HOUSE"/>
 	<meta property="og:url" content="https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:published_time" content="2024-02-15T11:49:22+00:00"/>
 	<meta property="article:modified_time" content="2024-02-20T08:07:50+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2021/06/02jpeg-scaled.jpg"/>
 	<meta property="og:image:width" content="2560"/>
 	<meta property="og:image:height" content="1440"/>
 	<meta property="og:image:type" content="image/jpeg"/>
-	<meta name="author" content="lev-development"/>
+	<meta name="author" content="evil-lev"/>
 	<meta name="twitter:card" content="summary_large_image"/>
 	<meta name="twitter:label1" content="Написано"/>
-	<meta name="twitter:data1" content="lev-development"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/","url":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/","name":"[:uk]Знижки до 12% у ЖК FEEL HOUSE[:en]DISCOUNTS UP TO 12% IN FEEL HOUSE[:ru]Ход строительства ЖК FEEL HOUSE - Январь 2022[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/#primaryimage"},"image":{"@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/06/02jpeg-scaled.jpg","datePublished":"2024-02-15T11:49:22+00:00","dateModified":"2024-02-20T08:07:50+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/06/02jpeg-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/06/02jpeg-scaled.jpg","width":2560,"height":1440},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Знижки до 12% у ЖК FEEL HOUSE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"lev-development","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"lev-development"}}]}</script>
+	<meta name="twitter:data1" content="evil-lev"/>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/","url":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/","name":"[:uk]Знижки до 12% у ЖК FEEL HOUSE[:en]DISCOUNTS UP TO 12% IN FEEL HOUSE[:ru]Ход строительства ЖК FEEL HOUSE - Январь 2022[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/#primaryimage"},"image":{"@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/06/02jpeg-scaled.jpg","datePublished":"2024-02-15T11:49:22+00:00","dateModified":"2024-02-20T08:07:50+00:00","author":{"@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895"},"breadcrumb":{"@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/06/02jpeg-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/06/02jpeg-scaled.jpg","width":2560,"height":1440},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Новини","item":"https://evil-lev.tech/novyny/"},{"@type":"ListItem","position":3,"name":"Знижки до 12% у ЖК FEEL HOUSE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"},{"@type":"Person","@id":"https://evil-lev.tech/#/schema/person/e4a1717012c59d69b41497187190b895","name":"evil-lev","image":{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/3d2b860c47b31a62b79960923d51d651?s=96&d=mm&r=g","caption":"evil-lev"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -85,7 +85,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/znyzhky-do-12-u-zhk-feel-house/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="Знижки до 12% у ЖК FEEL HOUSE"><meta property="og:url" content="https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/06/02jpeg-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="Знижки до 12% у ЖК FEEL HOUSE"><meta property="og:url" content="https://evil-lev.tech/znyzhky-do-12-u-zhk-feel-house/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2021/06/02jpeg-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -300,7 +300,7 @@
                             <article class="article text-md w-thin color-grey">
                                 <p>Купувати разом завжди вигідніше ✨</p>
 <p>Лише <strong>до 15 березня</strong> при купівлі <strong>квартири з паркомісцем</strong>, ви отримуєте <strong>-10%</strong> на квартиру та <strong>-12%</strong> на паркінг.</p>
-<p>Залишатися в ритмі великого міста і бути поруч з природою — реально. <a href="https://evil-lev.tech/complex/zhk-feel-house/"><strong>FEEL HOUSE</strong></a> — особливий житловий комплекс бізнес-класу від <strong>LEV Development</strong>. Це авторський проєкт Майстерні Бєляєвих, концептуальний, з характером.</p>
+<p>Залишатися в ритмі великого міста і бути поруч з природою — реально. <a href="https://evil-lev.tech/complex/zhk-feel-house/"><strong>FEEL HOUSE</strong></a> — особливий житловий комплекс бізнес-класу від <strong>Evil Lev</strong>. Це авторський проєкт Майстерні Бєляєвих, концептуальний, з характером.</p>
 <p>Часто наші клієнти називають його «місцем сили»:<br/>
 🌱 Мала поверховість, що дозволяє насолоджуватися «вільним простором»;<br/>
 🌱 Розташований в унікальній екосистемі з 2 озерами для відпочинку;<br/>
@@ -475,8 +475,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

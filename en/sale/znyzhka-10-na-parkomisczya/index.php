@@ -59,20 +59,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>10% DISCOUNT ON PARKING SPACES - LEV Development</title>
+	<title>10% DISCOUNT ON PARKING SPACES - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="10% DISCOUNT ON PARKING SPACES"/>
 	<meta property="og:url" content="https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-02-07T17:56:33+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg"/>
 	<meta property="og:image:width" content="2560"/>
 	<meta property="og:image:height" content="1709"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/","url":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/","name":"[:uk]Знижка -10% на паркомісця[:en]10% DISCOUNT ON PARKING SPACES[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","datePublished":"2024-02-07T17:56:15+00:00","dateModified":"2024-02-07T17:56:33+00:00","breadcrumb":{"@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","width":2560,"height":1709},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Акція","item":"https://evil-lev.tech/sale/"},{"@type":"ListItem","position":3,"name":"10% DISCOUNT ON PARKING SPACES"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/","url":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/","name":"[:uk]Знижка -10% на паркомісця[:en]10% DISCOUNT ON PARKING SPACES[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/#primaryimage"},"image":{"@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","datePublished":"2024-02-07T17:56:15+00:00","dateModified":"2024-02-07T17:56:33+00:00","breadcrumb":{"@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg","width":2560,"height":1709},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Акція","item":"https://evil-lev.tech/sale/"},{"@type":"ListItem","position":3,"name":"10% DISCOUNT ON PARKING SPACES"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -81,7 +81,7 @@
 <link rel="alternate" hreflang="x-default" href="https://evil-lev.tech/sale/znyzhka-10-na-parkomisczya/"/>
 <link rel="alternate" hreflang="uk" href="https://evil-lev.tech/sale/znyzhka-10-na-parkomisczya/"/>
 <link rel="alternate" hreflang="en-gb" href="https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/"/>
-<meta property="og:site_name" content="LEV Development"><meta property="og:title" content="10% DISCOUNT ON PARKING SPACES"><meta property="og:url" content="https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
+<meta property="og:site_name" content="Evil Lev"><meta property="og:title" content="10% DISCOUNT ON PARKING SPACES"><meta property="og:url" content="https://evil-lev.tech/en/sale/znyzhka-10-na-parkomisczya/"><meta property="og:image" content="https://evil-lev.tech/wp-content/uploads/2022/01/troy-t-yogzqqqwzp0-unsplash2-scaled.jpg"><link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="32x32"/>
 <link rel="icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg" sizes="192x192"/>
 <link rel="apple-touch-icon" href="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
 <meta name="msapplication-TileImage" content="https://evil-lev.tech/wp-content/uploads/2021/12/favicon.svg"/>
@@ -292,7 +292,7 @@
                     <div class="col-lg-10 order-1 order-lg-2">
                         <div class="blog-detail">
                             <article class="article text-md w-thin color-grey">
-                                <p><strong>The LEV Development</strong> team promotes people-centricity. Our main priority is comfort and satisfaction within our complexes, so we pay attention to every little thing.</p>
+                                <p><strong>The Evil Lev</strong> team promotes people-centricity. Our main priority is comfort and satisfaction within our complexes, so we pay attention to every little thing.</p>
 <p>The comfort of living consists of many details. Do you know what the beauty of simple things is? They adapt natively to our life, are imperceptible at first glance, but give a feeling of extreme lightness and convenience.</p>
 <p>For example, underground parking on the territory. Useful and functional space: a few minutes for maneuvers &#8211; and you are already riding the elevator to your floor to spend the rest of the day in the comfort of your home.</p>
 <p>Such a simple thing significantly increases the standard of living. Moreover, time is the most valuable resource and you will not have to spend it searching for a free and available parking space. According to statistics, the presence of underground parking saves residents up to 30 minutes a day.</p>
@@ -462,8 +462,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

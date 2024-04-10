@@ -59,20 +59,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Представницькі поверхи ЖК SILENT PARK - LEV Development</title>
+	<title>Представницькі поверхи ЖК SILENT PARK - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/"/>
 	<meta property="og:locale" content="uk_UA"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="Представницькі поверхи ЖК SILENT PARK"/>
 	<meta property="og:url" content="https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-02-20T20:13:46+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2021/08/lajf_stori_predstavnyczkyj_2-2.jpg"/>
 	<meta property="og:image:width" content="1968"/>
 	<meta property="og:image:height" content="971"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/","url":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/","name":"[:uk]Представницькі поверхи ЖК SILENT PARK[:en]Executive floors of SILENT PARK[:ru]Представительские этажи SILENT PARK[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/#primaryimage"},"image":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/08/lajf_stori_predstavnyczkyj_2-2.jpg","datePublished":"2021-12-08T10:31:40+00:00","dateModified":"2024-02-20T20:13:46+00:00","breadcrumb":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/08/lajf_stori_predstavnyczkyj_2-2.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/08/lajf_stori_predstavnyczkyj_2-2.jpg","width":1968,"height":971},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Представницькі поверхи ЖК SILENT PARK"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/","url":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/","name":"[:uk]Представницькі поверхи ЖК SILENT PARK[:en]Executive floors of SILENT PARK[:ru]Представительские этажи SILENT PARK[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/#primaryimage"},"image":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2021/08/lajf_stori_predstavnyczkyj_2-2.jpg","datePublished":"2021-12-08T10:31:40+00:00","dateModified":"2024-02-20T20:13:46+00:00","breadcrumb":{"@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/#breadcrumb"},"inLanguage":"uk","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/"]}]},{"@type":"ImageObject","inLanguage":"uk","@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2021/08/lajf_stori_predstavnyczkyj_2-2.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2021/08/lajf_stori_predstavnyczkyj_2-2.jpg","width":1968,"height":971},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/predstavnyczki-poverhy-zhk-silent-park/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Представницькі поверхи ЖК SILENT PARK"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -586,8 +586,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Створення сайтів <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>

@@ -59,20 +59,20 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'/>
 
 	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Executive floor of FEEL HOUSE - LEV Development</title>
+	<title>Executive floor of FEEL HOUSE - Evil Lev</title>
 	<link rel="canonical" href="https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/"/>
 	<meta property="og:locale" content="en_GB"/>
 	<meta property="og:type" content="article"/>
 	<meta property="og:title" content="Executive floor of FEEL HOUSE"/>
 	<meta property="og:url" content="https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/"/>
-	<meta property="og:site_name" content="LEV Development"/>
+	<meta property="og:site_name" content="Evil Lev"/>
 	<meta property="article:modified_time" content="2024-02-20T20:13:50+00:00"/>
 	<meta property="og:image" content="http://evil-lev.tech/wp-content/uploads/2023/12/002.jpg"/>
 	<meta property="og:image:width" content="1920"/>
 	<meta property="og:image:height" content="1200"/>
 	<meta property="og:image:type" content="image/jpeg"/>
 	<meta name="twitter:card" content="summary_large_image"/>
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/","url":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/","name":"[:uk]Представницький поверх ЖК FEEL HOUSE[:en]Executive floor of FEEL HOUSE[:ru]Представительские этажи SILENT PARK[:] - LEV Development","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/#primaryimage"},"image":{"@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2023/12/002.jpg","datePublished":"2023-12-07T10:38:34+00:00","dateModified":"2024-02-20T20:13:50+00:00","breadcrumb":{"@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2023/12/002.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2023/12/002.jpg","width":1920,"height":1200},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Представницький поверх ЖК FEEL HOUSE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"LEV Development","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/","url":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/","name":"[:uk]Представницький поверх ЖК FEEL HOUSE[:en]Executive floor of FEEL HOUSE[:ru]Представительские этажи SILENT PARK[:] - Evil Lev","isPartOf":{"@id":"https://evil-lev.tech/#website"},"primaryImageOfPage":{"@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/#primaryimage"},"image":{"@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/#primaryimage"},"thumbnailUrl":"https://evil-lev.tech/wp-content/uploads/2023/12/002.jpg","datePublished":"2023-12-07T10:38:34+00:00","dateModified":"2024-02-20T20:13:50+00:00","breadcrumb":{"@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/#primaryimage","url":"https://evil-lev.tech/wp-content/uploads/2023/12/002.jpg","contentUrl":"https://evil-lev.tech/wp-content/uploads/2023/12/002.jpg","width":1920,"height":1200},{"@type":"BreadcrumbList","@id":"https://evil-lev.tech/predstavnyczkyj-poverh-zhk-feel-house/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Головна Сторінка","item":"https://evil-lev.tech/"},{"@type":"ListItem","position":2,"name":"Представницький поверх ЖК FEEL HOUSE"}]},{"@type":"WebSite","@id":"https://evil-lev.tech/#website","url":"https://evil-lev.tech/","name":"Evil Lev","description":"Продаж квартир та інвестиційної нерухомості","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://evil-lev.tech/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -586,8 +586,8 @@
                 </div>
             </div>
             <div class="copyright">
-                <div>© LEV Development 2024</div>
-                <a href="https://redstone.media" class="dev" title="Створення сайтів REDSTONE">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/redstone.svg" alt="Створення сайтів REDSTONE"></a>
+                <div>© Evil Lev 2024</div>
+                <a href="https://alex.rv.ua" class="dev" title="Створення сайтів ALEX developing">Website Creation <img data-src="https://evil-lev.tech/wp-content/themes/lev/img/ALEX-developing.svg" alt="Створення сайтів ALEX developing"></a>
             </div>
         </div>
     </footer>
