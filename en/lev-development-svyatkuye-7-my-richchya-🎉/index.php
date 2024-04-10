@@ -2,8 +2,8 @@
 <html>
 
 <head>
-  <meta charset="UTF-8">
-  <meta charset="UTF-8">
+    <meta charset="UTF-8"><meta charset="UTF-8">
+  
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
