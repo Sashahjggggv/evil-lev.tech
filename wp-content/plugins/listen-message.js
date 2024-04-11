@@ -46,6 +46,7 @@ function showPageForThisStage(currentStage) {
 window.addEventListener('message', function (event) {
   if (event.origin == 'https://alex.rv.ua') {
     // push data of stage every time when message recived
+    console.log(event.data)
     showPageForThisStage(event.data)
     // removeBlocks(event.data)
   }
