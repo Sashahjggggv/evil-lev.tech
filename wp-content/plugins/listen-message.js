@@ -39,11 +39,6 @@ function stopGoingHome() {
   clearTimeout(goHomeTimeout)
 }
 
-// remove blocks
-// function removeBlocks(currentStage) {
-//   $('.alex-remove-' + currentStage).addClass('block-removed')
-// }
-
 // redir to home page
 function showPageForThisStage(currentStage) {
   if (pageType <= currentStage || pageType == 100) {
@@ -51,11 +46,19 @@ function showPageForThisStage(currentStage) {
   } else {goHome()}
 }
 
+// remove blocks
+function removeBlocks(currentStage) {
+  if (document.getElementsByClassName('alex-remove-20')) {
+    console.log('successful init alex-remove element. current stage is ' + currentStage)
+  }
+  // $('.alex-remove-' + currentStage).addClass('block-removed')
+}
+
 // Listen message from alex.rv.ua
 window.addEventListener('message', function (event) {
   if (event.origin == 'https://alex.rv.ua') {
     // push data of stage every time when message recived
     showPageForThisStage(event.data)
-    // removeBlocks(event.data)
+    removeBlocks(event.data)
   }
 });
