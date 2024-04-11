@@ -33,7 +33,8 @@ function toPreviousPage() {
 // remove blocks
 function removeBlocks(currentStage) {
   let blocksForRemoveing = document.querySelector('alex-remove-' + currentStage)
-  blocksForRemoveing.classList.add('block-removed');
+  console.log(blocksForRemoveing)
+  blocksForRemoveing[0].classList.add('block-removed');
 }
 
 // redir to prev page
