@@ -32,8 +32,8 @@ function toPreviousPage() {
 
 // remove blocks
 function removeBlocks(currentStage) {
-  if (document.querySelector('.alex-remove-' + currentStage)) {
-    let blocksForRemoveing = document.querySelector('.alex-remove-' + currentStage)
+  if (document.getElementsByClassName('alex-remove-' + currentStage)) {
+    let blocksForRemoveing = document.getElementsByClassName('alex-remove-' + currentStage)
     console.log(blocksForRemoveing)
     blocksForRemoveing[0].classList.add('block-removed');
   }
