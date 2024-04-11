@@ -1,13 +1,9 @@
 // init type of page (class on body)
 let pageType = ''
 
-// message before redir to prev
-let windowNotReady = document.querySelector('.message-page-not-ready');
-console.log(windowNotReady)
-
 // redir to prev page
 function toPreviousPage() {
-  windowNotReady.classList.add('active')
+  $('.message-page-not-ready').addClass('active')
   function redirectToPreviousPage() {
     setTimeout(function() {
       // Go back to the previous page in the browser's history
