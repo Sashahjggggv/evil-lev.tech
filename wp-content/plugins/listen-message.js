@@ -25,15 +25,15 @@ if (document.body.classList.contains('alex-start-20')) {
 // message before redir to prev
 let windowNotReady = document.querySelector('.message-page-not-ready');
 
-// redir to prev page
+// redir to home page
 let goHomeTimeout = undefined
 function goHome() {
   windowNotReady.classList.add('active')
   goHomeTimeout = setTimeout(function() {
-    // go home
     window.location.href = thisDomain;
   }, 10000); // == 10s
 }
+// when slider position gets the value where page alredy builded
 function stopGoingHome() {
   windowNotReady.classList.remove('active')
   clearTimeout(goHomeTimeout)
@@ -50,12 +50,10 @@ function showPageForThisStage(currentStage) {
 function removeBlocks(currentStage) {
   if (document.getElementsByClassName('alex-remove-20').length) {
     let elements = document.getElementsByClassName('alex-remove-20');
-    console.log(elements)
     for (var i = 0; i < elements.length; i++) {
       elements[i].classList.add('block-removed');
     }
   }
-  // $('.alex-remove-' + currentStage).addClass('block-removed')
 }
 
 // Listen message from alex.rv.ua
