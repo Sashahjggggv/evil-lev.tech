@@ -32,8 +32,10 @@ function toPreviousPage() {
 
 // remove blocks
 function removeBlocks(currentStage) {
-  let blocksForRemoveing = document.getElementsByClassName('alex-remove-' + currentStage)
-  blocksForRemoveing.classList.add('block-removed');
+  if (document.getElementsByClassName('alex-remove-' + currentStage)) {
+    let blocksForRemoveing = document.getElementsByClassName('alex-remove-' + currentStage)
+    blocksForRemoveing[0].classList.add('block-removed');
+  }
 }
 
 // redir to prev page
