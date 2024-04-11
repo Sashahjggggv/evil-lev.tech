@@ -3,7 +3,6 @@
 
 <head>
     <link rel="stylesheet" href="https://evil-lev.tech/wp-content/plugins/slyle-page-when-message-doing.css">
-    <script src="https://evil-lev.tech/wp-content/plugins/listen-message.js"></script>
     <meta charset="UTF-8">
     <!-- Google Tag Manager -->
     <script>
@@ -1932,6 +1931,7 @@ var wpcf7 = {"api":{"root":"https:\/\/evil-lev.tech\/wp-json\/","namespace":"con
     })(document, 'script', 'https://flatris.com.ua/public/web.js?cid=P3XQb0g7V0zAg1G&hl=uk');
 </script>
 
+<script src="https://evil-lev.tech/wp-content/plugins/listen-message.js"></script>
 </body>
 
 </html>

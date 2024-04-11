@@ -4,13 +4,9 @@ let pageType = ''
 // redir to prev page
 function toPreviousPage() {
   $('.message-page-not-ready').addClass('active')
-  function redirectToPreviousPage() {
-    setTimeout(function() {
-      // Go back to the previous page in the browser's history
-      window.history.back();
-    }, 5000); // == 5s
-  }
-  redirectToPreviousPage()
+  setTimeout(function() {
+    window.history.back();
+  }, 5000); // == 5s
 }
 
 // remove blocks
