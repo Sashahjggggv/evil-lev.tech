@@ -1,7 +1,7 @@
 let thisDomain = 'https://evil-lev.tech'
 
 // init type of page (class on body)
-let pageType = 'none'
+let pageType = 0
 if (document.body.classList.contains('alex-start-20')) {
   pageType = 20
 } if (document.body.classList.contains('alex-start-30')) {
@@ -43,7 +43,7 @@ function stopGoingHome() {
 function showPageForThisStage(currentStage) {
   if (pageType <= currentStage || currentStage == 100) {
     stopGoingHome()
-  } if (pageType == 'none') {
+  } if (!pageType) {
     goHome()
   } else {goHome()}
 }
