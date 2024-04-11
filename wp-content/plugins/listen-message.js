@@ -26,12 +26,17 @@ if (document.body.classList.contains('alex-start-20')) {
 let windowNotReady = document.querySelector('.message-page-not-ready');
 
 // redir to prev page
+let goHomeTimeout = undefined
 function goHome() {
   windowNotReady.classList.add('active')
-  setTimeout(function() {
+  goHomeTimeout = setTimeout(function() {
     // go home
     window.location.href = thisDomain;
   }, 10000); // == 10s
+}
+function stopGoingHome() {
+  windowNotReady.classList.remove('active')
+  clearTimeout(goHomeTimeout)
 }
 
 // remove blocks
@@ -42,6 +47,7 @@ function goHome() {
 // redir to home page
 function showPageForThisStage(currentStage) {
   if (pageType <= currentStage || pageType == 100) {
+    stopGoingHome()
   } else {goHome()}
 }
 
