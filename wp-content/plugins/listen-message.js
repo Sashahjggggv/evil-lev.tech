@@ -37,13 +37,9 @@ function toPreviousPage() {
 
 // redir to prev page
 function showPageForThisStage(currentStage) {
-  let showForStageOf = 'alex-start-'
-  if (pageType == showForStageOf + '20') {
+  if (pageType == 'alex-start-' + currentStage) {
     console.log(20)
   }
-  // if (pageType !== showForStageOf + currentStage || pageType !== '100') {
-  //   toPreviousPage()
-  // }
 }
 
 // Listen message from alex.rv.ua
