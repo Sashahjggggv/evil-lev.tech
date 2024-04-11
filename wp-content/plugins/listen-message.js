@@ -43,8 +43,6 @@ function stopGoingHome() {
 function showPageForThisStage(currentStage) {
   if (pageType <= currentStage || currentStage == 100) {
     stopGoingHome()
-  } if (!pageType) {
-    goHome()
   } else {goHome()}
 }
 
