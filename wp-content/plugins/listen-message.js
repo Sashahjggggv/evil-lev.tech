@@ -1,12 +1,19 @@
 // init type of page (class on body)
 let pageType = ''
 
+// message before redir to prev
+let windowNotReady = document.querySelector('.message-page-not-ready');
+
 // redir to prev page
 function toPreviousPage() {
-  $('.message-page-not-ready').addClass('active')
-  setTimeout(function() {
-    window.history.back();
-  }, 5000); // == 5s
+  windowNotReady.classList.add('active')
+  function redirectToPreviousPage() {
+    setTimeout(function() {
+      // Go back to the previous page in the browser's history
+      window.history.back();
+    }, 5000); // == 5s
+  }
+  redirectToPreviousPage()
 }
 
 // remove blocks
@@ -25,11 +32,10 @@ function showPageForThisStage(currentStage) {
 
 // Listen message from alex.rv.ua
 window.addEventListener('message', function (event) {
-  console.log('eveln.origin is ' + event.origin)
   if (event.origin == 'https://alex.rv.ua') {
     // push data of stage every time when message recived
+    console.log(event.data + ' - message from alex.rv.ua')
     showPageForThisStage(event.data)
     removeBlocks(event.data)
-    console.log(event.data + ' - message from alex.rv.ua')
   }
 });
