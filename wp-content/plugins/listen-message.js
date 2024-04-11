@@ -49,7 +49,11 @@ function showPageForThisStage(currentStage) {
 // remove blocks
 function removeBlocks(currentStage) {
   if (document.getElementsByClassName('alex-remove-20').length) {
-    document.getElementsByClassName('alex-remove-20').classList.add("block-removed"))
+    let elements = document.getElementsByClassName('alex-remove-20');
+    console.log(elements)
+    for (var i = 0; i < elements.length; i++) {
+      elements[i].classList.add('block-removed');
+    }
   }
   // $('.alex-remove-' + currentStage).addClass('block-removed')
 }
