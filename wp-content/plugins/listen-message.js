@@ -39,14 +39,13 @@ function toPreviousPage() {
 function showPageForThisStage(currentStage) {
   if (pageType <= currentStage) {
     console.log('page viewed')
-  } else {console.log('page redirect to main')}
+  } else {window.location.href = thisDomain}
 }
 
 // Listen message from alex.rv.ua
 window.addEventListener('message', function (event) {
   if (event.origin == 'https://alex.rv.ua') {
     // push data of stage every time when message recived
-    console.dir(event.data)
     showPageForThisStage(event.data)
     // removeBlocks(event.data)
   }
