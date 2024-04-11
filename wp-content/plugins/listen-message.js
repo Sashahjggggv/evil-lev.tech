@@ -2,22 +2,20 @@
 let pageType = ''
 if (document.body.classList.contains('alex-start-20')) {
   pageType = 'alex-start-20'
-} if (document.body.classList.contains('alex-start-20')) {
+} if (document.body.classList.contains('alex-start-30')) {
   pageType = 'alex-start-30'
-} if (document.body.classList.contains('alex-start-20')) {
+} if (document.body.classList.contains('alex-start-40')) {
   pageType = 'alex-start-40'
-} if (document.body.classList.contains('alex-start-20')) {
+} if (document.body.classList.contains('alex-start-50')) {
   pageType = 'alex-start-50'
-} if (document.body.classList.contains('alex-start-20')) {
+} if (document.body.classList.contains('alex-start-60')) {
   pageType = 'alex-start-60'
-} if (document.body.classList.contains('alex-start-20')) {
+} if (document.body.classList.contains('alex-start-70')) {
   pageType = 'alex-start-70'
-} if (document.body.classList.contains('alex-start-20')) {
+} if (document.body.classList.contains('alex-start-80')) {
   pageType = 'alex-start-80'
-} if (document.body.classList.contains('alex-start-20')) {
+} if (document.body.classList.contains('alex-start-90')) {
   pageType = 'alex-start-90'
-} if (document.body.classList.contains('alex-start-20')) {
-  pageType = 'alex-start-100'
 }
 
 // message before redir to prev
@@ -41,8 +39,8 @@ function removeBlocks(currentStage) {
 // redir to prev page
 function showPageForThisStage(currentStage) {
   let showForStageOf = 'alex-start-'
-  if (pageType == showForStageOf + currentStage) {
-  } else {
+  console.log(pageType)
+  if (pageType !== showForStageOf + currentStage || pageType !== '100') {
     toPreviousPage()
   }
 }
