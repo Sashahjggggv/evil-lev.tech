@@ -48,7 +48,7 @@ function showPageForThisStage(currentStage) {
 
 // remove blocks
 function removeBlocks(currentStage) {
-  if (document.getElementsByClassName('alex-remove-20')) {
+  if (document.getElementsByClassName('alex-remove-2000')) {
     console.log('successful init alex-remove element. current stage is ' + currentStage)
   }
   // $('.alex-remove-' + currentStage).addClass('block-removed')
