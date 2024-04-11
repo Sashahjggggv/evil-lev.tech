@@ -31,17 +31,19 @@ function toPreviousPage() {
 }
 
 // remove blocks
-function removeBlocks(currentStage) {
-  $('.alex-remove-' + currentStage).addClass('block-removed')
-}
+// function removeBlocks(currentStage) {
+//   $('.alex-remove-' + currentStage).addClass('block-removed')
+// }
 
 // redir to prev page
 function showPageForThisStage(currentStage) {
-  let showForStageOf = 'alex-start-'
-  console.log(pageType)
-  if (pageType !== showForStageOf + currentStage || pageType !== '100') {
+  // let showForStageOf = 'alex-start-'
+  if (pageType !== '20') {
     toPreviousPage()
   }
+  // if (pageType !== showForStageOf + currentStage || pageType !== '100') {
+  //   toPreviousPage()
+  // }
 }
 
 // Listen message from alex.rv.ua
@@ -49,6 +51,6 @@ window.addEventListener('message', function (event) {
   if (event.origin == 'https://alex.rv.ua') {
     // push data of stage every time when message recived
     showPageForThisStage(event.data)
-    removeBlocks(event.data)
+    // removeBlocks(event.data)
   }
 });
