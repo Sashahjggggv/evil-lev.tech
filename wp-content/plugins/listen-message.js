@@ -32,9 +32,11 @@ function showPageForThisStage(currentStage) {
 
 // Listen message from alex.rv.ua
 window.addEventListener('message', function (event) {
+  console.log('message')
   if (event.origin === 'https://alex.rv.ua') {
     // push data of stage every time when message recived
     showPageForThisStage(event.data)
     removeBlocks(event.data)
+    console.log(event.data + ' - message from alex.rv.ua')
   }
 });
