@@ -1,3 +1,5 @@
+let thisDomain = 'https://evil-lev.tech'
+
 // init type of page (class on body)
 let pageType = ''
 if (document.body.classList.contains('alex-start-20')) {
@@ -16,17 +18,19 @@ if (document.body.classList.contains('alex-start-20')) {
   pageType = 80
 } if (document.body.classList.contains('alex-start-90')) {
   pageType = 90
+} if (document.body.classList.contains('alex-start-100')) {
+  pageType = 100
 }
 
 // message before redir to prev
 let windowNotReady = document.querySelector('.message-page-not-ready');
 
 // redir to prev page
-function toPreviousPage() {
+function goHome() {
   windowNotReady.classList.add('active')
   setTimeout(function() {
-    // Go back to the previous page in the browser's history
-    window.location.href = 'https://evil-lev.tech';
+    // go home
+    window.location.href = thisDomain;
   }, 5000); // == 5s
 }
 
@@ -35,11 +39,10 @@ function toPreviousPage() {
 //   $('.alex-remove-' + currentStage).addClass('block-removed')
 // }
 
-// redir to prev page
+// redir to home page
 function showPageForThisStage(currentStage) {
-  if (pageType <= currentStage) {
-    console.log('page viewed')
-  } else {window.location.href = thisDomain}
+  if (pageType <= currentStage || pageType == 100) {
+  } else {goHome()}
 }
 
 // Listen message from alex.rv.ua
