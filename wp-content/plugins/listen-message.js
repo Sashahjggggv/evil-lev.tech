@@ -31,7 +31,7 @@ function goHome() {
   setTimeout(function() {
     // go home
     window.location.href = thisDomain;
-  }, 5000); // == 5s
+  }, 10000); // == 10s
 }
 
 // remove blocks
