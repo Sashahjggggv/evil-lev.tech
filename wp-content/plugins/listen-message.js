@@ -3,6 +3,7 @@ let pageType = ''
 
 // message before redir to prev
 let windowNotReady = document.querySelector('.message-page-not-ready');
+console.log(windowNotReady)
 
 // redir to prev page
 function toPreviousPage() {
