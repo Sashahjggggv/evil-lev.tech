@@ -38,8 +38,8 @@ function toPreviousPage() {
 // redir to prev page
 function showPageForThisStage(currentStage) {
   // let showForStageOf = 'alex-start-'
-  if (pageType !== '20') {
-    toPreviousPage()
+  if (pageType == '20') {
+    console.log(20)
   }
   // if (pageType !== showForStageOf + currentStage || pageType !== '100') {
   //   toPreviousPage()
