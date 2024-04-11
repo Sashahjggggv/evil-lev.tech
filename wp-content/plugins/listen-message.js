@@ -26,7 +26,7 @@ function toPreviousPage() {
   windowNotReady.classList.add('active')
   setTimeout(function() {
     // Go back to the previous page in the browser's history
-    window.history.back();
+    window.location.href = 'https://evil-lev.tech';
   }, 5000); // == 5s
 }
 
