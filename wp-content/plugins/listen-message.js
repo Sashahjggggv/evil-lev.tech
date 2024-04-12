@@ -36,6 +36,7 @@ function goHome() {
 // when slider position gets the value where page alredy builded
 function stopGoingHome() {
   windowNotReady.classList.remove('active')
+  goHomeTimeout
   clearTimeout(goHomeTimeout)
 }
 
