@@ -41,7 +41,7 @@ function stopGoingHome() {
 
 // redir to home page
 function showPageForThisStage(currentStage) {
-  if (pageType <= currentStage || currentStage == 100) {
+  if (pageType != 0 && pageType <= currentStage || currentStage == 100) {
     stopGoingHome()
   } else {goHome()}
 }
