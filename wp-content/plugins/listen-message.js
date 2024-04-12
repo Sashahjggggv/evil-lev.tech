@@ -48,7 +48,7 @@ function showPageForThisStage(currentStage) {
 
 // remove blocks
 function removeBlocks(currentStage) {
-  if (document.getElementsByClassName('alex-remove-' + currentStage).length) {
+  if (document.getElementsByClassName('alex-remove-' + currentStage.toString()).length) {
     let elements = document.getElementsByClassName('alex-remove-20');
     for (var i = 0; i < elements.length; i++) {
       elements[i].classList.add('block-removed');
