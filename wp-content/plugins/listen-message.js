@@ -53,6 +53,11 @@ function removeBlocks(currentStage) {
     for (var i = 0; i < elements.length; i++) {
       elements[i].classList.add('block-removed');
     }
+  } else {
+    let elements = document.getElementsByClassName('alex-remove');
+    for (var i = 0; i < elements.length; i++) {
+      elements[i].classList.remove('block-removed');
+    }
   }
 }
 
